@@ -1,0 +1,212 @@
+header.navbar {
+  $navigation-padding: 1em;
+  $navigation-background: $dark-gray;
+  $navigation-color: white;
+  $navigation-color-selected: $color-5;
+  $navigation-height: 60px;
+  $horizontal-bar-mode: $medium-screen;
+  $nav-fs: 1em;
+
+  background-color: $navigation-background;
+  border-bottom: 1px solid darken($navigation-background, 10);
+  font-family: $header-font-family;
+  font-size: $nav-fs;
+  font-weight: 700;
+  // height: $navigation-height;
+  // padding-right:1.5em;
+  // padding-top: 1em;
+  position: fixed;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+
+  // Anchor the nav bar on top after scrolling
+
+  &.index {
+    background-color: transparent;
+    border-bottom: none;
+    position: absolute;
+  }
+
+  @at-root .anchor {
+    padding-top: $navigation-height;
+  }
+
+
+  // Main Nav
+
+  .navigation-wrapper {
+    @include clearfix;
+    @include outer-container;
+    position: relative;
+    z-index: 100;
+  }
+
+  // Logo  
+
+  // .logo {
+  //   float: left;    
+  //   max-height: $navigation-height;
+  //   padding-left: $navigation-padding;
+  //   padding-right: 2em;
+
+  //   img {
+  //     max-height: $navigation-height;
+  //     padding: .8em 0;
+  //   }
+  // }
+
+  // Social links
+
+  .socio-links {
+    float: left;    
+    max-height: $navigation-height;
+    margin: 0 auto;
+    overflow: visible;
+    padding: 0;
+    padding-left: $navigation-padding;
+    display: inline;
+
+    li {
+      display: inline-block;
+      line-height: $navigation-height;
+      padding-right: 0.4em;
+      padding-left: 0.4em;
+      text-decoration: none;
+    }
+
+    li a {
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 1em;
+      height: 1.5em;
+      line-height: 1.5em;
+      width: 1.5em;
+      text-align: center;
+
+      @include icon-circ-hover($navigation-color,$navigation-background,$navigation-color-selected);
+    }
+
+    li:first-child a {
+      font-size: 1.5em;
+      @include icon-circ-hover($navigation-color-selected,$navigation-background,$navigation-color);
+    }
+
+    li a::after,li a::before {
+      // content: none;
+    }
+  }
+
+  // Mobile toggle button
+
+  .navigation-menu-button {
+    // positioning
+    display: inline-block;
+    line-height: $navigation-height/6*4+2;
+    float: right;
+    margin-top: $navigation-height/6-2;
+    margin-right: 0.2em;
+
+    // style
+    background-color: transparent;
+    border: none;
+    color: $navigation-color;
+    padding: 0 0.8em;
+    text-transform: uppercase;
+    // margin-right: 1.6em;
+
+    @include media ($horizontal-bar-mode) {
+      display: none;
+    }
+
+    &:focus,&:hover {
+      background-color: $navigation-color-selected;
+      color: $dark-gray;
+    }
+  }
+
+  // Nav menu
+
+  .nav {
+    float: none;
+    overflow-y: hidden;
+    max-height: 0;
+    width: 100%;
+    $trans-dur: 0.3s;
+    $trans-style: $ease-out-cubic;
+    @include transition(max-height $trans-dur $trans-style);
+    @include media ($horizontal-bar-mode) {
+      float: right;
+      max-height: 100%;
+      width: auto;
+    }
+
+
+    &.active {
+      display: block;
+      max-height: $navigation-height * 3;
+      @include transition(max-height $trans-dur $trans-style);
+    }
+  }
+
+  .nav > ul {    
+    -webkit-transform-style: preserve-3d; // stop webkit flicker
+    // clear: both;
+    // display: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    z-index: 9999;
+    @include media ($horizontal-bar-mode) {
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  
+  // The nav items
+  .nav > ul > li {
+    background: $navigation-background;
+    display: block;
+    line-height: $navigation-height;
+    text-align: center;
+    width: 100%;
+    // z-index: 9999;
+
+    @include media ($horizontal-bar-mode) {
+      background: transparent;
+      display: inline;
+    // overflow: hidden;
+      padding-right: .8em;
+      text-decoration: none;
+      width: auto;
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+
+    a {
+      border: none;
+      color: $navigation-color;
+      width: 100%;
+      display: inline-block;
+
+      @include media ($horizontal-bar-mode) {
+        display: inline;
+        padding: 0.8em;
+        border-radius: $base-border-radius;
+      }
+
+      &:hover,&:focus {
+        background: $navigation-color-selected;
+        color: $dark-gray;
+      }
+    }
+  }
+
+  .active-nav-item a {
+    border-bottom: 3px solid $navigation-color-selected;
+    padding-bottom: -3px;
+  }
+}

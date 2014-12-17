@@ -1,0 +1,21 @@
+<footer class="footer">
+  <div class="content">
+    <small class="copyright">©&nbsp;Soutenons&nbsp;Antoine&nbsp;・&nbsp;<%= link_to t('footer.credits'), i18n_path("/credits.html") %></small>
+
+
+    <ul class="socio-links">
+      <li><a href="mailto:<%= data.info.email %>?subject=<%= t('footer.contact')%>"><i class="fa fa-envelope"></i><span class="sr-only">Email</span></a></li
+      ><li><a href="//twitter.com/<%= data.info.twitter %>"><i class="fa fa-twttr"></i><span class="sr-only">Twitter</span></a></li
+      ><li><a href="//www.facebook.com/pages/<%= data.info.facebook %>"><i class="fa fa-fcbk"></i><span class="sr-only">Facebook</span></a></li
+      ><li><% link_to i18n_path("/feed.xml") do %>
+          <i class="fa fa-rss"></i>
+          <span class="sr-only">RSS</span>
+        <% end %></li>
+    </ul>
+
+    <ul class="smalltext">
+      <li><small><%= link_to t('footer.terms'), i18n_path("/legal.html") %></small></li
+      ><li><small><%= link_to t('footer.privacy'), i18n_path("/privacy.html") %></small></li>
+    </ul>
+  </div>
+</footer>

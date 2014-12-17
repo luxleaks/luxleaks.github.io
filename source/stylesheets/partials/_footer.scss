@@ -1,0 +1,93 @@
+.footer {
+  $footer-background: $base-background-color;
+  $footer-color: $dark-gray;
+  $footer-color-selected: $dark-gray;
+  $footer-link-color: transparentize($footer-color, .6);
+  $footer-disclaimer-color: transparentize($footer-color, .6);
+  $footer-font-size: 1em;
+  $footer-height: 3em;
+
+  background: $footer-background;
+  border-top: solid 1px $light-gray;
+  color: $footer-color;
+  line-height: $footer-height;
+  padding: 1em 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+  small {
+    font-size: 1em;
+  }
+
+  @include media($medium-screen) {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  @include outer-container;
+
+  // General props
+
+  ul {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    margin:0;
+  }
+
+  ul li {
+    display: inline;
+  }
+  
+  .copyright, .socio-links, .smalltext {
+    display: block;
+    font-size: 0.9em;
+    font-family: $header-font-family;
+    text-align: center;
+    @include media ($medium-screen) {
+      display: inline-block;
+      font-size: 0.8em;
+      @include span-columns(4); 
+    }
+    @include media ($large-screen) {
+      display: inline-block;
+      font-size: 1em;
+    }
+  }
+
+  .copyright {
+    @include media ($medium-screen) {
+      text-align: left;
+    }
+  }
+
+  .socio-links {
+    text-align: center;
+
+    li {
+      padding-right: 0.6em;
+      padding-left: 0.6em;
+      text-decoration: none;
+    }
+
+    li a {
+      display: inline-block;
+      font-size: $footer-font-size;
+      line-height: $footer-font-size*1.5;
+      height: $footer-font-size*1.5;
+      width: $footer-font-size*1.5;
+      @include icon-circ-hover($footer-color,$footer-background,$footer-color-selected);
+    }
+  }
+
+  .smalltext {
+    @include media ($medium-screen) {
+      text-align: right;
+    }
+
+    li+li::before {
+      content: '・\00a0'
+    }
+  }
+}

@@ -1,0 +1,38 @@
+<header id="navbar" class="navbar <%= 'index' if is_home? %>" role="banner">
+<div class="content">
+  <div class="navigation-wrapper">
+<!--   <div id="cookie-banner-message" align="center">Ce site utilise Google Analytics. En continuant à naviguer, vous nous autorisez à déposer un cookie à des fins de mesure d'audience. <a href="javascript:tagAnalyticsCNIL.CookieConsent.showInform()" style="text-decoration:underline;"> En savoir plus ou s'opposer</a>.</div>
+ -->
+    <ul class="lang-switch">
+      <li><% link_to switch_locale("fr") do %><span class="fr">FR</span><% end %>
+      <li><% link_to switch_locale("en") do %><span class="en">EN</span><% end %>
+    </ul>
+    <a href="#content" class="sr-only sr-only-focusable"><%= t('nav.skip')%></a>
+    <ul class="socio-links">
+      <li><% link_to i18n_path("/#") do %>
+        <i class="fa fa-home"></i>
+        <span class="sr-only"><%= t('nav.home')%></span>
+      <% end %></li
+      ><li><a href="//twitter.com/<%= data.info.twitter %>"><i class="fa fa-twttr"></i><span class="sr-only">Twitter</span></a></li
+      ><li><a href="//www.facebook.com/pages/<%= data.info.facebook %>"><i class="fa fa-fcbk"></i><span class="sr-only">Facebook</span></a></li
+      ><li><% link_to i18n_path("/feed.xml") do %>
+        <i class="fa fa-rss"></i>
+        <span class="sr-only">RSS</span>
+      <% end %></li>
+    </ul>
+
+    <button id="menu-button" class="navigation-menu-button" type="button" aria-controls="menu" aria-expanded="false">
+      <i class="fa fa-fw fa-bars" aria-hidden="true"></i> <%= t('nav.menu')%>
+    </button>
+
+    <nav id="menu" class="nav" role="navigation">
+      <ul id="navigation-menu">
+        <li class="nav-link"><%= link_to t('nav.case'), i18n_path("/index.html#luxleaks") %></li
+        ><li class="nav-link"><%= link_to t('nav.blog'), i18n_path('/blog.html') %></li
+        ><li class="nav-link"><%= link_to t('nav.support'), i18n_path('/index.html#support') %></li>
+      </ul>
+    </nav>
+
+  </div>
+</div>
+</header>

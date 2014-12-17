@@ -1,0 +1,40 @@
+// From http://tympanus.net/Development/IconHoverEffects/#set-2
+@mixin icon-circ-hover($color, $background, $selected) {
+  color: $background;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px $color;
+  padding: 0;
+  position: relative;
+  transition: color 0.3s;
+  z-index: 1;
+  &:before {
+    content: none;
+  }
+  &:after {
+    box-sizing: content-box;
+    content: '';
+    background: $color;
+    pointer-events: none;
+    border-radius: 50%;
+    position: absolute;
+    height: 100%;
+    opacity: 1;
+    width: 100%;
+    top: -2px;
+    left: -2px;
+    padding: 2px;
+    z-index: -1;
+    transform: none;
+    transition: transform 0.2s, opacity 0.2s;
+  }
+  &:hover:after, &:focus:after {
+    opacity: 0;
+    transform: scale(0);
+    transition: transform 0.4s, opacity 0.2s;
+  }
+  &:hover,&:focus {
+    color: $selected;
+    box-shadow: 0 0 0 3px $selected;
+  }
+
+}

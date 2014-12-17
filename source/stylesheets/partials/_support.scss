@@ -1,0 +1,101 @@
+#support {
+
+
+  background: $dark-gray;
+  color: white;
+  
+  .content {
+  padding-bottom: 60px;
+  padding-left: 1em;
+  padding-right: 1em; 
+  text-align: center;
+  display: table;
+  width: 100%;
+  min-height: 30em;
+    
+  }
+
+  .info {
+    display: block;
+    height: 100%;
+    @include media($large-screen) {
+      display: table-cell;
+      vertical-align: middle;
+      width: 60%;
+    }
+    @mixin home-button($home-button-color) {
+      background-color: $home-button-color;
+      // color: white;
+      color: $dark-gray;
+      border: 2px solid $home-button-color;
+      display: table;
+      font-weight: 700;
+      border-radius: $base-border-radius;
+      font-family: $header-font-family;
+      font-size: 1.5em;
+      min-width: 10em;
+      padding: 1em 1em;
+      margin: 2em auto 0;
+      text-transform: uppercase;
+      transition: color 0.3s;
+      transition: background-color 0.3s;
+
+      &:hover,&:focus {
+        background-color: transparentize($dark-gray,0.2);
+        color: $home-button-color;
+      }
+    }
+    a>i {
+      margin-left: 1em;
+    }
+    a {
+      @include home-button($color-5);
+    }
+  }
+  .share {
+    height: 100%;
+    margin-top: 2em; 
+    @include media($large-screen) {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  }
+
+  h2 {
+    color: white;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+  }
+
+  h2+p {
+    font-family: $serif;
+    font-size: 1.2em;
+    font-style: italic;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  li {
+    margin: 1em auto;
+    .btn {
+      width: 12em;
+    }
+  }  
+
+  .twttr {
+    @include social-share-button(#55acee,"\f099");
+  }
+  .fcbk {
+    @include social-share-button(#3b5998,"\f09a");
+  }
+  .ggl {
+    @include social-share-button(#cc3732,"\f0d5");
+  }
+  .email {
+    @include social-share-button($color-4,"\f0e0");
+  }
+
+}

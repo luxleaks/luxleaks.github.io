@@ -1,0 +1,39 @@
+---
+en:
+  time:
+    formats:
+      default: "%b %d, %Y"
+  footer:
+    credits: Credits
+    terms: Legal&nbsp;Notice
+    privacy: Privacy
+    contact: Hello
+  home:
+    more: More
+    share: Share
+    sign: Sign
+    subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is at trial."
+    title: "Support Antoine Deltour&nbsp;!"
+  nav:
+    support: Act
+    blog: Blog
+    case: About
+    home: Home
+    menu: Menu
+    skip: Skip to main content
+  support:
+    title: "How to support Antoine&nbsp;?"
+    text: "Share this web site in your social networks, spread the word... Thank&nbsp;you!"
+    twitter: "I support Antoine, %23LuxLeaks whistleblower"
+    email: "Support Antoine, LuxLeaks whistleblower!"
+    facebook: "I support Antoine, LuxLeaks' whistleblower"
+    petition: //www.change.org/SupportAntoineDeltour
+    sign: "Sign the petition"
+  supporters:
+    heading: They already support Antoine
+    section1: "The french <a href=\"http://www.paradisfj.info/\">Platform on Tax Havens</a> and its member organizations"
+    section2: "And also"
+  blog:
+    title: "The <span>Blog</span> of Antoine's friends"
+  title: "LuxLeaks: Support Antoine"
+  subtitle: "Antoine Deltour's support committee"

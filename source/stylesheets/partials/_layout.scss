@@ -1,0 +1,19 @@
+body {
+  @include outer-container;
+  width: 100%;
+  height: 100%;
+}
+
+main {
+  min-height: 85%;
+}
+
+.content {
+	margin:0 auto;
+  max-width:em(1200);
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}

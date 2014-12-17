@@ -1,0 +1,117 @@
+.home {
+  $home-bg-color: rgba(0, 0, 0, 0.8); 
+  $home-color: white;
+  // $home-title-color: lighten($color-4,15);
+  // $home-subtitle-color: white;
+  $home-title-color: white;
+  $home-subtitle-color: darken(white,15);
+  $home-image: '../images/tax-papers.jpg';
+
+  @include background(
+    linear-gradient($home-bg-color,$home-bg-color),
+    url($home-image)
+  );
+
+  // Layout
+  display: table;
+  height: 100%;
+  width: 100%;
+  padding-top: 60px;
+  position: relative;
+
+  // Background
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  .home-inner {
+    @include clearfix;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3em;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    color: $home-color;
+
+    .home-copy {
+      text-align: center;
+      
+      h1 {
+        color: $home-title-color;
+        font-size: 2em;
+        text-transform: uppercase;
+        margin-bottom: 2em;
+
+        @include media($large-screen) {
+          font-size: 2.4em;
+        }
+      }
+
+      h1 > span {
+        display: block;
+        text-transform: none;
+        // font-family: $serif;
+        // font-style: italic;
+        font-size: 0.7em;
+      }
+
+      p {
+        color: $home-subtitle-color;
+        font-family: $serif;
+        font-style: italic;
+        font-size: 1.6em;
+        margin: auto;
+        margin-bottom: 2em; 
+        line-height: 1.4em;
+        // max-width: 90%;
+
+        @include media($large-screen) {
+          font-size: 1.8em;
+          max-width: 70%;
+        }
+      }
+
+      @mixin home-button($home-button-color) {
+        background-color: $home-button-color;
+        // color: white;
+        color: $dark-gray;
+        // text-shadow: white 1px 1px 2px;
+        border: 2px solid $home-button-color;
+        display: inline-block;
+        font-weight: 700;
+        border-radius: $base-border-radius;
+        font-family: $header-font-family;
+        font-size: 1.5em;
+        min-width: 10em;
+        padding: 1em 1em;
+        margin: 0.8em 1.5em;
+        text-transform: uppercase;
+        transition: color 0.3s;
+        transition: background-color 0.3s;
+
+        &:hover,&:focus {
+          background-color: transparentize($dark-gray,0.2);
+          color: $home-button-color;
+          text-shadow: none;
+        }
+      }
+      a>i {
+        margin-left: 1em;
+      }
+      a {
+        @include home-button($color-4);
+      }
+      a + a {
+        @include home-button($color-5);
+      }
+
+    }
+  }
+
+  .scroll {
+    font-size: 1.5em;
+    bottom: 1.5em;
+    color: darken(white,30);
+    position: absolute;
+  }
+}

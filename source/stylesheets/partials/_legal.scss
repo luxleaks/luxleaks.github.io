@@ -1,0 +1,7 @@
+.legal {
+  font-size: 0.8em;
+  margin-bottom: 5em;
+  @include media($large-screen) {
+    font-size: 1em;
+  }
+}

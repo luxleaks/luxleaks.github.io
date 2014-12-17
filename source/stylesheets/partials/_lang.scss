@@ -1,0 +1,36 @@
+.lang-switch {
+  $lang-color-selected : $color-5;
+  border: 1px solid $lang-color-selected;
+  border-radius: $base-border-radius;
+  text-align: center;
+  font-size: 0.8em;
+  list-style-type: none;
+  padding: 0; 
+  
+
+  // position: absolute;
+  // top:8px;
+  // right: 0.5em;
+  float: right;
+  margin-right: 0.5em;
+  margin-top: 8px;
+
+
+  z-index: 99999;
+
+  li {
+    line-height: 20px;
+    list-style-type: none;
+    padding: 0 0.3em;
+  }
+  a {
+    font-family: $sans-serif;
+    font-weight: lighter;
+    color: white;
+  }
+  @at-root 
+    html[lang='fr'] .lang-switch .fr,
+    html[lang='en'] .lang-switch .en {
+    color: $lang-color-selected;
+  }
+}

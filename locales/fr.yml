@@ -1,0 +1,39 @@
+---
+fr:
+  time:
+    formats:
+      default: "%d %B %Y"
+  footer:
+    credits: Attributions
+    terms: Mentions&nbsp;légales
+    privacy: Vie&nbsp;Privée
+    contact: Salut
+  home:
+    more: En savoir plus
+    share: Partager
+    sign: Signer
+    subtitle: "Suite aux révélations sur le système d'optimisation fiscale à grande échelle, le lanceur d'alerte des LuxLeaks est poursuivi."
+    title: "Soutenons Antoine Deltour&nbsp;!"
+  nav:
+    support: Agir
+    blog: Blog
+    case: L'Affaire
+    home: Accueil
+    menu: Menu
+    skip: Aller au contenu principal
+  support:
+    title: "Comment aider Antoine&nbsp;?"
+    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous... Merci!"
+    twitter: "Je soutiens Antoine, lanceur d'alerte des %23LuxLeaks"
+    email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks!"
+    facebook: "Je soutiens Antoine, lanceur d'alerte des LuxLeaks"
+    petition: //www.change.org/SoutenonsAntoineDeltour
+    sign: "Signer la pétition"
+  supporters:
+    heading: Ils soutiennent déjà Antoine
+    section1: "La <a href=\"http://www.paradisfj.info/\">Plateforme Paradis fiscaux et Judiciaires</a> et ses membres "
+    section2: "Ainsi que "
+  blog:
+    title: "Le <span>Blog</span> des Amis d'Antoine"
+  title: "LuxLeaks: Soutenons Antoine"
+  subtitle: "Comité de Soutien à Antoine Deltour"

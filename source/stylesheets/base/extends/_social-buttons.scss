@@ -1,0 +1,79 @@
+// From http://tympanus.net/Development/CreativeButtons/
+@mixin social-share-button($color,$icon) {
+
+  $social-btn-radius: $base-border-radius+5;
+
+  .btn {
+    color: #fff;
+    background: $color;
+    border: none;
+    border-radius: $social-btn-radius;
+    font-weight: bold;
+    outline: none;
+    text-transform: uppercase;
+
+    position: relative;
+    
+    display: inline-block;
+    padding: 15px 40px 15px 80px;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+
+  .btn:after {
+    content: '';
+    background: #fff;
+
+    position: absolute;
+    top: 50%;
+    left: 35px;
+    z-index: 1;
+    
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    
+    transform: rotate(45deg);
+    transition: all 0.3s;
+  }
+
+
+  .btn:hover {
+    background: darken($color,20);
+  }
+
+  .btn:active {
+    background: lighten($color,10);
+    transition: all 0;
+  }
+
+  .btn:before {
+    @include fontawesome;
+    content: $icon;
+    color: $color;
+    background: #fff;
+    border-radius: $social-btn-radius 0 0 $social-btn-radius;
+
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    
+    padding: 15px 0;
+    height: 100%;
+    line-height: $base-line-height/1.3;
+    font-size: 1.3em;
+    width: 40px;
+  }
+
+  .btn:after {
+  }
+
+  .btn:active:before {
+    color: lighten($color,10)
+  }
+
+  .btn:hover:after {
+    left: 40px;
+  }
+}
