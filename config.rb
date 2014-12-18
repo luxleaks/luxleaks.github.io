@@ -52,6 +52,7 @@ end
 ###
 
 page "/404.html", :directory_index => false
+page "/google33e00909822f176c.html", :directory_index => false
 # Per-page layout changes:
 #
 # With no layout
