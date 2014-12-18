@@ -65,6 +65,7 @@ page "/google33e00909822f176c.html", :directory_index => false
 # with_layout :admin do
 #   page "/admin/*"
 # end
+page "/sitemap.xml", layout: false, :directory_index => false
 page "/feed.xml", layout: false, :directory_index => false
 page "en/feed.xml", layout: false, :directory_index => false
 
