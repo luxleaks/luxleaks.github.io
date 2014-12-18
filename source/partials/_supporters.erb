@@ -3,29 +3,15 @@
   <h2><%= t('supporters.heading') %></h2>
   <p><%= t('supporters.section1') %>:</p>
   <ul>
-    <li>Les Amis de la Terre</li>
-    <li>Anticor</li>
-    <li>Attac France</li>
-    <li>CADTM France</li>
-    <li>CCFD-Terre Solidaire</li>
-    <li>CFDT</li>
-    <li>CGT</li>
-    <li>CRID</li>
-    <li>Droit pour la justice</li>
-    <li>Observatoire citoyen pour la transparence Financière Internationale</li>
-    <li>Oxfam France</li>
-    <li>Justice et Paix</li>
-    <li>Réseau Foi et Justice Afrique Europe</li>
-    <li>Secours catholique Caritas France</li>
-    <li>Sherpa</li>
-    <li>Survie</li>
-    <li>Syndicat de la magistrature</li>
-    <li>Solidaires Finances Publiques</li>
-    <li>Transparency International France</li>
+    <% data.supporters.ppjf.each do |name| %>
+    <li><%= name %></li>
+    <% end %>
   </ul>
   <p><%= t('supporters.section2') %>:</p>
   <ul>
-    <li>Eva Joly</li>
+    <% data.supporters.more.each do |name| %>
+    <li><%= name %></li>
+    <% end %>
   </ul>
 </div>
   
