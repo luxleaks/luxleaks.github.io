@@ -51,6 +51,7 @@ end
 # Page options, layouts, aliases and proxies
 ###
 
+page "/404.html", :directory_index => false
 # Per-page layout changes:
 #
 # With no layout
