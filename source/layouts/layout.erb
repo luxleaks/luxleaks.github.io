@@ -12,6 +12,8 @@
         <%= stylesheet_link_tag "main" %>
         <%= javascript_include_tag 'vendor/modernizr-2.6.2.min' %>
         <%= partial "partials/fonts" %>
+        <link rel="alternate" hreflang="fr" href="<%= switch_locale("fr")%>">
+        <link rel="alternate" hreflang="en" href="<%= switch_locale("en")%>">
     </head>
     <body <%= "class=index" if is_home? %>>
         <!--[if lt IE 7]>
