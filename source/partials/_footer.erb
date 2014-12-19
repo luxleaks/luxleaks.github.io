@@ -1,6 +1,9 @@
 <footer class="footer">
   <div class="content">
-    <small class="copyright">©&nbsp;Soutenons&nbsp;Antoine&nbsp;・&nbsp;<%= link_to t('footer.credits'), i18n_path("/credits.html") %></small>
+    <ul class="smalltext-1">
+      <li><small><%= link_to t('footer.credits'), i18n_path("/credits.html") %></small></li
+      ><li><small><%= link_to "Contact", "mailto:#{data.info.email}?subject=#{t('footer.contact')}" %></small></li>
+    </ul>
 
 
     <ul class="socio-links">
@@ -13,7 +16,7 @@
         <% end %></li>
     </ul>
 
-    <ul class="smalltext">
+    <ul class="smalltext-2">
       <li><small><%= link_to t('footer.terms'), i18n_path("/legal.html") %></small></li
       ><li><small><%= link_to t('footer.privacy'), i18n_path("/privacy.html") %></small></li>
     </ul>

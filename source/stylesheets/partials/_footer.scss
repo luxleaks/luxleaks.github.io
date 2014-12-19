@@ -40,14 +40,14 @@
     display: inline;
   }
   
-  .copyright, .socio-links, .smalltext {
+  .socio-links, .smalltext-1,.smalltext-2 {
     display: block;
     font-size: 0.9em;
     font-family: $header-font-family;
     text-align: center;
     @include media ($medium-screen) {
       display: inline-block;
-      font-size: 0.8em;
+      // font-size: 0.8em;
       @include span-columns(4); 
     }
     @include media ($large-screen) {
@@ -56,11 +56,23 @@
     }
   }
 
-  .copyright {
+  .smalltext-1,.smalltext-2 {
+    li+li::before {
+      content: '・\00a0'
+    }
+  }
+
+  .smalltext-1 {
     @include media ($medium-screen) {
       text-align: left;
     }
   }
+  .smalltext-2 {
+    @include media ($medium-screen) {
+      text-align: right;
+    }
+  }
+
 
   .socio-links {
     text-align: center;
@@ -78,16 +90,6 @@
       height: $footer-font-size*1.5;
       width: $footer-font-size*1.5;
       @include icon-circ-hover($footer-color,$footer-background,$footer-color-selected);
-    }
-  }
-
-  .smalltext {
-    @include media ($medium-screen) {
-      text-align: right;
-    }
-
-    li+li::before {
-      content: '・\00a0'
     }
   }
 }
