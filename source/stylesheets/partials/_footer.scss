@@ -14,7 +14,6 @@
   padding: 1em 0;
   position: relative;
   text-align: center;
-  width: 100%;
 
   small {
     font-size: 1em;
@@ -47,7 +46,6 @@
     text-align: center;
     @include media ($medium-screen) {
       display: inline-block;
-      // font-size: 0.8em;
       @include span-columns(4); 
     }
     @include media ($large-screen) {

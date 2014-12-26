@@ -109,7 +109,9 @@ end
 #  :which_fake_page => "Rendering a fake page with a local variable" }
 
 # Post-process CSS with vendor prefixes
-activate :autoprefixer
+activate :autoprefixer do |config|
+  config.browsers = ["> 1%", "last 2 versions", "Firefox ESR", "Opera 12.1", "Explorer 7", "Firefox 3.6"]
+end
 
 # Reload the browser automatically whenever files change
 configure :development do
