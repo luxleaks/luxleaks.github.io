@@ -1,25 +1,24 @@
 .lang-switch {
   $lang-color-selected : $color-5;
+  $navigation-height: 60px;
+  float: right;
+  margin: 4px 4px;
+  z-index: 9999;
+  line-height: $navigation-height/2-5;
+  
+  font-size: 0.6em;
+  padding: 0;
   border: 1px solid $lang-color-selected;
   border-radius: $base-border-radius;
   text-align: center;
-  font-size: 0.8em;
   list-style-type: none;
-  padding: 0; 
-  
 
-  // position: absolute;
-  // top:8px;
-  // right: 0.5em;
-  float: right;
-  margin-right: 0.5em;
-  margin-top: 8px;
-
-
-  z-index: 99999;
+  @include media($medium-screen) {
+    font-size: 0.8em;
+    margin: 4px 8px;
+  }
 
   li {
-    line-height: 20px;
     list-style-type: none;
     padding: 0 0.3em;
   }
