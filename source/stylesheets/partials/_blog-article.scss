@@ -38,8 +38,12 @@
 
 	h2 {
 		border-left: solid 0.15em red;
-		padding-left: 0.5em;
-		margin: 1em 0 0.5em -0.7em;
+		padding-left: 0.4em;
+		margin: 1em 0 0.5em -0.55em;
+		@include media($medium-screen) {
+			padding-left: 0.5em;
+			margin: 1em 0 0.5em -0.65em;			
+		}
 		&:nth-of-type(3n+1) {
 			border-color: $color-4;
 		}

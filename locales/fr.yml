@@ -1,5 +1,7 @@
 ---
 fr:
+  language:
+    alt: en anglais
   time:
     formats:
       default: "%d %B %Y"
@@ -14,11 +16,18 @@ fr:
     sign: Signer
     subtitle: "Suite aux révélations sur le système d'optimisation fiscale à grande échelle, le lanceur d'alerte des LuxLeaks est poursuivi."
     title: "Soutenons Antoine Deltour&nbsp;!"
+  medias:
+    title: Dossier de presse
+    articles: Presse écrite
+    tv: Télévision
+    radio: Radio
+    from: à partir de %{from}
   nav:
     support: Agir
     blog: Blog
     case: L'Affaire
     home: Accueil
+    media: Presse
     menu: Menu
     skip: Aller au contenu principal
   support:

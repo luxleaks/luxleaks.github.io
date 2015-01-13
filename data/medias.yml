@@ -1,0 +1,37 @@
+articles:
+  - date: 2014-12-18
+    fr: Interview d'Antoine Deltour pour "Libération"
+    en: Antoine Deltour's interview with "Libération"
+    url: http://www.liberation.fr/economie/2014/12/14/luxleaks-j-ai-agi-par-conviction-la-coherence-etait-d-assumer_1163498
+    lang: fr
+  - date: 2014-12-23
+    fr: Lettre ouverte de soutien à Antoine Deltour dans le Guardian
+    en: "\"LuxLeaks tax source should not be charged\", open letter in The Guardian"
+    url: http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged
+    lang: en
+tv:
+  - date: 2014-12-15
+    fr: JT de 13h sur France 2
+    en: National news on France 2
+    url: http://www.francetvinfo.fr/replay-jt/france-2/13-heures/jt-de-13h-du-lundi-15-decembre-2014_767251.html
+    lang: fr
+    from: "11'"
+  - date: 2015-01-06
+    fr: La Nouvelle Édition sur Canal+
+    en: Interview of Antoine for the french magazine "La Nouvelle Edition" on Canal+
+    lang: fr
+    from: "5'55"
+    url: http://m.canalplus.fr/?vid=1193183
+radio:
+  - date: 2014-12-15
+    fr: L'Eco du jour sur France Inter
+    en: Short topic "L'Eco du jour" on France Inter
+    url: http://www.franceinter.fr/player/reecouter?play=1021321
+    lang: fr
+    from: 34"
+  - date: 2014-12-29
+    fr: Interview du comité de soutien pour France Bleu Sud-Lorraine
+    en: Support committee's interview with France Bleu on the regional news
+    url: http://www.francebleu.fr/infos/le-journal-regional-de-8h-de-france-bleu-sud-lorraine/journal-de-8h-125
+    lang: fr
+    from: 4'11

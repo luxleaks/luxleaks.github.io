@@ -1,5 +1,7 @@
 ---
 en:
+  language:
+    alt: in French
   time:
     formats:
       default: "%b %d, %Y"
@@ -14,11 +16,18 @@ en:
     sign: Sign
     subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
     title: "Support Antoine Deltour!"
+  medias:
+    title: Press coverage
+    articles: Articles
+    tv: On TV
+    radio: On the radio
+    from: from %{from}
   nav:
     support: Act
     blog: Blog
     case: About
     home: Home
+    media: Press
     menu: Menu
     skip: Skip to main content
   support:
