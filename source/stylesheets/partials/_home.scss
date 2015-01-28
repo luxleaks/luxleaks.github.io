@@ -107,6 +107,7 @@
       }
       a {
         @include home-button($color-4);
+        white-space: nowrap;
       }
       a + a {
         @include home-button($color-5);
