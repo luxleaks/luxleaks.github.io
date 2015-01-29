@@ -1,0 +1,13 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title><%= t('title')%></title>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0;URL='<%= i18n_path("/#{current_page.data.alias}")%>'" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta name="robots" content="noindex,follow" />
+  </head>
+  <body>
+    <p><%= link_to t('redirection'), i18n_path("/press.html") %></p>
+  </body>
+</html>
