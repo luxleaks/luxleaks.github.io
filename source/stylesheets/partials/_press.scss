@@ -1,7 +1,7 @@
-.medias {
-  $medias-details-color: lighten($dark-gray,25);
+.press {
+  $press-details-color: lighten($dark-gray,25);
   .compl {
-    color: $medias-details-color;
+    color: $press-details-color;
     font-size: 0.8em;
     &::before{
       content: "(\00a0";
@@ -15,7 +15,7 @@
   }
   time {
     display: block;
-    color: $medias-details-color;
+    color: $press-details-color;
     font-style: italic;
     @include media($medium-screen) {
       display: inline-block;

@@ -1,4 +1,9 @@
-articles:
+pressbook:
+  - date: 2014-12-17
+    fr: Article du comité de soutien "Un lanceur d'alerte poursuivi"
+    en: "From the support committee: \"The LuxLeaks whistleblower is in big trouble\""
+    url: ../blog/2014/12/17/luxleaks/
+coverage:
   - date: 2014-12-18
     fr: Interview d'Antoine Deltour pour "Libération"
     en: Antoine Deltour's interview with "Libération"
@@ -9,7 +14,6 @@ articles:
     en: "\"LuxLeaks tax source should not be charged\", open letter in The Guardian"
     url: http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged
     lang: en
-tv:
   - date: 2014-12-15
     fr: JT de 13h sur France 2
     en: National news on France 2
@@ -22,7 +26,6 @@ tv:
     lang: fr
     from: "5'55"
     url: http://m.canalplus.fr/?vid=1193183
-radio:
   - date: 2014-12-15
     fr: L'Eco du jour sur France Inter
     en: Short topic "L'Eco du jour" on France Inter

@@ -91,7 +91,7 @@ helpers do
     current_page.url=="/#{I18n.locale.to_s}/"
   end
   def current_locale?(locale)
-    return I18n.locale.to_s != locale
+    return locale == nil || I18n.locale.to_s == locale
   end
   def switch_locale(locale)
     if (locale=='en' && !current_page.url.start_with?("/en/"))

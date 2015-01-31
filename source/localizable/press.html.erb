@@ -1,17 +1,17 @@
 ---
 layout: page
 ---
-<section class="medias">
-  <h1><%= I18n.t("medias.title") %></h1>
+<section class="press">
+  <h1><%= I18n.t("press.title") %></h1>
 
-  <% data.medias.each do |cat| %>
-  <h2><%= I18n.t("medias.#{cat[0]}") %></h2>
+  <% data.press.each do |cat| %>
+  <h2><%= I18n.t("press.#{cat[0]}") %></h2>
   <ul>
     <% cat[1].each do |link| %>
     <li class="media-link"><%= link_to I18n.locale.to_s == 'fr'? link.fr : link.en, link.url %>
-      <% if current_locale?(link.lang) || link.from != nil %>
+      <% if !current_locale?(link.lang) || link.from != nil %>
         <span class="compl"
-          ><%= "<span class=\"altlang\">#{I18n.t("language.alt")}</span>" if current_locale? link.lang %><%= "<span class=\"from\">#{I18n.t "medias.from", from:link.from}</span>" if link.from != nil %></span>
+          ><%= "<span class=\"altlang\">#{I18n.t("language.alt")}</span>" if !current_locale? link.lang %><%= "<span class=\"from\">#{I18n.t "press.from", from:link.from}</span>" if link.from != nil %></span>
       <% end %>
       <time datetime="<%= link.date.strftime('%Y-%m-%d') %>"><%= I18n.l(link.date.to_time) %></time></li>
     <% end %>

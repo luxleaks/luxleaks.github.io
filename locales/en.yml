@@ -16,11 +16,10 @@ en:
     support: Support
     subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
     title: "Support Antoine Deltour!"
-  medias:
-    title: Press coverage
-    articles: Articles
-    tv: On TV
-    radio: On the radio
+  press:
+    title: "Press Kit &amp; Coverage"
+    pressbook: Press kit
+    coverage: Press coverage
     from: from %{from}
   nav:
     support: Act

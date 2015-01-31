@@ -16,11 +16,10 @@ fr:
     support: Soutenir
     subtitle: "Suite aux révélations sur le système d'optimisation fiscale à grande échelle, le lanceur d'alerte des LuxLeaks est poursuivi."
     title: "Soutenons Antoine Deltour&nbsp;!"
-  medias:
-    title: Dossier de presse
-    articles: Presse écrite
-    tv: Télévision
-    radio: Radio
+  press:
+    title: "Presse &amp; Médias"
+    pressbook: Dossier de presse
+    coverage: Couverture médiatique
     from: à partir de %{from}
   nav:
     support: Agir
