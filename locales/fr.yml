@@ -16,11 +16,9 @@ fr:
     support: Soutenir
     subtitle: "Suite aux révélations sur le système d'optimisation fiscale à grande échelle, le lanceur d'alerte des LuxLeaks est poursuivi."
     title: "Soutenons Antoine Deltour&nbsp;!"
-  press:
-    title: "Presse &amp; Médias"
-    pressbook: Dossier de presse
-    coverage: Couverture médiatique
-    from: à partir de %{from}
+  members:
+    text: Antoine Deltour bénéficie déjà de %{link}&#x202f;!
+    link: nombreux soutiens publics
   nav:
     support: Agir
     blog: Blog
@@ -29,6 +27,11 @@ fr:
     media: Presse
     menu: Menu
     skip: Aller au contenu principal
+  press:
+    title: "Presse &amp; Médias"
+    pressbook: Dossier de presse
+    coverage: Couverture médiatique
+    from: à partir de %{from}
   support:
     title: "Comment aider Antoine&nbsp;?"
     text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous... Merci!"
@@ -38,9 +41,23 @@ fr:
     petition: //www.change.org/SoutenonsAntoineDeltour
     sign: "Signer la pétition"
   supporters:
-    heading: Ils soutiennent déjà Antoine
-    section1: "La <a href=\"http://www.stopparadisfiscaux.fr\">Plateforme Paradis fiscaux et Judiciaires</a> et ses membres "
-    section2: "Ainsi que "
+    title: Soutiens publics
+    ppjf:
+      title: "La Plateforme Paradis fiscaux et judiciaires"
+      desc: > 
+        La <a href="http://www.stopparadisfiscaux.fr">Plateforme Paradis fiscaux et judiciaires</a>
+        et ses membres&#x202f;:
+    others:
+      title: Et aussi
+      desc: "Les organisations suivantes&#x202f;:"
+    guardian-letter:
+      title: "Signataires d'une lettre ouverte"
+      desc: > 
+        Plus de 70 personalités à travers le monde ont exprimé leur soutien
+        public à Antoine Deltour en signant la lettre ouverte 
+        <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
+        "Le lanceur d'alerte des LuxLeaks ne devrait pas être poursuivi"</a>,
+        publiée dans le Guardian (en anglais) le 23 décembre 2014&#x202f;:
   blog:
     title: "Le <span>Blog</span> des Amis d'Antoine"
   title: "LuxLeaks: Soutien à Antoine Deltour"

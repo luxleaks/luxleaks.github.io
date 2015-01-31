@@ -1,0 +1,31 @@
+#members {
+  $members-color: darken(white,5);
+  $members-base-margin: 1em;
+  background: lighten($dark-gray,5);
+  color: $members-color;
+
+  .content {
+    padding: 0 2em 60px;
+  }
+
+  p {
+    font-family: $serif;
+    font-size: $base-font-size*1.2;
+    font-style: italic;
+    text-align: center;
+    @include media($medium-screen) {
+      font-size: $base-font-size*1.2;
+    }
+  }
+  a {
+    color: lighten($members-color,20);
+    border-bottom: 1px dotted $light-gray;
+
+    &:hover, &:focus {
+      color:$color-5;
+      border-bottom: 1px solid $color-5;
+    }
+  }
+
+}
+

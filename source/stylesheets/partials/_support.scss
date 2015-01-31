@@ -16,9 +16,11 @@
   }
 
   .info {
+    padding-top: 3em;
     display: block;
     height: 100%;
     @include media($large-screen) {
+      padding-top: 0;
       display: table-cell;
       vertical-align: middle;
       width: 60%;

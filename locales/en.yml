@@ -16,11 +16,6 @@ en:
     support: Support
     subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
     title: "Support Antoine Deltour!"
-  press:
-    title: "Press Kit &amp; Coverage"
-    pressbook: Press kit
-    coverage: Press coverage
-    from: from %{from}
   nav:
     support: Act
     blog: Blog
@@ -29,6 +24,14 @@ en:
     media: Press
     menu: Menu
     skip: Skip to main content
+  members:
+    text:  "%{link} already support Antoine Deltour!"
+    link: Many individuals and organizations
+  press:
+    title: "Press Kit &amp; Coverage"
+    pressbook: Press kit
+    coverage: Press coverage
+    from: from %{from}
   support:
     title: "How to support Antoine&nbsp;?"
     text: "Share this web site in your social networks, spread the word... Thank&nbsp;you!"
@@ -38,9 +41,23 @@ en:
     petition: //www.change.org/SupportAntoineDeltour
     sign: "Sign the petition"
   supporters:
-    heading: They already support Antoine
-    section1: "The french <a href=\"http://www.stopparadisfiscaux.fr\">Platform on Tax Havens</a> and its member organizations"
-    section2: "And also"
+    title: Supporters
+    ppjf:
+      title: "French Platform on Tax Havens"
+      desc: > 
+        The french <a href="http://www.stopparadisfiscaux.fr">Platform on Tax Havens</a>
+        and its member organizations:
+    others:
+      title: And also
+      desc: "The following organizations:"
+    guardian-letter:
+      title: "Open letter in the Guardian"
+      desc: > 
+        More than 70 politicians, academics, union heads and charity leaders around
+        the world have expressed their support to Antoine Deltour in the open letter
+        <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
+        "LuxLeaks tax source should not be charged"</a>, published in
+        The Guardian on December 23d, 2014:
   blog:
     title: "The <span>Blog</span> of Antoine's friends"
   title: "LuxLeaks: Support Antoine Deltour"

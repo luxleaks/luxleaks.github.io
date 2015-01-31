@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<section class="supporters">
+  <h1><%= I18n.t("supporters.title") %></h1>
+  <% data.supporters.each do |cat| %>
+  <h2><%= I18n.t("supporters.#{cat[0]}.title") %></h2>
+  <p><%= I18n.t("supporters.#{cat[0]}.desc") %></p> 
+  <ul>
+    <% cat[1].each do |supp| %>
+    <li><%= supp.name %>
+      <% if supp.desc != nil %>
+        <span><%= supp.desc %></span></li>
+      <% end %>
+    <% end %>
+  </ul>
+  <% end %>
+</section>
