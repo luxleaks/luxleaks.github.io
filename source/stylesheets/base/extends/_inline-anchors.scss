@@ -13,6 +13,7 @@
   padding: 0 0.25em;
   transition: color 0.2s;
   transition: border-color 0.2s;
+  // white-space: nowrap;
 
   &:hover {
     color: $color-hover;
@@ -29,22 +30,22 @@
   }
 
   &::before {
-    top:-0.08em;
+    // top:-0.08em;
     left: -0.1em;
     content: '[';
-    transform: translateX(-100%);
+    transform: translateX(-130%);
   }
 
   &::after {
-    bottom: -0.08em;
-    right: -0.1em;
-    content: ']';
-    transform: translateX(100%);
+    // bottom: -0.08em;
+    content: ' ]';
+    transform: translateX(130%);
   }
 
   &:hover::before,
   &:hover::after {
     opacity: 1;
+    margin:0;
     transform: translateX(0);
   }
 }
