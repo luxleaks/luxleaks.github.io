@@ -20,13 +20,14 @@ fr:
     text: Antoine Deltour bénéficie déjà de %{link}&#x202f;!
     link: nombreux soutiens publics
   nav:
-    support: Agir
     blog: Blog
     case: L'Affaire
     home: Accueil
     media: Presse
     menu: Menu
     skip: Aller au contenu principal
+    support: Agir
+    supporters: Soutiens
   press:
     title: "Presse &amp; Médias"
     pressbook: Dossier de presse

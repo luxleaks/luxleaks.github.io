@@ -1,10 +1,11 @@
 header.navbar {
+  $navigation-count: 5;
   $navigation-padding: 5px;
   $navigation-background: $dark-gray;
   $navigation-color: white;
   $navigation-color-selected: $color-5;
   $navigation-height: 60px;
-  $horizontal-bar-mode: $medium-screen;
+  $horizontal-bar-mode: $large-screen;
   $nav-fs: 1.2em;
 
   background-color: $navigation-background;
@@ -134,7 +135,7 @@ header.navbar {
 
     &.active {
       display: block;
-      max-height: $navigation-height * 4;
+      max-height: $navigation-height * $navigation-count;
       @include transition(max-height $trans-dur $trans-style);
     }
   }

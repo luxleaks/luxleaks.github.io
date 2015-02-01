@@ -17,13 +17,14 @@ en:
     subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
     title: "Support Antoine Deltour!"
   nav:
-    support: Act
     blog: Blog
     case: About
     home: Home
     media: Press
     menu: Menu
     skip: Skip to main content
+    support: Act
+    supporters: Supporters
   members:
     text:  "%{link} already support Antoine Deltour!"
     link: Many individuals and organizations
