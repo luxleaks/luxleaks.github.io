@@ -15,10 +15,10 @@ per_page: 10
   <% end %>
 
   <% page_articles(I18n.locale).each_with_index do |article, i| %>
-    <article>
-      <h2><%= link_to article.title, article %></h2>
-      <p><%= article.data.subtitle %></p>
-      <footer><span class="author"><%= article.data.author %></span> — <time datetime="<%= article.date.strftime('%Y-%m-%d') %>" pubdate><%= I18n.l(article.date) %></time></footer>
+    <article itemscope itemtype="http://schema.org/BlogPosting">
+      <h2 itemprop="headline"><%= link_to article.title, article %></h2>
+      <p itemprop="about"><%= article.data.subtitle %></p>
+      <footer><span class="author" itemprop="author"><%= article.data.author %></span> — <time datetime="<%= article.date.strftime('%Y-%m-%d') %>" itemprop="datePublished"><%= I18n.l(article.date) %></time></footer>
    </article>
   <% end %>
 
@@ -27,5 +27,5 @@ per_page: 10
       <p><%= link_to 'Next page', next_page %></p>
     <% end %>
   <% end %>
-  </section>
+
 </main>

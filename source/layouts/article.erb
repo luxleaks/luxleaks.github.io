@@ -1,8 +1,8 @@
 <% wrap_layout :layout do %>
 <main id="content" class="anchor content blog-article inline">
-  <article>
-  	<h1><%= current_page.title %></h1>
-    <time datetime="<%= current_page.date.strftime('%Y-%m-%d') %>" pubdate><%= I18n.l(current_page.date) %></time>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
+  	<h1  itemprop="headline"><%= current_page.title %></h1>
+    <time datetime="<%= current_page.date.strftime('%Y-%m-%d') %>" itemprop="datePublished"><%= I18n.l(current_page.date) %></time>
     <%= yield %>
   </article>
 </main>
