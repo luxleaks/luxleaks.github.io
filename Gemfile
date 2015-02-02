@@ -8,6 +8,8 @@ gem "middleman-deploy"
 gem "middleman-blog", "~>3.5.3"
 gem "middleman-livereload"
 
+# For URI manipulation
+gem "addressable", "~>2.3.6"
 # For feed.xml.builder
 gem "builder"
 # For blog summaries

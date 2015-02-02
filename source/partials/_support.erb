@@ -9,10 +9,10 @@
     </div>
     <div class="share">
       <ul class="socio-links">
-        <li class="twttr"><a class="btn" target="_blank" href="//twitter.com/share?url=<%= base_url %>&amp;text=<%= t('support.twitter') %>&amp;via=<%= data.info.twitter %>&amp;source=webclient" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">Twitter</a></li>
-        <li class="ggl"><a class="btn" target="_blank" href="//plus.google.com/share?url=<%= base_url %>&hl=<%= I18n.locale%>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">Google+</a></li>
-        <li class="email"><a class="btn" target="_blank" href="mailto:?subject=<%= t('support.email')%>&body=<%= base_url %>">E-Mail</a></li>
-        <li class="fcbk"><a class="btn" target="_blank" href="//www.facebook.com/sharer.php?u=<%= base_url %>&t=<%= t('support.facebook') %>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">Facebook</a></li>
+        <li class="twttr"><a class="btn" target="_blank" href="//twitter.com/share?url=<%= base_url %>&amp;text=<%= encode_t('support.twitter') %>&amp;via=<%= data.info.twitter %>&amp;source=webclient" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">Twitter</a></li>
+        <li class="ggl"><a class="btn" target="_blank" href="//plus.google.com/share?url=<%= base_url %>&amp;hl=<%= I18n.locale%>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">Google+</a></li>
+        <li class="email"><a class="btn" target="_blank" href="mailto:?subject=<%= encode_t('support.email')%>&amp;body=<%= base_url %>">E-Mail</a></li>
+        <li class="fcbk"><a class="btn" target="_blank" href="//www.facebook.com/sharer.php?u=<%= base_url %>&amp;t=<%= encode_t('support.facebook') %>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">Facebook</a></li>
       </ul>
     </div>
   </div>

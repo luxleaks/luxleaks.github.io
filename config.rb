@@ -106,6 +106,9 @@ helpers do
   def base_url
     data.info.url + "#{"/en/" if I18n.locale != I18n.default_locale}"
   end
+  def encode_t(string)
+    Addressable::URI.encode_component(t(string), Addressable::URI::CharacterClasses::UNRESERVED)
+  end
 
 end
 
