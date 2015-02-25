@@ -97,10 +97,17 @@ helpers do
     return (I18n.locale == I18n.default_locale) ? "en" : "fr"
   end
   def switch_locale(locale)
+    localized = ""
     if (locale=='en' && !current_page.url.start_with?("/en/"))
-      return "/en#{current_page.url}"
+      localized = "/en#{current_page.url}"
     elsif (locale=='fr' && current_page.url.start_with?("/en/"))
-      return current_page.url.sub(/^\/en/, '')
+      localized = current_page.url.sub(/^\/en/, '')
+    end
+    # return the localized page if found in the sitemap
+    if (sitemap.find_resource_by_destination_path(localized+"index.html"))
+      return localized
+    else
+      return (locale == 'en') ? "/en/" : "/"
     end
   end
   def base_url
