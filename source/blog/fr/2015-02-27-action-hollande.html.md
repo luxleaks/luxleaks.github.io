@@ -1,6 +1,6 @@
 ---
 title: Lettre à François Hollande
-subtitle: Le Président de la République Française se rendra au Luxembourg en Mars, demandons-lui d'intervenir en faveur d'Antoine Deltour !
+subtitle: Le président de la République française se rendra au Luxembourg en mars, demandons-lui d'intervenir en faveur d'Antoine Deltour !
 author: Comité de soutien à Antoine
 ---
 
