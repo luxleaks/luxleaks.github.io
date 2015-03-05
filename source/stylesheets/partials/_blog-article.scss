@@ -36,6 +36,9 @@
 		font-size: 0.8em;
 		text-transform: uppercase;
 	}
+	article>time + p {
+		margin-top: 1em;
+	}
 
 	h2 {
 		border-left: solid 0.15em red;
