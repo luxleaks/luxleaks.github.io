@@ -1,4 +1,9 @@
 pressbook:
+  - date: 2015-03-09
+    fr: "Libération (tribune) : Soutien à Antoine Deltour, lanceur d’alerte LuxLeaks"
+    en: "Libération: In support of Antoine Deltour, LuxLeaks whistleblower"
+    url: http://www.liberation.fr/economie/2015/03/09/soutien-a-antoine-deltour-lanceur-d-alerte-luxleaks_1217470
+    lang: fr
   - date: 2015-03-05
     fr: "Communiqué de presse : Visite du président de la République française au Luxembourg"
     en: "Press release: Official visit of the French President to Luxembourg"
@@ -8,11 +13,48 @@ pressbook:
     en: "From the support committee: \"The LuxLeaks whistleblower is in big trouble\""
     url: ../blog/2014/12/17/luxleaks/
 coverage:
-  - date: 2014-12-14
-    fr: Interview d'Antoine Deltour pour "Libération"
-    en: Antoine Deltour's interview with "Libération"
-    url: http://www.liberation.fr/economie/2014/12/14/luxleaks-j-ai-agi-par-conviction-la-coherence-etait-d-assumer_1163498
+  - date: 2015-03-10
+    fr: "Libération (tribune) : Soutien à Antoine Deltour, lanceur d’alerte LuxLeaks"
+    en: "Libération: In support of Antoine Deltour, LuxLeaks whistleblower"
+    url: http://www.liberation.fr/economie/2015/03/09/soutien-a-antoine-deltour-lanceur-d-alerte-luxleaks_1217470
     lang: fr
+  - date: 2015-03-09
+    fr: "Warren.lu (Édito) : Nation branding, l'effet boomerang ?"
+    en: "Warren.lu (editorial) : Nation branding, unintended consequences ?"
+    url: http://www.warren.lu/article/edito-nation-branding-l-effet-boomerang
+    lang: fr
+  - date: 2015-02-23
+    fr: "Article de Paperjam : Deltour, petit auditeur et homme tranquille"
+    en: "Paperjam article on the interviews with Bloomberg and the Financial Times"
+    url: http://paperjam.lu/news/deltour-petit-auditeur-et-homme-tranquille
+    lang: fr
+  - date: 2015-02-22
+    fr: "Interview pour Bloomberg : L'Homme tranquille qui a fait trembler le Luxembourg"
+    en: "Interview with Bloomberg: The Quiet Man Who Made Big Trouble for Little Luxembourg"
+    url: http://www.bloomberg.com/news/articles/2015-02-23/the-quiet-man-who-made-big-trouble-for-little-luxembourg
+    lang: en
+  - date: 2015-02-22
+    fr: "Interview pour le Financial Times: « Je ne suis pas un martyr »"
+    en: "Interview with the Financial Times: ‘I am not a martyr’, says LuxLeaks whistleblower facing jail"
+    lang: en
+    url: http://www.ft.com/intl/cms/s/0/110e2524-b925-11e4-a8d0-00144feab7de.html
+  - date: 2015-01-06
+    fr: La Nouvelle Édition sur Canal+
+    en: Interview of Antoine for the french magazine "La Nouvelle Edition" on Canal+
+    lang: fr
+    from: "5'55"
+    url: http://m.canalplus.fr/?vid=1193183
+  - date: 2014-12-29
+    fr: Interview du comité de soutien pour France Bleu Sud-Lorraine
+    en: Support committee's interview with France Bleu on the regional news
+    url: http://www.francebleu.fr/infos/le-journal-regional-de-8h-de-france-bleu-sud-lorraine/journal-de-8h-125
+    lang: fr
+    from: 4'11
+  - date: 2014-12-23
+    fr: Lettre ouverte de soutien à Antoine Deltour dans le Guardian
+    en: "\"LuxLeaks tax source should not be charged\", open letter in The Guardian"
+    url: http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged
+    lang: en
   - date: 2014-12-15
     fr: L'Eco du jour sur France Inter
     en: Short topic "L'Eco du jour" on France Inter
@@ -25,35 +67,8 @@ coverage:
     url: http://www.francetvinfo.fr/replay-jt/france-2/13-heures/jt-de-13h-du-lundi-15-decembre-2014_767251.html
     lang: fr
     from: "11'"
-  - date: 2014-12-23
-    fr: Lettre ouverte de soutien à Antoine Deltour dans le Guardian
-    en: "\"LuxLeaks tax source should not be charged\", open letter in The Guardian"
-    url: http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged
-    lang: en
-  - date: 2014-12-29
-    fr: Interview du comité de soutien pour France Bleu Sud-Lorraine
-    en: Support committee's interview with France Bleu on the regional news
-    url: http://www.francebleu.fr/infos/le-journal-regional-de-8h-de-france-bleu-sud-lorraine/journal-de-8h-125
-    lang: fr
-    from: 4'11
-  - date: 2015-01-06
-    fr: La Nouvelle Édition sur Canal+
-    en: Interview of Antoine for the french magazine "La Nouvelle Edition" on Canal+
-    lang: fr
-    from: "5'55"
-    url: http://m.canalplus.fr/?vid=1193183
-  - date: 2015-02-22
-    fr: "Interview pour le Financial Times: « Je ne suis pas un martyr »"
-    en: "Interview with the Financial Times: ‘I am not a martyr’, says LuxLeaks whistleblower facing jail"
-    lang: en
-    url: http://www.ft.com/intl/cms/s/0/110e2524-b925-11e4-a8d0-00144feab7de.html
-  - date: 2015-02-22
-    fr: "Interview pour Bloomberg : L'Homme tranquille qui a fait trembler le Luxembourg"
-    en: "Interview with Bloomberg: The Quiet Man Who Made Big Trouble for Little Luxembourg"
-    url: http://www.bloomberg.com/news/articles/2015-02-23/the-quiet-man-who-made-big-trouble-for-little-luxembourg
-    lang: en
-  - date: 2015-02-23
-    fr: "Article de Paperjam : Deltour, petit auditeur et homme tranquille"
-    en: "Paperjam article on the interviews with Bloomberg and the Financial Times"
-    url: http://paperjam.lu/news/deltour-petit-auditeur-et-homme-tranquille
+  - date: 2014-12-14
+    fr: Interview d'Antoine Deltour pour "Libération"
+    en: Antoine Deltour's interview with "Libération"
+    url: http://www.liberation.fr/economie/2014/12/14/luxleaks-j-ai-agi-par-conviction-la-coherence-etait-d-assumer_1163498
     lang: fr
