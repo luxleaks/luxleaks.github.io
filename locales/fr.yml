@@ -48,17 +48,29 @@ fr:
       desc: > 
         La <a href="http://www.stopparadisfiscaux.fr">Plateforme Paradis fiscaux et judiciaires</a>
         et ses membres&#x202f;:
+    tribune:
+      title: "« Nous soutenons Antoine Deltour »"
+      desc: >
+         Signataires d'une %{link} publiée le 10 mars 2015
+      link_text: tribune de soutien à Antoine Deltour
+      link_url: /blog/2015/03/10/opinion/
+    # tribune:
+    #    title: "Tribune de soutien dans Libération"
+    #    desc: >
+    #      Signataires d'une %{link} publiée le 10 mars 2015&nbsp;:
+    #   link_text: tribune de soutien
+    #   link_url: /blog/2015/03/10/liberation/
     others:
       title: Et aussi
       desc: "Les organisations suivantes&#x202f;:"
     guardian-letter:
-      title: "Signataires d'une lettre ouverte"
+      title: "Lettre ouverte dans le Guardian"
       desc: > 
         Plus de 70 personalités à travers le monde ont exprimé leur soutien
         public à Antoine Deltour en signant la lettre ouverte 
         <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
         "Le lanceur d'alerte des LuxLeaks ne devrait pas être poursuivi"</a>,
-        publiée dans le Guardian (en anglais) le 23 décembre 2014&#x202f;:
+        publiée dans le <em>Guardian</em> (en anglais) le 23 décembre 2014&#x202f;:
   blog:
     title: "Le <span>Blog</span> des Amis d'Antoine"
   title: "LuxLeaks: Soutien à Antoine Deltour"

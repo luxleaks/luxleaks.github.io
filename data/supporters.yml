@@ -1,3 +1,22 @@
+tribune:
+  - name: Daniel Cohn-Bendit
+    desc: ex-Député européen (EELV)
+  - name: Hervé Falciani
+    desc: Lanceur d'alerte (SwissLeaks)
+  - name: Yann Galut
+    desc: Député (PS)
+  - name: Stéphanie Gibeaud
+    desc: Lanceuse d'alerte (UBS)
+  - name: Eva Joly
+    desc: Députée européenne (EELV)
+  - name: Benoît Majerus
+    desc: Université du Luxembourg
+  - name: Cédric Perrin
+    desc: Sénateur (UMP)
+  - name: Thomas Piketty
+    desc: Économiste
+  - name: Denis Robert
+    desc: Journaliste et écrivain
 ppjf:
   - name: Les Amis de la Terre
   - name: Anticor
@@ -18,10 +37,6 @@ ppjf:
   - name: Solidaires Finances Publiques
   - name: Syndicat de la magistrature
   - name: Transparency International France
-others:
-  - name: Xnet
-    desc: ex EXGAE
-  - name: Tax Justice Network
 guardian-letter:
   - name: Raymond Baker
     desc: Global Financial Integrity
@@ -175,3 +190,7 @@ guardian-letter:
     desc: Uniting Church in Australia
   - name: Dr Mark Zirnsak
     desc: Tax Justice Network Australia
+others:
+  - name: Xnet
+    desc: ex EXGAE
+  - name: Tax Justice Network

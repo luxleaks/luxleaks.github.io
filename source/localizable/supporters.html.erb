@@ -2,10 +2,11 @@
 layout: page
 ---
 <section class="supporters">
-  <h1><%= I18n.t("supporters.title") %></h1>
+  <h1><%= t("supporters.title") %></h1>
   <% data.supporters.each do |cat| %>
-  <h2><%= I18n.t("supporters.#{cat[0]}.title") %></h2>
-  <p><%= I18n.t("supporters.#{cat[0]}.desc") %></p> 
+  <h2><%= t("supporters.#{cat[0]}.title") %></h2>
+  <p><%= t("supporters.#{cat[0]}.desc", :link => link_to(t("supporters.#{cat[0]}.link_text"), i18n_path(t("supporters.#{cat[0]}.link_url")))) %>
+  </p> 
   <ul>
     <% cat[1].each do |supp| %>
     <li><%= supp.name %>

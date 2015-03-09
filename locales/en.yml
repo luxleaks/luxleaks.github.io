@@ -43,6 +43,12 @@ en:
     sign: "Sign the petition"
   supporters:
     title: Supporters
+    tribune:
+      title: "“We support Antoine Deltour”"
+      desc: >
+         Signatories of an %{link}, published on March 10th, 2015:
+      link_text: op-ed in support of Antoine Deltour
+      link_url: /blog/2015/03/10/opinion/
     ppjf:
       title: "French Platform on Tax Havens"
       desc: > 
@@ -58,7 +64,7 @@ en:
         the world have expressed their support to Antoine Deltour in the open letter
         <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
         "LuxLeaks tax source should not be charged"</a>, published in
-        The Guardian on December 23d, 2014:
+        <em>The Guardian</em> on December 23d, 2014:
   blog:
     title: "The <span>Blog</span> of Antoine's friends"
   title: "LuxLeaks: Support Antoine Deltour"
