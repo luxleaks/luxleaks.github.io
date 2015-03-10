@@ -17,13 +17,14 @@ en:
     subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
     title: "Support Antoine Deltour!"
   nav:
+    asso: Join
     blog: Blog
     case: About
     home: Home
     media: Press
     menu: Menu
     skip: Skip to main content
-    support: Act
+    support: Take Action!
     supporters: Supporters
   members:
     text:  "%{link} already support Antoine Deltour!"
@@ -35,7 +36,8 @@ en:
     from: from %{from}
   support:
     title: "How to support Antoine&nbsp;?"
-    text: "Share this web site in your social networks, spread the word... Thank&nbsp;you!"
+    text: "Share this web site in your social networks, spread the word, %{join}... Thank&nbsp;you!"
+    join: join the support committee
     twitter: "I support Antoine, #LuxLeaks whistleblower"
     email: "Support Antoine, LuxLeaks whistleblower!"
     facebook: "I support Antoine, LuxLeaks' whistleblower"

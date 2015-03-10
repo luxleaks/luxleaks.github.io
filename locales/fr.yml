@@ -20,6 +20,7 @@ fr:
     text: Antoine Deltour bénéficie déjà de %{link}&#x202f;!
     link: nombreux soutiens publics
   nav:
+    asso: L'Asso
     blog: Blog
     case: L'Affaire
     home: Accueil
@@ -35,7 +36,8 @@ fr:
     from: à partir de %{from}
   support:
     title: "Comment aider Antoine&nbsp;?"
-    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous... Merci!"
+    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous, %{join}... Merci!"
+    join: adhérez à l'association
     twitter: "Je soutiens Antoine, lanceur d'alerte des #LuxLeaks"
     email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks!"
     facebook: "Je soutiens Antoine, lanceur d'alerte des LuxLeaks"
@@ -54,12 +56,6 @@ fr:
          Signataires d'une %{link} publiée le 10 mars 2015
       link_text: tribune de soutien à Antoine Deltour
       link_url: /blog/2015/03/10/opinion/
-    # tribune:
-    #    title: "Tribune de soutien dans Libération"
-    #    desc: >
-    #      Signataires d'une %{link} publiée le 10 mars 2015&nbsp;:
-    #   link_text: tribune de soutien
-    #   link_url: /blog/2015/03/10/liberation/
     others:
       title: Et aussi
       desc: "Les organisations suivantes&#x202f;:"

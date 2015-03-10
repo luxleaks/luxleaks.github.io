@@ -1,5 +1,5 @@
 header.navbar {
-  $navigation-count: 5;
+  $navigation-count: 6;
   $navigation-padding: 5px;
   $navigation-background: $dark-gray;
   $navigation-color: white;
@@ -186,7 +186,7 @@ header.navbar {
 
       @include media ($horizontal-bar-mode) {
         // display: inline;
-        padding: 0 0.6em;
+        padding: 0 0.5em;
         line-height: $navigation-height - ($navigation-padding*2);
         border-radius: $base-border-radius;
       }
