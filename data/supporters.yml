@@ -17,6 +17,8 @@ tribune:
     desc: Économiste
   - name: Denis Robert
     desc: Journaliste et écrivain
+  - name: Edward Snowden
+    desc: Lanceur d'alerte (NSA)
 ppjf:
   - name: Les Amis de la Terre
   - name: Anticor
