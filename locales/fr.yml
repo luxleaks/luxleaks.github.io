@@ -36,8 +36,8 @@ fr:
     from: à partir de %{from}
   support:
     title: "Comment aider Antoine&nbsp;?"
-    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous, %{join}... Merci!"
-    join: adhérez à l'association
+    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous, %{join}... Merci&nbsp;!"
+    join: "adhérez à l'association"
     twitter: "Je soutiens Antoine, lanceur d'alerte des #LuxLeaks"
     email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks!"
     facebook: "Je soutiens Antoine, lanceur d'alerte des LuxLeaks"

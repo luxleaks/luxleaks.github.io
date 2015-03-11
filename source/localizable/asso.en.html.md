@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Antoine&nbsp;Deltour support committee
+# Antoine&nbsp;Deltour Support Committee
 
 <p style="text-align: center"><a href="/docs/asso/application-form.pdf"><i class="fa fa-file-pdf-o"></i> <span>Membership application form</span></a></p>
 
@@ -29,6 +29,6 @@ France
 The support committee was formally established during a constitutive meeting held in Épinal, France, on the 28th of februrary 2015.  
 The organization is administered by a council of twelve co-presidents, three of whom are mandated by juridical persons (CCFD Vosges, ATTAC Vosges, Épinal in transition).
 
-The support committee is notably in charge of managing the funds raised for Antoine Deltour's defense (legal services, communication campaigns, etc.). The organization will likely be dissolved when all legal proceedings will come to an end. After its dissolution, any remaining funds will be transfered to one or more organizations promoting a protection framework for whistleblowers or fighting against tax injustice and tax havens.
+The support committee is notably in charge of managing the funds raised for Antoine Deltour's defense (legal services, communication campaigns, etc.). The organization will likely be dissolved when all legal proceedings come to an end. After its dissolution, any remaining funds will be transfered to one or more organizations promoting a protection framework for whistleblowers or fighting against tax injustice and tax havens.
 
 People who would want to access the full statutes of the organization may ask a copy by writing to the support committee.
