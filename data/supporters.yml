@@ -1,6 +1,12 @@
 tribune:
+  - name: Pascal Canfin
+    desc: ex-ministre délégué au développement
+  - name: Emmanuel Chaumery
+    desc: secrétaire national de Nouvelle Donne
   - name: Daniel Cohn-Bendit
     desc: ex-Député européen (EELV)
+  - name: Sergio Coronado
+    desc: député (EELV)
   - name: Hervé Falciani
     desc: Lanceur d'alerte (SwissLeaks)
   - name: Yann Galut
