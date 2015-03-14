@@ -1,12 +1,14 @@
 tribune:
+  - name: Isabelle Attard
+    desc: Députée (Nouvelle Donne)
   - name: Pascal Canfin
-    desc: ex-ministre délégué au développement
+    desc: Ex-Ministre délégué au développement
   - name: Emmanuel Chaumery
-    desc: secrétaire national de Nouvelle Donne
+    desc: Secrétaire national de Nouvelle Donne
   - name: Daniel Cohn-Bendit
-    desc: ex-Député européen (EELV)
+    desc: Ex-Député européen (EELV)
   - name: Sergio Coronado
-    desc: député (EELV)
+    desc: Député (EELV)
   - name: Hervé Falciani
     desc: Lanceur d'alerte (SwissLeaks)
   - name: Yann Galut
