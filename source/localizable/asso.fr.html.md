@@ -29,4 +29,4 @@ L’association a été créée par une assemblée générale constitutive à Ep
  
 L’association est notament en charge de gérer les fonds collectés pour assurer la défense d’Antoine (frais d’avocats, financement de la campagne de soutien, …). Elle sera sans doute appelée à être dissoute lorsque les actions judiciaires envers Antoine seront éteintes. Lors de sa dissolution, l'actif sera dévolu à une ou plusieurs associations œuvrant pour la défense des lanceurs d’alerte ou la lutte contre les paradis fiscaux.
  
-Les personnes désireuses de consulter l’intégralité des statuts peuvent en faire la demande en écrivant au Comité.
+_Les personnes désireuses de consulter l’intégralité des statuts peuvent en faire la demande en écrivant au Comité._
