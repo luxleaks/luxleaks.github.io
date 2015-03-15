@@ -3,7 +3,7 @@
     <div class="info">
       <h2><%= t('support.title') %></h2>
       <p><%= t('support.text', :join => link_to(t("support.join"), i18n_path('/asso.html'),:class=>"inline")) %></p>
-      <% link_to t('support.petition'),:class=>"action" do %>
+      <% link_to t('support.petition'),:class=>"action",:target=>"_blank" do %>
             <span><%= t('support.sign') %></span><i class="fa fa-pencil-square-o"></i>
       <% end %>
     </div>
