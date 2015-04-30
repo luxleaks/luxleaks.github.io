@@ -1,0 +1,146 @@
+.newsletterform {
+
+  $button-bgcolor: $color-5;
+  $button-color: $dark-gray;
+  $base-spacing: 10px;
+
+  background-color: $light-gray;
+  &--unsub {
+    background-color: inherit;
+  }
+
+  .content {
+    padding: 0 2em 30px;
+  }
+
+  &_invite {
+    margin-bottom: 1em;
+
+    color: $dark-gray;
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  form {
+    margin: 1em auto;
+    max-width: 40em;
+  }
+  &--unsub form {
+    margin-top: 3em;
+  }
+  
+  input, button {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  input[type='email'] {
+    width: 70%;
+    margin: 0;
+    line-height: 1.5em;
+
+    padding: $base-spacing/2 $base-spacing/2 $base-spacing/2 $base-spacing;
+    border-color: darken($light-gray,10); 
+    border-radius: $base-border-radius 0 0 $base-border-radius;
+    border-style: solid;
+    border-width: 1px;
+    border-right: 0;
+
+    @include media($medium-screen) {
+      width: 75%;
+    }
+  }
+
+  input[type='submit'], button[type='submit'] {
+    width: 30%;
+    margin: 0;
+    line-height: 1.5em;
+
+    padding: $base-spacing/2 $base-spacing;
+    border-radius: 0 $base-border-radius $base-border-radius 0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darken($button-bgcolor,10);
+    // border-left: 0;
+    background: $button-bgcolor;
+    color: $button-color;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    line-height: 1.875em;
+
+    @include media($medium-screen) {
+      width: 25%;
+      font-size: 1em;
+      line-height: 1.5em;
+    }
+
+    &:hover, &:focus {
+      background-color: darken($button-bgcolor,10);
+      border-color: darken($button-bgcolor,20);
+    }
+
+    &:active {
+      color: $dark-gray;
+      background-color: lighten($button-bgcolor,10);
+    }
+  }
+
+
+  // Alerts
+  $error-color: lighten($color-2,25);
+  $success-color: lighten($color-4,5);
+
+  @mixin flash($color) {
+    background-color: $color;
+    color: darken($color, 40);
+    border-color: darken($color,10); 
+
+    a {
+      color: darken($color, 70%);
+      text-decoration: underline;
+
+      &:focus,
+      &:hover {
+        color: darken($color, 90%);
+      }
+    }
+  }
+
+  .newsletterform_alert {
+    margin: 0 auto;
+    max-width: 40em;
+
+    display: block;
+    margin-bottom: $base-spacing / 2;
+    padding: $base-spacing / 2;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: $base-border-radius;
+    
+    a {
+      text-decoration: underline;
+    }
+
+    p {
+      margin: 0;
+    }
+    &-success {
+      @include flash($success-color);
+    }
+    &-error {
+      @include flash($error-color);  
+    }
+  }
+
+  div[aria-hidden="true"] {
+    visibility:hidden;
+    // @include transition (all 0.4s ease-in-out);
+    opacity: 0;
+  }
+  div[aria-hidden="false"] {
+    visibility:visible;
+    @include transition (all 0.4s ease-in-out);
+    opacity: 1;
+  }
+
+}

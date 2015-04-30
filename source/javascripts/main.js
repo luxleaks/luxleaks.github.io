@@ -128,3 +128,89 @@ jQuery(document).ready(function($){
     });
   });
 });
+
+// Newsletter subscribe/unsubscribe forms
+$(document).ready(function(){
+
+  var parseAPPID = "xrhItm2KbDWjd9CZTQTiWDsL1DZZw2CGv9ZcOzEZ";
+  var parseJSID = "kcFJQ5VJEYbZ6Cw6zwJmJnJE1Zv9Fk9VOSL8f9JZ";
+  Parse.initialize(parseAPPID, parseJSID);
+
+  var showformalert = function(id,type) {
+    var alert = document.getElementById(id);
+    alert.innerHTML = alert.getAttribute("data-"+type);
+    alert.classList.remove("newsletterform_alert-error");
+    alert.classList.remove("newsletterform_alert-success");
+    alert.classList.add("newsletterform_alert-"+type)
+    alert.setAttribute('aria-hidden', 'false');
+  }
+  var hideformalert = function(id) {
+    var alert = document.getElementById(id);
+    alert.innerHTML = '&nbsp;';
+    alert.classList.remove("newsletterform_alert-error");
+    alert.classList.remove("newsletterform_alert-success");
+    alert.setAttribute('aria-hidden', 'true');
+  }
+
+  //
+  // Subscribe Form
+  //
+  $('#news-sub-email').focus(function(e){
+    hideformalert("news-sub-response");
+  }); 
+  $('#news-sub').submit(function(e){
+    e.preventDefault();
+ 
+    // Grab the elements from the form to make up
+    // an object containing name, email and message
+    var data = { 
+      email: document.getElementById('news-sub-email').value,
+      list: document.getElementById('news-sub').getAttribute("data-list")
+    }
+     showformalert("news-sub-response","success");
+    // Run our Parse Cloud Code and 
+    // pass our 'data' object to it
+    Parse.Cloud.run("subscribe", data, {
+      success: function(object) {
+        showformalert("news-sub-response","success");
+      },
+ 
+      error: function(object, error) {
+        console.log(error);
+        showformalert("news-sub-response","error");
+      }
+    });
+  });
+
+  //
+  // Unsubscribe Form
+  //
+
+  $('#news-unsub-email').focus(function(e){
+    hideformalert("news-unsub-response");
+  });
+  $('#news-unsub').submit(function(e){
+    e.preventDefault();
+
+    // Grab the elements from the form to make up
+    // an object containing name, email and message
+    var data = { 
+      email: document.getElementById('news-unsub-email').value,
+      list: document.getElementById('news-unsub').getAttribute("data-list")
+    }
+    // Run our Parse Cloud Code and 
+    // pass our 'data' object to it
+    Parse.Cloud.run("unsubscribe", data, {
+      success: function(object) {
+        showformalert("news-unsub-response","success");
+      },
+ 
+      error: function(object, error) {
+        console.log(error);
+        showformalert("news-unsub-response","error");
+      }
+    });
+
+  });
+ 
+});

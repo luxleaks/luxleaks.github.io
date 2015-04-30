@@ -83,6 +83,22 @@ en:
         <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
         "LuxLeaks tax source should not be charged"</a>, published in
         <em>The Guardian</em> on December 23d, 2014:
+  newsletterform:
+    list: support-antoine-en
+    unsub:
+      title: "Unsubscribe from the newsletter"
+      desc: >
+          You can unsubscribe from our newsletter by using the form below. Sorry to see you go, and thanks for your support!
+      submit: Unsubscribe
+      success: "Done! You will receive a confirmation email."
+    sub:
+      title: "Subscribe to our newsletter"
+      desc: "Keep up-to-date on Antoine's situation and the LuxLeaks case!"
+      submit: Sign up
+      success: "Thanks! You'll be subscribed after returning the confirmation email."
+    label:
+      email: Email address
+    error: "An error occurred. You can contact us at contact@support-antoine.org"
   blog:
     title: "The <span>Blog</span> of Antoine's friends"
   title: "LuxLeaks: Support Antoine Deltour"

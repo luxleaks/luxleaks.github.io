@@ -83,6 +83,23 @@ fr:
         publiée dans le <em>Guardian</em> (en anglais) le 23 décembre 2014&#x202f;:
   blog:
     title: "Le <span>Blog</span> des Amis d'Antoine"
+  newsletterform:
+    list: support-antoine
+    unsub:
+      title: "Se désabonner de la newsletter"
+      desc: >
+          Vous pouvez vous désabonner de notre lettre d'information en renseignant votre adresse email
+          dans le forumulaire ci-dessous. Désolés de vous voir partir, et merci pour votre soutien&nbsp;!
+      submit: Désabonner
+      success: "C'est fait ! Vous allez recevoir un email de confirmation."
+    sub:
+      title: "S'abonner à la lettre d'information"
+      desc: "Recevez des nouvelles sur la situation d'Antoine et de l'affaire LuxLeaks&nbsp;!"
+      submit: Je m'abonne
+      success: "Merci ! Vous serez inscrit après retour de l'email de confirmation."
+    label:
+      email: Adresse email
+    error: "Une erreur est survenue. Vous pouvez nous écrire à contact@support-antoine.org"
   title: "LuxLeaks: Soutien à Antoine Deltour"
   subtitle: "Comité de Soutien à Antoine Deltour"
   desc: "Site officiel du comité de soutien à Antoine Deltour, lanceur d'alerte des LuxLeaks poursuivi par la justice luxembourgeoise"

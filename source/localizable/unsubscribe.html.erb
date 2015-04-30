@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<section class="newsletterform newsletterform--unsub">
+  <h1><%= I18n.t("newsletterform.unsub.title") %></h1>
+  <p><%= I18n.t("newsletterform.unsub.desc") %></p>
+
+  <form id="news-unsub" data-list="<%= I18n.t("newsletterform.list") %>">
+    <label for="email" class="sr-only"><%= I18n.t("newsletterform.label.email") %></label>    
+    <input type="email" name="email" id="news-unsub-email" placeholder="email@example.com" required aria-required="true"
+    ><input type="submit" value="<%= I18n.t("newsletterform.unsub.submit") %>"/>
+  </form>
+  <div id="news-unsub-response" class="newsletterform_alert" role="alert" aria-hidden="true"
+    data-success="<%= I18n.t("newsletterform.unsub.success") %>"
+    data-error="<%= I18n.t("newsletterform.error") %>">
+    &nbsp;
+  </div>
+
+</section>

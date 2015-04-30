@@ -1,7 +1,8 @@
 #members {
   $members-color: darken(white,5);
   $members-base-margin: 1em;
-  background: lighten($dark-gray,5);
+  background: $dark-gray;
+  // background-color: darken($light-gray,20);
   color: $members-color;
 
   .content {
