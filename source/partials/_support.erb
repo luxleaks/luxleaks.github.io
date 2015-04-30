@@ -1,13 +1,18 @@
 <section id="support" class="anchor">
   <div class="content">
+    <h2><%= t('support.title') %></h2>
+    <div class="support_content">
     <div class="info">
-      <h2><%= t('support.title') %></h2>
-      <p><%= t('support.text', :join => link_to(t("support.join"), i18n_path('/asso.html'),:class=>"inline")) %></p>
+      <p><%= t('support.action_text', :join => link_to(t("support.join"), i18n_path('/asso.html'),:class=>"inline")) %></p>
       <% link_to t('support.petition'),:class=>"action",:target=>"_blank" do %>
             <span><%= t('support.sign') %></span><i class="fa fa-pencil-square-o"></i>
       <% end %>
+      <% link_to "don",:class=>"action" do %>
+            <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
+      <% end %>
     </div>
     <div class="share">
+      <p><%= t('support.share_text', :join => link_to(t("support.join"), i18n_path('/asso.html'),:class=>"inline")) %></p>
       <ul class="socio-links">
         <li class="twttr"><a class="btn" target="_blank" href="//twitter.com/share?url=<%= base_url %>&amp;text=<%= encode_t('support.twitter') %>&amp;via=<%= data.info.twitter %>&amp;source=webclient" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;">Twitter</a></li>
         <li class="ggl"><a class="btn" target="_blank" href="//plus.google.com/share?url=<%= base_url %>&amp;hl=<%= I18n.locale%>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;">Google+</a></li>
@@ -15,5 +20,6 @@
         <li class="fcbk"><a class="btn" target="_blank" href="//www.facebook.com/sharer.php?u=<%= base_url %>&amp;t=<%= encode_t('support.facebook') %>" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;">Facebook</a></li>
       </ul>
     </div>
+  </div>
   </div>
 </section>

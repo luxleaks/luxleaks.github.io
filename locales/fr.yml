@@ -5,6 +5,18 @@ fr:
   time:
     formats:
       default: "%d %B %Y"
+  donate:
+    title: "Faire un Don de Soutien"
+    description: >
+      Le comité de soutien oeuvre pour la défense d'Antoine Deltour,
+      la protection des lanceurs d'alerte et la justice fiscale.
+      <b>Soutenez notre action</b> et <b>aidez à financer la défense d'Antoine</b> en vue de son procès,
+      votre contribution peut faire la différence !
+    alternative: >
+      Si vous rencontrez un problème avec le formulaire ci-dessus, vous pouvez
+      également faire un don directement depuis la %{link}.
+    helloasso: page du Comité de Soutien sur HelloAsso
+
   footer:
     credits: Attributions
     terms: Mentions&nbsp;légales
@@ -36,13 +48,15 @@ fr:
     from: à partir de %{from}
   support:
     title: "Comment aider Antoine&nbsp;?"
-    text: "Partagez ce site dans vos réseaux sociaux, parlez-en autour de vous, %{join}... Merci&nbsp;!"
+    action_text: "Signez la pétition, participez au financement de la défense ou %{join}... Merci&nbsp;!"
+    share_text: "Partagez ce site dans vos réseaux, parlez-en autour de vous&#x202f;!"
     join: "adhérez à l'association"
     twitter: "Je soutiens Antoine, lanceur d'alerte des #LuxLeaks"
-    email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks!"
+    email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks&#x202f;!"
     facebook: "Je soutiens Antoine, lanceur d'alerte des LuxLeaks"
     petition: //www.change.org/SoutenonsAntoineDeltour
     sign: "Signer la pétition"
+    donate: "Faire un don"
   supporters:
     title: Soutiens publics
     ppjf:

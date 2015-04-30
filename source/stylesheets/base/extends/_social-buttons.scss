@@ -38,7 +38,7 @@
   }
 
 
-  .btn:hover {
+  .btn:hover, .btn:focus {
     background: darken($color,20);
   }
 
@@ -73,7 +73,7 @@
     color: lighten($color,10)
   }
 
-  .btn:hover:after {
+  .btn:hover:after, .btn:focus:after {
     left: 40px;
   }
 }

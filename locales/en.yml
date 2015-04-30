@@ -5,6 +5,18 @@ en:
   time:
     formats:
       default: "%b %d, %Y"
+  donate:
+    title: Donate to Support Antoine
+    description: >
+      Antoine Deltour's Support Committee is a non-profit organization
+      dedicated to supporting Antoine's defense and fight for tax justice
+      and whistleblowers' protection.
+      <b>Support our action</b> and <b>help fund Antoine's legal defence</b>,
+      your contribution can make a real difference!
+    alternative: >
+      If you face issues using the form above, you can also donate directly via
+      the %{link}.
+    helloasso: Support Committee's page on the HelloAsso platform
   footer:
     credits: Credits
     terms: Legal&nbsp;Notice
@@ -36,13 +48,17 @@ en:
     from: from %{from}
   support:
     title: "How to support Antoine&nbsp;?"
-    text: "Share this web site in your social networks, spread the word, %{join}... Thank&nbsp;you!"
+    action_text: "Pledge your support, contribute to the defence fund, or %{join}... Thanks!"
+    share_text: "Share this web site in your social networks, spread the word!"
+
+    text: ", %{join}... Thank&nbsp;you!"
     join: join the support committee
     twitter: "I support Antoine, #LuxLeaks whistleblower"
     email: "Support Antoine, LuxLeaks whistleblower!"
     facebook: "I support Antoine, LuxLeaks' whistleblower"
     petition: //www.change.org/SupportAntoineDeltour
     sign: "Sign the petition"
+    donate: "Donate now"
   supporters:
     title: Supporters
     tribune:
