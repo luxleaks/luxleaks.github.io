@@ -7,8 +7,14 @@
       <% link_to t('support.petition'),:class=>"action",:target=>"_blank" do %>
             <span><%= t('support.sign') %></span><i class="fa fa-pencil-square-o"></i>
       <% end %>
-      <% link_to "https://www.helloasso.com/don/associations/comite-de-soutien-a-antoine-deltour",:class=>"action",:target=>"_blank" do %>
-            <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
+      <% if I18n.locale.to_s == "en" %>
+        <% link_to "http://www.helloasso.com/widgets/izi_don.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&lang=en", :target=>"_blank", :class=>"action" do %>
+          <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
+        <% end %>
+      <% else %> 
+        <% link_to i18n_path('/don.html'), :class=>"action" do %>
+          <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
+        <% end %>
       <% end %>
     </div>
     <div class="share">

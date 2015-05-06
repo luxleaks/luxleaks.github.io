@@ -16,3 +16,30 @@
     // max-width: 50em;
   }
 }
+
+.helloasso__donate {
+  height:1050px;
+  @include media ($medium-screen) {
+    height:770px;
+  }
+  @include media ($large-screen) {
+    height:750px;
+  }
+}
+
+.action {
+  @include big-button($color-5,darken($color-5, 15));
+
+  display: block;
+  max-width: 12em;
+  margin: 1em auto;
+
+  &>i {
+    margin-left: 1em;
+    float: right;
+    line-height: 1.4em;
+    @include media($medium-screen) {
+      line-height: 1.6em;
+    }
+  }
+}

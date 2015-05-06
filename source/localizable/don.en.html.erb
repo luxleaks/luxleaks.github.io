@@ -1,0 +1,12 @@
+---
+layout: page-base
+---
+<section class="press">
+  <h1><%= I18n.t("donate.title") %></h1>
+  <p><%= I18n.t("donate.description") %></p>
+
+  <% link_to "http://www.helloasso.com/widgets/izi_don.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&lang=en",:class=>"action", :target=>"_blank" do %>
+    <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
+  <% end %>
+
+</section>
