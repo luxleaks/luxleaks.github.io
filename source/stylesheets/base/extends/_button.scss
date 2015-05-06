@@ -20,3 +20,39 @@
     opacity: 0.5;
   }
 }
+
+@mixin big-button($button-color,$hl-color) {
+  background-color: $button-color;
+  color: $dark-gray;
+  border: 2px solid $button-color;
+  display: inline-block;
+  font-weight: 700;
+  border-radius: $base-border-radius;
+  font-family: $header-font-family;
+  font-size: 1.4em;
+  padding: 1em 1em;
+  text-transform: uppercase;
+  transition: color 0.3s;
+  transition: background-color 0.3s;
+
+  &:hover,&:focus {
+    background-color: transparentize($dark-gray,1);
+    color: $hl-color;
+  }
+
+  &:active {
+    color: lighten($hl-color, 15);
+    border-color: lighten($button-color,15);
+    transition: color 0s;
+  }
+
+  @include media($large-screen) {
+    font-size: 1.6em;
+  }
+
+  .fa {
+    margin-left: 1em;
+    line-height: inherit;
+    float: right; 
+  }
+}

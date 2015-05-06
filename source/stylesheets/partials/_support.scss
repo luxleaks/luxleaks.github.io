@@ -55,43 +55,15 @@
       width: 60%;
     }
 
-    @mixin home-button($home-button-color) {
-      background-color: $home-button-color;
-      // color: white;
-      color: $dark-gray;
-      border: 2px solid $home-button-color;
+    .action {
+      @include big-button($color-5,$color-5);
       display: table;
-      font-weight: 700;
-      border-radius: $base-border-radius;
-      font-family: $header-font-family;
       font-size: 1.4em;
       min-width: 15em;
-      padding: 1em 1em;
       margin: 2em auto 1em;
-      text-transform: uppercase;
-      transition: color 0.3s;
-      transition: background-color 0.3s;
-
-      &:hover,&:focus {
-        background-color: transparentize($dark-gray,0.2);
-        color: $home-button-color;
-      }
-
       @include media($medium-screen) {
-        min-width: 15em;
         font-size: 1.6em;
       }
-    }
-    .action>i {
-      margin-left: 1em;
-      float: right;
-      line-height: 1.4em;
-      @include media($medium-screen) {
-        line-height: 1.6em;
-      }
-    }
-    .action {
-      @include home-button($color-5);
     }
   }
 

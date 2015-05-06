@@ -78,39 +78,14 @@
         }
       }
 
-      @mixin home-button($home-button-color) {
-        background-color: $home-button-color;
-        // color: white;
-        color: $dark-gray;
-        // text-shadow: white 1px 1px 2px;
-        border: 2px solid $home-button-color;
-        display: inline-block;
-        font-weight: 700;
-        border-radius: $base-border-radius;
-        font-family: $header-font-family;
-        font-size: 1.5em;
-        min-width: 10em;
-        padding: 1em 1em;
-        margin: 0.8em 1.5em;
-        text-transform: uppercase;
-        transition: color 0.3s;
-        transition: background-color 0.3s;
-
-        &:hover,&:focus {
-          background-color: transparentize($dark-gray,0.2);
-          color: $home-button-color;
-          text-shadow: none;
-        }
-      }
-      a>i {
-        margin-left: 1em;
-      }
       a {
-        @include home-button($color-4);
+        @include big-button($color-4,$color-4);
+        margin: 0.8em 1.4em;
+        min-width: 10.5em;
         white-space: nowrap;
       }
       a + a {
-        @include home-button($color-5);
+        @include big-button($color-5,$color-5);
       }
 
     }
