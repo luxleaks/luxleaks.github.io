@@ -64,4 +64,31 @@
 		font-size: 1.2em;
 	}
 
+	figure {
+		margin: 2em auto;
+		img {
+			margin: 0 auto;
+			display: block;
+		}
+	}
+	figcaption {
+		margin-top: 1em;
+		font-size: 0.8em;
+		color: $blog-meta-color;
+		text-align: center;
+	}
+	.figure {
+		&__copyright, &__title {
+			display: block;
+			@include media($medium-screen) {
+				display: inline;			
+			}
+		}
+		@include media($medium-screen) {
+			&__title:after {
+				content: " – "
+			}
+		}
+	}
+
  }
