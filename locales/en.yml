@@ -30,7 +30,7 @@ en:
     title: "Support Antoine Deltour!"
   nav:
     asso: Join
-    blog: Blog
+    blog: News
     case: About
     home: Home
     media: Press
@@ -100,7 +100,7 @@ en:
       email: Email address
     error: "An error occurred. You can contact us at contact@support-antoine.org"
   blog:
-    title: "The <span>Blog</span> of Antoine's friends"
+    title: "The <span>News</span>"
   title: "LuxLeaks: Support Antoine Deltour"
   subtitle: "Antoine Deltour's support committee"
   desc: "Official web site of Antoine Deltour's support committee. Antoine is the french LuxLeaks whistleblower, on trial in Luxembourg."

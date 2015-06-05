@@ -33,7 +33,7 @@ fr:
     link: nombreux soutiens publics
   nav:
     asso: L'Asso
-    blog: Blog
+    blog: Actu
     case: L'Affaire
     home: Accueil
     media: Presse
@@ -82,7 +82,7 @@ fr:
         "Le lanceur d'alerte des LuxLeaks ne devrait pas être poursuivi"</a>,
         publiée dans le <em>Guardian</em> (en anglais) le 23 décembre 2014&#x202f;:
   blog:
-    title: "Le <span>Blog</span> des Amis d'Antoine"
+    title: "Les <span>actualités</span>"
   newsletterform:
     list: support-antoine
     unsub:
