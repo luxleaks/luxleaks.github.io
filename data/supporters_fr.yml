@@ -1,0 +1,259 @@
+- title: Organisations
+  groups:
+
+    - desc: >
+        La <a href="http://www.stopparadisfiscaux.fr">Plateforme Paradis fiscaux et judiciaires</a>
+        et ses membres&nbsp;:
+
+      members:
+        - name: Les Amis de la Terre
+        - name: Anticor
+        - name: Attac France
+        - name: CADTM France
+        - name: CCFD-Terre Solidaire
+        - name: CFDT
+        - name: CGT
+        - name: CRID
+        - name: Justice et Paix
+        - name: Droit pour la justice
+        - name: OCTFI
+        - name: Oxfam France
+        - name: Réseau Foi et Justice Afrique Europe
+        - name: Secours catholique Caritas France
+        - name: Sherpa
+        - name: Survie
+        - name: Solidaires Finances Publiques
+        - name: Syndicat de la magistrature
+        - name: Transparency International France
+
+    - desc: "Ainsi que&nbsp;:"
+      members:
+        - name: Convention pour la 6ème République
+          link: http://www.c6r.org/
+        - name: Les Économistes Atterrés
+          link: http://www.atterres.org/
+        - name: EPSU
+          link: http://www.epsu.org/
+        - name: Financial Transparency Coalition
+          desc: 150 organisations et 14 gouvernements
+          link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
+        - name: F.S.U.
+          link: http://www.fsu.fr/
+        - name: Global Alliance for Tax Justice
+          link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
+        - name: Tax Justice Network
+          link: http://www.taxjustice.net/
+        - name: UGICT (CGT)
+          link: http://www.ugict.cgt.fr/articles/actus/soutien-deltour-luxleaks
+        - name: Xnet
+          link: https://xnet-x.net/en/
+
+- title: Personalités
+  groups:
+
+    - desc: >
+        Premiers signataires d'une tribune de soutien à Antoine Deltour
+        <a href="http://www.liberation.fr/economie/2015/03/09/soutien-a-antoine-deltour-lanceur-d-alerte-luxleaks_1217470">
+        publiée dans <i>Libération</i></a> le 10 mars 2015&nbsp;:
+
+      members:
+        - name: Daniel Cohn-Bendit
+          desc: Ex-Député européen (EELV)
+        - name: Hervé Falciani
+          desc: Lanceur d'alerte (SwissLeaks)
+        - name: Yann Galut
+          desc: Député (PS)
+        - name: Stéphanie Gibaud
+          desc: Lanceuse d'alerte (UBS)
+        - name: Eva Joly
+          desc: Députée européenne (EELV)
+        - name: Benoît Majerus
+          desc: Université du Luxembourg
+        - name: Cédric Perrin
+          desc: Sénateur (UMP)
+        - name: Thomas Piketty
+          desc: Économiste
+        - name: Denis Robert
+          desc: Journaliste et écrivain
+        - name: Edward Snowden
+          desc: Lanceur d'alerte (NSA)
+
+    - desc: >
+        Rejoints par&nbsp;:
+
+      members:
+        - name: Isabelle Attard
+          desc: Députée (Nouvelle Donne)
+        - name: Olivier Besancenot
+          desc: ex-porte parole du NPA
+        - name: Pascal Canfin
+          desc: Ex-Ministre délégué au développement
+        - name: Emmanuel Chaumery
+          desc: Secrétaire national de Nouvelle Donne
+        - name: Sergio Coronado
+          desc: Député (EELV)
+        - name: Alain Krivine
+          desc: ex-porte parole de la LCR
+        - name: Philippe Poutou
+          desc: ex-porte parole du NPA
+
+    - desc: >
+        Plus de 70 personalités à travers le monde ont exprimé leur soutien
+        public à Antoine Deltour en signant la lettre ouverte 
+        "Le lanceur d'alerte des LuxLeaks ne devrait pas être poursuivi",
+        <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">publiée dans le <em>Guardian</em></a>
+        (en anglais) le 23 décembre 2014&nbsp;:
+
+      members:
+        - name: Raymond Baker
+          desc: Global Financial Integrity
+        - name: Jack A. Blum
+          desc: Tax Justice Network USA
+        - name: José Bové
+          desc: French MEP (Green)
+        - name: Franziska Brantner
+          desc: German MP (Green)
+        - name: Richard Brooks 
+          desc: "Journalist &amp; Author"
+        - name: Prof A J Brown
+          desc: Griffith University
+        - name: Terri Butler
+          desc: Australian MP (Labour)
+        - name: John Christensen
+          desc: Tax Justice Network UK
+        - name: Allison Christians 
+          desc: McGill University
+        - name: Frank Clemente
+          desc: Americans for Tax Fairness
+        - name: Alex Cobham
+          desc: Centre for Global Development
+        - name: Rosa L. DeLauro
+          desc: US Congresswoman (Democrat)
+        - name: Karima Delli 
+          desc: French MEP (Green)
+        - name: Anneliese Dodds
+          desc: UK MEP (Labour) 
+        - name: Lloyd Doggett
+          desc: US Congressman (Democrat)
+        - name: Rev Prof Andrew Dutney
+          desc: Uniting Church in Australia
+        - name: Bas Eickhout
+          desc: Dutch MEP (Green)
+        - name: Prof Peter Eigen
+          desc: Transparency International
+        - name: Sven Giegold
+          desc: German MEP (Green)
+        - name: Andrew Giles
+          desc: Australian MP (Labour)
+        - name: Jesse Griffiths
+          desc: Eurodad
+        - name: Gavin Hayman
+          desc: Global Witness
+        - name: Nathaniel Heller
+          desc: Global Integrity
+        - name: John Hilary
+          desc: War on Want
+        - name: Martin Hojsik
+          desc: ActionAid International
+        - name: Kelvin Hopkins
+          desc: UK MP (Labour) 
+        - name: Tim Hughes
+          desc: Involve
+        - name: Yannick Jadot
+          desc: French MEP (Green)
+        - name: Cathy James
+          desc: Public Concern at Work
+        - name: Lord (Joel) Joffe
+          desc: UK member of upper house (Labour)
+        - name: Eva Joly
+          desc: French MEP (Green)
+        - name: Ged Kearney
+          desc: Australian Council of Trade Unions (ACTU)
+        - name: Paul Kenny
+          desc: GMB union
+        - name: Dr Sheila Killian
+          desc: University of Limerick
+        - name: Philippe Lamberts 
+          desc: Belgian MEP (Green)
+        - name: Archie Law
+          desc: ActionAid Australia
+        - name: Mauricio Lazala
+          desc: "Business & Human Rights Resource Centre"
+        - name: Daniel Lebegue 
+          desc: Transparency International
+        - name: Eric LeCompte
+          desc: Jubilee USA
+        - name: Laetitia Liebert
+          desc: Sherpa
+        - name: Caroline Lucas
+          desc: UK MP (Green)
+        - name: Benoît Majerus
+          desc: University of Luxembourg
+        - name: Adrienne Margolis
+          desc: Lawyers for Better Business
+        - name: Sorley McCaughey
+          desc: Christian Aid Ireland
+        - name: Len McCluskey 
+          desc: Unite the union
+        - name: Porter McConnell
+          desc: Coallition for Financial Transparency
+        - name: John McDonnell
+          desc: UK MP (Labour)
+        - name: Katherine McFate
+          desc: Center for Effective Government
+        - name: Michael Meacher
+          desc: UK MP (Labour)
+        - name: Austin Mitchell
+          desc: UK MP (Labour)
+        - name: Richard Murphy
+          desc: Tax Research UK
+        - name: Melissa Parke
+          desc: Australian MP (Labour)
+        - name: Cedric Perrin
+          desc: French senator (UMP)
+        - name: Prof Sol Picciotto
+          desc: Lancaster University
+        - name: Bernard Pinaud
+          desc: CCFD-Terre Solidaire
+        - name: Prof Thomas Pogge
+          desc: Yale University
+        - name: Marc Purcell
+          desc: Australian Council for International Development
+        - name: David Quentin
+          desc: Tax Justice Network UK
+        - name: Michèle Rivasi
+          desc: French MEP (Green)
+        - name: Friederike Roder
+          desc: ONE
+        - name: Prof Tulio Rosembuj
+          desc: University of Barcelona
+        - name: Molly Scott Cato
+          desc: UK MEP (Green)
+        - name: Mark Serwotka
+          desc: PCS union
+        - name: Nick Shaxson
+          desc: Author 
+        - name: Prof Prem Sikka
+          desc: University of Essex
+        - name: Nick Smith
+          desc: UK MP (Labour)
+        - name: Jim Stewart
+          desc: "Trinity College, Dublin"
+        - name: Lord (Ben) Stoneham
+          desc: UK member of the upper house (Lib Dem)
+        - name: Dr Andy Storey
+          desc: University College Dublin
+        - name: Ernest Urtasun
+          desc: Spanish MEP (Green)
+        - name: Tom van der Lee
+          desc: Oxfam Novib
+        - name: Denis Vienot
+          desc: Justice et Paiz
+        - name: Duncan Wigan
+          desc: Copenhagen Business School
+        - name: Rebecca Wilkins
+          desc: FACT Coalition
+        - name: Dan Wootton
+          desc: Uniting Church in Australia
+        - name: Dr Mark Zirnsak
+          desc: Tax Justice Network Australia

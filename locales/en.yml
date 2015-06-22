@@ -61,28 +61,6 @@ en:
     donate: "Donate now"
   supporters:
     title: Supporters
-    tribune:
-      title: "“We support Antoine Deltour”"
-      desc: >
-         Signatories of an %{link}, published on March 10th, 2015:
-      link_text: op-ed in support of Antoine Deltour
-      link_url: /blog/2015/03/10/opinion/
-    ppjf:
-      title: "French Platform on Tax Havens"
-      desc: > 
-        The french <a href="http://www.stopparadisfiscaux.fr">Platform on Tax Havens</a>
-        and its member organizations:
-    others:
-      title: And also
-      desc: "The following organizations:"
-    guardian-letter:
-      title: "Open letter in the Guardian"
-      desc: > 
-        More than 70 politicians, academics, union heads and charity leaders around
-        the world have expressed their support to Antoine Deltour in the open letter
-        <a href="http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged">
-        "LuxLeaks tax source should not be charged"</a>, published in
-        <em>The Guardian</em> on December 23d, 2014:
   newsletterform:
     list: support-antoine-en
     unsub:
