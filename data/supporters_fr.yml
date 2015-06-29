@@ -28,6 +28,8 @@
 
     - desc: "Ainsi que&nbsp;:"
       members:
+        - name: Collectif Roosevelt Belgique
+          link: http://www.rooseveltbe.org/
         - name: Convention pour la 6ème République
           link: http://www.c6r.org/
         - name: Les Économistes Atterrés
@@ -35,12 +37,13 @@
         - name: EPSU
           link: http://www.epsu.org/
         - name: Financial Transparency Coalition
-          desc: 150 organisations et 14 gouvernements
           link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
         - name: F.S.U.
           link: http://www.fsu.fr/
         - name: Global Alliance for Tax Justice
           link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
+        - name: Mouvement des Objecteurs de Croissance
+          link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
         - name: Tax Justice Network
           link: http://www.taxjustice.net/
         - name: UGICT (CGT)
@@ -83,15 +86,17 @@
 
       members:
         - name: Isabelle Attard
-          desc: Députée (Nouvelle Donne)
+          desc: Députée (ex-Nouvelle Donne)
         - name: Olivier Besancenot
           desc: ex-porte parole du NPA
         - name: Pascal Canfin
           desc: Ex-Ministre délégué au développement
         - name: Emmanuel Chaumery
-          desc: Secrétaire national de Nouvelle Donne
+          desc: Ex-secrétaire national de Nouvelle Donne
         - name: Sergio Coronado
           desc: Député (EELV)
+        - name: Bernadette Groison
+          desc: Secrétaire nationale de la FSU
         - name: Alain Krivine
           desc: ex-porte parole de la LCR
         - name: Philippe Poutou

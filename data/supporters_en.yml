@@ -4,10 +4,8 @@
     - desc: "The following international organizations support Antoine Deltour:"
       members:
         - name: EPSU
-          desc: European Federation of Public Service Unions
           link: http://www.epsu.org/a/11264
         - name: Financial Transparency Coalition
-          desc: 150 organizations and 14 governments
           link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
         - name: Global Alliance for Tax Justice
           link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
@@ -43,6 +41,8 @@
 
     - desc: "And also:"
       members:
+        - name: Collectif Roosevelt Belgique
+          link: http://www.rooseveltbe.org/
         - name: C6R
           desc: Convention for a 6th French Republic
           link: http://www.c6r.org/
@@ -52,6 +52,9 @@
         - name: F.S.U.
           desc: French Union
           link: http://www.fsu.fr/
+        - name: M.O.C.
+          desc: French movement for Degrowth
+          link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
         - name: UGICT (CGT)
           desc: French Union
           link: http://www.ugict.cgt.fr/articles/actus/soutien-deltour-luxleaks
@@ -252,15 +255,17 @@
 
       members:
         - name: Isabelle Attard
-          desc: French MP (Nouvelle Donne)
+          desc: French MP (ex-Nouvelle Donne)
         - name: Olivier Besancenot
           desc: NPA, ex-spokeperson
         - name: Pascal Canfin
           desc: ex-Deputy Minister for Development
         - name: Emmanuel Chaumery
-          desc: Nouvelle Donne, Secretary General
+          desc: ex-Nouvelle Donne
         - name: Sergio Coronado
           desc: French MP (Green)
+        - name: Bernadette Groison
+          desc: FSU, Secretary general
         - name: Alain Krivine
           desc: LCR, ex-spokeperson
         - name: Philippe Poutou
