@@ -52,6 +52,9 @@
         - name: F.S.U.
           desc: French Union
           link: http://www.fsu.fr/
+        - name: Ligue des Droits de l'Homme
+          desc: Defense of Human Rights
+          link: http://www.ldh-france.org/soutien-ldh-antoine-deltour-lanceur-dalerte-luxleaks/
         - name: M.O.C.
           desc: French movement for Degrowth
           link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
@@ -256,17 +259,33 @@
       members:
         - name: Isabelle Attard
           desc: French MP (ex-Nouvelle Donne)
+        - name: Clémentine Autain
+          desc: Ensemble-FDG, spokesperson
+        - name: Gérard Bapt
+          desc: French MP (PS)
         - name: Olivier Besancenot
           desc: NPA, ex-spokeperson
         - name: Pascal Canfin
           desc: ex-Deputy Minister for Development
+        # - name: Fanélie Carrey-Conte
+        #   desc: French MP (PS)
         - name: Emmanuel Chaumery
           desc: ex-Nouvelle Donne
         - name: Sergio Coronado
           desc: French MP (Green)
+        - name: Françoise Dumont
+          desc: Ligue des Droits de l'Homme, President
         - name: Bernadette Groison
           desc: FSU, Secretary general
+        - name: Jean-François Mignard
+          desc: Ligue des droits de l’Homme, Secretary general
         - name: Alain Krivine
           desc: LCR, ex-spokeperson
+        - name: Pierre-Alain Muet
+          desc: Economist &amp; French MP (PS)
+        - name: Éric Piolle
+          desc: Mayor of Grenoble, France
         - name: Philippe Poutou
           desc: NPA, ex-spokeperson
+        - name: Cédric Villani
+          desc: Mathematician, Fields Medal

@@ -42,6 +42,8 @@
           link: http://www.fsu.fr/
         - name: Global Alliance for Tax Justice
           link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
+        - name: Ligue des Droits de l'Homme
+          link: http://www.ldh-france.org/soutien-ldh-antoine-deltour-lanceur-dalerte-luxleaks/
         - name: Mouvement des Objecteurs de Croissance
           link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
         - name: Tax Justice Network
@@ -87,20 +89,37 @@
       members:
         - name: Isabelle Attard
           desc: Députée (ex-Nouvelle Donne)
+        - name: Clémentine Autain
+          desc: Porte parole Ensemble (FDG)
+        - name: Gérard Bapt
+          desc: Député PS
         - name: Olivier Besancenot
           desc: ex-porte parole du NPA
         - name: Pascal Canfin
           desc: Ex-Ministre délégué au développement
+        # - name: Fanélie Carrey-Conte
+        #   desc: Députée (PS)
         - name: Emmanuel Chaumery
           desc: Ex-secrétaire national de Nouvelle Donne
         - name: Sergio Coronado
           desc: Député (EELV)
+        - name: Françoise Dumont
+          desc: Présidente de la Ligue des droits de l’Homme
         - name: Bernadette Groison
           desc: Secrétaire nationale de la FSU
         - name: Alain Krivine
           desc: ex-porte parole de la LCR
+        - name: Jean-François Mignard
+          desc: Secrétaire général de la Ligue des droits de l’Homme.
+        - name: Pierre-Alain Muet
+          desc: Économiste, Député (PS)
+        - name: Éric Piolle
+          desc: Maire de Grenoble
         - name: Philippe Poutou
           desc: ex-porte parole du NPA
+        - name: Cédric Villani
+          desc: Mathématicien, Médaille Fields
+
 
     - desc: >
         Plus de 70 personalités à travers le monde ont exprimé leur soutien
