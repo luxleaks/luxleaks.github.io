@@ -16,7 +16,7 @@ Le comité de soutien à Antoine Deltour s’est officiellement constitué en as
 
 L’association a été créée par une assemblée générale constitutive à Epinal, le 28 février 2015. Elle est est administrée par un conseil de 12 co-présidents, dont 3 mandatés par des personnes morales (CCFD Vosges, ATTAC Vosges, Épinal en transition).
  
-L’association est notament en charge de gérer les fonds collectés pour assurer la défense d’Antoine (frais d’avocats, financement de la campagne de soutien, …). Elle sera sans doute appelée à être dissoute lorsque les actions judiciaires envers Antoine seront éteintes. Lors de sa dissolution, l'actif sera dévolu à une ou plusieurs associations œuvrant pour la défense des lanceurs d’alerte ou la lutte contre les paradis fiscaux.
+L’association est notamment chargée de gérer les fonds collectés pour assurer la défense d’Antoine (frais d’avocats, financement de la campagne de soutien, …). Elle sera sans doute appelée à être dissoute lorsque les actions judiciaires envers Antoine seront éteintes. Lors de sa dissolution, l'actif sera dévolu à une ou plusieurs associations œuvrant pour la défense des lanceurs d’alerte ou la lutte contre les paradis fiscaux.
  
 _Les personnes désireuses de consulter l’intégralité des statuts peuvent en faire la demande en écrivant au Comité._
 

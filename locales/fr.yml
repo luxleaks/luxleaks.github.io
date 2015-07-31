@@ -8,7 +8,7 @@ fr:
   donate:
     title: "Faire un Don de Soutien"
     description: >
-      Le comité de soutien oeuvre pour la défense d'Antoine Deltour,
+      Le comité de soutien œuvre pour la défense d'Antoine Deltour,
       la protection des lanceurs d'alerte et la justice fiscale.
       <b>Soutenez notre action</b> et <b>aidez à financer la défense d'Antoine</b> en vue de son procès,
       votre contribution peut faire la différence !
@@ -16,7 +16,6 @@ fr:
       Si vous rencontrez un problème avec le formulaire ci-dessus, vous pouvez
       également faire un don directement depuis la %{link}.
     helloasso: page du Comité de Soutien sur HelloAsso
-
   footer:
     credits: Attributions
     terms: Mentions&nbsp;légales
