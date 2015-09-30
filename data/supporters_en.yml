@@ -3,7 +3,7 @@
 
     - desc: "The following international organizations support Antoine Deltour:"
       members:
-        - name: EPSU
+        - name: EPSU - NEA committee
           link: http://www.epsu.org/a/11264
         - name: Financial Transparency Coalition
           link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
@@ -267,8 +267,8 @@
           desc: NPA, ex-spokeperson
         - name: Pascal Canfin
           desc: ex-Deputy Minister for Development
-        # - name: Fanélie Carrey-Conte
-        #   desc: French MP (PS)
+        - name: Fanélie Carrey-Conte
+          desc: French MP (PS)
         - name: Emmanuel Chaumery
           desc: ex-Nouvelle Donne
         - name: Sergio Coronado

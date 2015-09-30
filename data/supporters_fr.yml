@@ -31,15 +31,15 @@
         - name: Collectif Roosevelt Belgique
           link: http://www.rooseveltbe.org/
         - name: Convention pour la 6ème République
-          link: http://www.c6r.org/
+          link: http://www.c6r.org/spip.php?article1260
         - name: Les Économistes Atterrés
           link: http://www.atterres.org/
-        - name: EPSU
-          link: http://www.epsu.org/
+        - name: Fédération Syndicale Européenne des Services Publics
+          link: http://epsu.org/a/11264
         - name: Financial Transparency Coalition
           link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
         - name: F.S.U.
-          link: http://www.fsu.fr/
+          link: http://snpi-fsu.org/spip.php?article523
         - name: Global Alliance for Tax Justice
           link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
         - name: Ligue des Droits de l'Homme
@@ -91,34 +91,72 @@
           desc: Députée (ex-Nouvelle Donne)
         - name: Clémentine Autain
           desc: Porte parole Ensemble (FDG)
+        - name: Geneviève Azam
+          desc: Économiste
+        - name: Guillaume Balas
+          desc: Député européen (PS)
         - name: Gérard Bapt
           desc: Député PS
         - name: Olivier Besancenot
           desc: ex-porte parole du NPA
+        - name: Christophe Bonneuil
+          desc: Historien des sciences
         - name: Pascal Canfin
           desc: Ex-Ministre délégué au développement
-        # - name: Fanélie Carrey-Conte
-        #   desc: Députée (PS)
+        - name: Fanélie Carrey-Conte
+          desc: Députée (PS)
         - name: Emmanuel Chaumery
           desc: Ex-secrétaire national de Nouvelle Donne
+        - name: Benjamin Coriat
+          desc: Économiste
         - name: Sergio Coronado
           desc: Député (EELV)
+        - name: Marc Dufumier
+          desc: Agronome
         - name: Françoise Dumont
           desc: Présidente de la Ligue des droits de l’Homme
+        - name: Jean Gadrey
+          desc: Économiste
         - name: Bernadette Groison
           desc: Secrétaire nationale de la FSU
+        - name: Benoît Hamon
+          desc: Député (PS)
         - name: Alain Krivine
           desc: ex-porte parole de la LCR
+        - name: Jean Lassalle
+          desc: Député
+        - name: Safia Lebdi
+          desc: Conseillère régionale EELV – Présidente des Insoumis-es
+        - name: Emmanuel Maurel
+          desc: Député européen (PS)
+        - name: Dominique Méda
+          desc: Philosophe et Sociologue 
+        - name: Yves Michel
+          desc: Éditeur
         - name: Jean-François Mignard
           desc: Secrétaire général de la Ligue des droits de l’Homme.
         - name: Pierre-Alain Muet
           desc: Économiste, Député (PS)
+        - name: Dominique Plihon
+          desc: Économiste
+        - name: Monique Pinçon-Charlot et Michel Pinçon
+          desc: Sociologues, anciens Directeurs de Recherche au CNRS
         - name: Éric Piolle
           desc: Maire de Grenoble
         - name: Philippe Poutou
           desc: ex-porte parole du NPA
+        - name: Olivier de Schutter
+          desc: Professeur de droit international à l’Université catholique de Louvain
+        - name: Isabelle Stengers
+          desc: Philosophe
+        - name: Henri Sterdyniak
+          desc: Économiste
+        - name: Jacques Testart
+          desc: Directeur de recherche honoraire à l'INSERM – Président d'honneur de la fondation Sciences Citoyenne
         - name: Cédric Villani
           desc: Mathématicien, Médaille Fields
+        - name: Sophie Wahnich
+          desc: Historienne
 
 
     - desc: >
