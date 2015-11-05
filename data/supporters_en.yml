@@ -41,6 +41,8 @@
 
     - desc: "And also:"
       members:
+        - name: French Association of Sociology
+          link: http://www.test-afs-socio.fr/drupal/node/4464
         - name: Collectif Roosevelt Belgique
           link: http://www.rooseveltbe.org/
         - name: C6R
@@ -259,33 +261,109 @@
       members:
         - name: Isabelle Attard
           desc: French MP (ex-Nouvelle Donne)
+        - name: Éliane Assassi
+          desc: Fench Senator (CRC)
         - name: Clémentine Autain
           desc: Ensemble-FDG, spokesperson
+        - name: Geneviève Azam
+          desc: Economist
+        - name: Guillaume Balas
+          desc: MEP (PS)
         - name: Gérard Bapt
           desc: French MP (PS)
+        - name: Patrick Bard
+          desc: Photojournalist and writer
+        - name: Marie-France Beaufils
+          desc: French Senator (CRC)
         - name: Olivier Besancenot
           desc: NPA, ex-spokeperson
+        - name: Christophe Bonneuil
+          desc: Science historian
         - name: Pascal Canfin
           desc: ex-Deputy Minister for Development
         - name: Fanélie Carrey-Conte
           desc: French MP (PS)
+        - name: Jean-Claude Carrière
+          desc: Writer
         - name: Emmanuel Chaumery
           desc: ex-Nouvelle Donne
+        - name: Jacques Chérèque
+          desc: Ex french minister
+        - name: Benjamin Coriat
+          desc: Economist
         - name: Sergio Coronado
           desc: French MP (Green)
+        - name: Annie David
+          desc: French senator (CRC)
+        - name: Evelyne Didier
+          desc: French senator (CRC)
+        - name: Marc Dufumier
+          desc: Agronomist
         - name: Françoise Dumont
           desc: Ligue des Droits de l'Homme, President
+        - name: Carine Favier
+          desc: Family planning movement
+        - name: Jean Gadrey
+          desc: Economist
+        - name: Brigitte Conthier-Maurin
+          desc: French senator (CRC)
         - name: Bernadette Groison
           desc: FSU, Secretary general
-        - name: Jean-François Mignard
-          desc: Ligue des droits de l’Homme, Secretary general
+        - name: Benoît Hamon
+          desc: French MP (PS)
         - name: Alain Krivine
           desc: LCR, ex-spokeperson
+        - name: Jean Lassalle
+          desc: French MP
+        - name: Sylvain Laurens
+          desc: Sociologist
+        - name: Michel Le Scouarnec
+          desc: French senator (CRC)
+        - name: Marin Ledun
+          desc: Writer
+        - name: Marcus Malte
+          desc: Writer
+        - name: Dominique Manotti
+          desc: Writer
+        - name: Emmanuel Maurel
+          desc: French MP (PS)
+        - name: Dominique Méda
+          desc: Philosopher and Sociologist
+        - name: Yves Michel
+          desc: Publisher
+        - name: Jean-François Mignard
+          desc: Ligue des droits de l’Homme, Secretary general
+        - name: Patrick Mosconi
+          desc: Writer and artist
         - name: Pierre-Alain Muet
           desc: Economist &amp; French MP (PS)
+        - name: Laurant Pinatel
+          desc: Confédération Paysanne (farmers' union)
+        - name: Monique Pinçon-Charlot et Michel Pinçon
+          desc: Sociologists
         - name: Éric Piolle
           desc: Mayor of Grenoble, France
+        - name: Dominique Plihon
+          desc: Economist
         - name: Philippe Poutou
           desc: NPA, ex-spokeperson
+        - name: Jean-Bernard Pouy
+          desc: Writer
+        - name: Virginie Rozière
+          desc: MEP (S&amp;D)
+        - name: Olivier de Schutter
+          desc: Professor of international law
+        - name: Alexis Spire
+          desc: Sociologist
+        - name: Isabelle Stengers
+          desc: Philosopher
+        - name: Henri Sterdyniak
+          desc: Economist
+        - name: Jacques Testart
+          desc: Biologist
         - name: Cédric Villani
           desc: Mathematician, Fields Medal
+        - name: Sophie Wahnich
+          desc: Historian
+        - name: Dominique Watrin
+          desc: French senator (CRC)

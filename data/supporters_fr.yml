@@ -28,6 +28,8 @@
 
     - desc: "Ainsi que&nbsp;:"
       members:
+        - name: Association Française de Sociologie
+          link: http://www.test-afs-socio.fr/drupal/node/4464
         - name: Collectif Roosevelt Belgique
           link: http://www.rooseveltbe.org/
         - name: Convention pour la 6ème République
@@ -91,12 +93,18 @@
           desc: Députée (ex-Nouvelle Donne)
         - name: Clémentine Autain
           desc: Porte parole Ensemble (FDG)
+        - name: Éliane Assassi
+          desc: Sénatrice (CRC)
         - name: Geneviève Azam
           desc: Économiste
         - name: Guillaume Balas
           desc: Député européen (PS)
         - name: Gérard Bapt
           desc: Député PS
+        - name: Patrick Bard
+          desc: Photojournaliste et écrivain
+        - name: Marie-France Beaufils
+          desc: Sénatrice (CRC)
         - name: Olivier Besancenot
           desc: ex-porte parole du NPA
         - name: Christophe Bonneuil
@@ -105,18 +113,30 @@
           desc: Ex-Ministre délégué au développement
         - name: Fanélie Carrey-Conte
           desc: Députée (PS)
+        - name: Jean-Claude Carrière
+          desc: Écrivain et scénariste
         - name: Emmanuel Chaumery
           desc: Ex-secrétaire national de Nouvelle Donne
+        - name: Jacques Chérèque
+          desc: Ancien ministre
         - name: Benjamin Coriat
           desc: Économiste
         - name: Sergio Coronado
           desc: Député (EELV)
+        - name: Annie David
+          desc: Sénatrice (CRC)
+        - name: Evelyne Didier
+          desc: Sénatrice (CRC)
         - name: Marc Dufumier
           desc: Agronome
         - name: Françoise Dumont
           desc: Présidente de la Ligue des droits de l’Homme
+        - name: Carine Favier
+          desc: Mouvement du planning familial
         - name: Jean Gadrey
           desc: Économiste
+        - name: Brigitte Conthier-Maurin
+          desc: Sénatrice (CRC)
         - name: Bernadette Groison
           desc: Secrétaire nationale de la FSU
         - name: Benoît Hamon
@@ -125,8 +145,18 @@
           desc: ex-porte parole de la LCR
         - name: Jean Lassalle
           desc: Député
+        - name: Sylvain Laurens
+          desc: Sociologue
+        - name: Michel Le Scouarnec
+          desc: Sénateur (CRC)
         - name: Safia Lebdi
           desc: Conseillère régionale EELV – Présidente des Insoumis-es
+        - name: Marin Ledun
+          desc: Romancier
+        - name: Marcus Malte
+          desc: Romancier
+        - name: Dominique Manotti
+          desc: Romancier
         - name: Emmanuel Maurel
           desc: Député européen (PS)
         - name: Dominique Méda
@@ -135,18 +165,28 @@
           desc: Éditeur
         - name: Jean-François Mignard
           desc: Secrétaire général de la Ligue des droits de l’Homme.
+        - name: Patrick Mosconi
+          desc: Scénariste et peintre
         - name: Pierre-Alain Muet
           desc: Économiste, Député (PS)
-        - name: Dominique Plihon
-          desc: Économiste
+        - name: Laurant Pinatel
+          desc: Confédération Paysanne
         - name: Monique Pinçon-Charlot et Michel Pinçon
           desc: Sociologues, anciens Directeurs de Recherche au CNRS
         - name: Éric Piolle
           desc: Maire de Grenoble
+        - name: Dominique Plihon
+          desc: Économiste
         - name: Philippe Poutou
           desc: ex-porte parole du NPA
+        - name: Jean-Bernard Pouy
+          desc: Romancier
+        - name: Virginie Rozière
+          desc: Député européenne (S&amp;D)
         - name: Olivier de Schutter
           desc: Professeur de droit international à l’Université catholique de Louvain
+        - name: Alexis Spire
+          desc: Sociologue
         - name: Isabelle Stengers
           desc: Philosophe
         - name: Henri Sterdyniak
@@ -157,6 +197,8 @@
           desc: Mathématicien, Médaille Fields
         - name: Sophie Wahnich
           desc: Historienne
+        - name: Dominique Watrin
+          desc: Sénateur (CRC)
 
 
     - desc: >
