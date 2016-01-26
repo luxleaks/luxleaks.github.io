@@ -58,6 +58,10 @@ fr:
     donate: "Faire un don"
   supporters:
     title: Soutiens publics
+    organisations: Organisations
+    personalities: Personalités
+    cat_libe: Signataires d'une tribune %{link} le 10 mars 2015.
+    cat_libe_link: tribune publiée dans Libération
   blog:
     title: "Les <span>actualités</span>"
   newsletterform:

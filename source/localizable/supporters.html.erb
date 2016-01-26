@@ -3,23 +3,40 @@ layout: page
 ---
 <section class="supporters">
   <h1><%= t("supporters.title") %></h1>
-  <% supporters = (I18n.locale == I18n.default_locale) ? data.supporters_fr : data.supporters_en %>
-  <% supporters.each do |section| %>
-  <h2><%= section.title %></h2>
-  <% section.groups.each do |group| %>
-  <p><%= group.desc %></p>
-  <ul>
-    <% group.members.each do |member| %>
+
+  <h2>Organisations</h2>
+  <ul class="supporters__list">
+    <% data.supporters.organisations.each do |member| %>
+    <li>
+      <% if member.link != nil %><a href="<%= member.link %>"><% end %>
+      <%= (I18n.locale == I18n.default_locale) ? member.fr : member.en %>
+      <% if member.link != nil %></a><% end %>
+    </li>
+    <% end %>
+  </ul>
+
+  <h2>Personalités</h2>
+  <p>Ils ont exprimé leur soutien :</p>  
+  <ul class="supporters__list">
+    <% data.supporters.personalities.each do |member| %>
     <li>
       <% if member.link != nil %><a href="<%= member.link %>"><% end %>
       <%= member.name %>
+      <sup class="supporters__noteref">
+      <% if member.cat == 'libe' %>*<% end %>
+      <% if member.cat == 'guardian' %>**<% end %>
+      <% if member.cat == 'contact' %>***<% end %>
+      </sup>
       <% if member.link != nil %></a><% end %>
-      <% if member.desc != nil %>
-        <span><%= member.desc %></span></li>
-      <% end %>
+      <span><%= (I18n.locale == I18n.default_locale) ? member.fr : member.en %></span>
+    </li>
     <% end %>
   </ul>
-  <% end %>
-  
-  <% end %>
+
+  <ul class="supporters__footnotes" role="list">
+  <li><%= t("supporters.cat_libe", :link => "<a>"+t("supporters.cat_libe_link")+"</a>") %> </li>
+    <li>Signataires d'une tribune publiée dans le Guardian</li>
+    <li>Soutiens spontanés ou contactés par le Comité de Soutien</li>
+  </ul>
+
 </section>

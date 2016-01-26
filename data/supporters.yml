@@ -1,0 +1,666 @@
+organisations:        
+  - fr: Les Amis de la Terre
+    en: Les Amis de la Terre
+    link: http://www.amisdelaterre.org/
+    cat: ppfj
+  - fr: Anticor
+    en: Anticor
+    link: http://www.anticor.org/
+    cat: ppfj
+  - fr: Association Française de Sociologie
+    en: French Association of Sociology
+    link: http://www.test-afs-socio.fr/drupal/node/4464
+  - fr: Attac France
+    en: Attac France
+    link: https://france.attac.org/actus-et-medias/le-flux/article/soutenons-antoine-deltour
+    cat: ppfj
+  - fr: CADTM France
+    en: CADTM France
+    link: http://cadtm.org/
+    cat: ppfj
+  - fr: CCFD-Terre Solidaire
+    en: CCFD-Terre Solidaire
+    link: http://ccfd-terresolidaire.org
+    cat: ppfj
+  - fr: CFDT
+    en: CFDT
+    link: https://www.cfdt.fr/portail/theme/mobilisation/appel-a-soutenir-antoine-deltour-a-l-origine-des-luxleaks-srv1_257376
+    cat: ppfj
+  - fr: Collectif Roosevelt Belgique
+    en: Collectif Roosevelt Belgique
+    link: http://www.rooseveltbe.org/
+  - fr: Convention pour la 6ème République
+    en: Convention for a 6th French Republic
+    link: http://www.c6r.org/spip.php?article1260
+  - fr: CRID
+    en: CRID
+    link: http://www.crid.asso.fr/
+    cat: ppfj
+  - fr: Droit pour la justice
+    en: Droit pour la justice
+    link: http://www.droit-pour-la-justice.org/
+    cat: ppfj
+  - fr: Les Économistes Atterrés
+    en: Les Économistes Atterrés
+    link: http://www.atterres.org/
+  - fr: Fédération Syndicale Européenne des Services Publics
+    en: EPSU - NEA committee
+    link: http://epsu.org/a/11264
+  - fr: Financial Transparency Coalition
+    en: Financial Transparency Coalition
+    link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
+  - fr: F.S.U.
+    en: F.S.U (French Union)
+    link: http://snpi-fsu.org/spip.php?article523
+  - fr: Global Alliance for Tax Justice
+    en: Global Alliance for Tax Justice
+    link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
+  - fr: Justice et Paix
+    en: Justice et Paix
+    link: http://www.justice-paix.cef.fr/
+    cat: ppfj
+  - fr: Ligue des Droits de l'Homme
+    en: Human Rights League France
+    link: http://www.ldh-france.org/soutien-ldh-antoine-deltour-lanceur-dalerte-luxleaks/
+  - fr: Mouvement des Objecteurs de Croissance
+    en: French movement for Degrowth
+    link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
+  - fr: OCTFI
+    en: OCTFI
+    link: http://octfi.org/?p=1326
+    cat: ppfj
+  - fr: Oxfam France
+    en: Oxfam France
+    link: https://www.oxfamfrance.org/communique-presse/justice-fiscale/luxleaks-ong-monde-entier-se-mobilisent-journaliste-et-lanceur-alerte
+    cat: ppfj
+  - fr: Réseau Foi et Justice Afrique Europe
+    en: Africa Europe Faith and Justice Network
+    link: http://www.reseau-foi-et-justice.fr/
+    cat: ppfj
+  - fr: Secours catholique Caritas France
+    en: Secours catholique Caritas France
+    link: http://www.secours-catholique.org/
+    cat: ppfj
+  - fr: Sherpa
+    en: Sherpa
+    link: http://www.asso-sherpa.org
+    cat: ppfj
+  - fr: Survie
+    en: Survie
+    link: http://survie.org
+    cat: ppfj
+  - fr: Solidaires Finances Publiques
+    en: Solidaires Finances Publiques
+    link: http://solidairesfinancespubliques.fr/
+    cat: ppfj
+  - fr: Syndicat de la magistrature
+    en: Syndicat de la magistrature
+    link: http://www.syndicat-magistrature.org/
+    cat: ppfj
+  - fr: Tax Justice Network
+    en: Tax Justice Network
+    link: http://www.taxjustice.net/
+  - fr: Transparency International France
+    en: Transparency International France
+    link: http://www.transparency-france.org/
+    cat: ppfj
+  - fr: UGICT-CGT
+    en: UGCIT-CGT (French Union)
+    link: http://www.ugict.cgt.fr/articles/actus/soutien-deltour-luxleaks
+    cat: ppfj
+  - fr: Xnet
+    en: Xnet
+    link: https://xnet-x.net/en/
+
+personalities:
+  - name: Isabelle Attard
+    fr: Députée (Écologiste)
+    en: French MP
+    cat: contact
+  - name: Clémentine Autain
+    fr: Porte parole Ensemble (FDG)
+    en: French politician
+    cat: contact
+  - name: Éliane Assassi
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
+  - name: Geneviève Azam
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Raymond Baker
+    fr: Global Financial Integrity
+    en: Global Financial Integrity
+    cat: guardian
+  - name: Guillaume Balas
+    fr: Député européen (PS)
+    en: French MP
+    cat: contact
+  - name: Gérard Bapt
+    fr: Député PS
+    en: French MP
+    cat: contact
+  - name: Patrick Bard
+    fr: Photojournaliste et écrivain
+    en: Photojournalist &amp; writer
+    cat: contact
+  - name: Marie-France Beaufils
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
+  - name: Olivier Besancenot
+    fr: Homme politique (NPA)
+    en: French politician
+    cat: contact
+  - name: Jack A. Blum
+    fr: Tax Justice Network
+    en: Tax Justice Network USA
+    cat: guardian
+  - name: Christophe Bonneuil
+    fr: Historien des sciences
+    en: Historian of science
+    cat: contact
+  - name: José Bové
+    fr: Député européen (Verts)
+    en: French MEP (Green)
+    cat: guardian
+  - name: Franziska Brantner
+    fr: Députée Allemande
+    en: German MP (Green)
+    cat: guardian
+  - name: Richard Brooks 
+    fr: Journaliste &amp; écrivain
+    en: Journalist &amp; Author
+    cat: guardian
+  - name: Prof A J Brown
+    fr: Université de Griffith
+    en: Griffith University
+    cat: guardian
+  - name: Terri Butler
+    fr: Député Australien
+    en: Australian MP (Labour)
+    cat: guardian
+  - name: Pascal Canfin
+    fr: ex-Ministre délégué au développement
+    en: ex-Deputy Minister for Development
+    cat: contact
+  - name: Fanélie Carrey-Contes
+    fr: Députée (PS)
+    en: French MP
+    cat: contact
+  - name: Jean-Claude Carrière
+    fr: Écrivain et scénariste
+    en: Novelist, screenwriter
+    cat: contact
+  - name: Emmanuel Chaumery
+    fr: ex-Secrétaire national de Nouvelle Donne
+    en: French politician
+    cat: contact
+  - name: Jacques Chérèque
+    fr: Ancien ministre
+    en: ex-French minister
+    cat: contact
+  - name: John Christensen
+    fr: Tax Justice Network
+    en: Tax Justice Network UK
+    cat: guardian
+  - name: Allison Christians 
+    fr: Université de McGill
+    en: McGill University
+    cat: guardian
+  - name: Frank Clemente
+    fr: Americans for Tax Fairness
+    en: Americans for Tax Fairness
+    cat: guardian
+  - name: Alex Cobham
+    fr: Centre for Global Development
+    en: Centre for Global Development
+    cat: guardian
+  - name: Daniel Cohn-Bendit
+    fr: ex-Député européen (EELV)
+    en: ex-MEP
+    cat: libe
+  - name: Brigitte Conthier-Maurin
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
+  - name: Benjamin Coriat
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Sergio Coronado
+    fr: Député (EELV)
+    en: French MP
+    cat: contact
+  - name: Annie David
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
+  - name: Rosa L. DeLauro
+    fr: Membre du Congrès des USA
+    en: US Congresswoman (Democrat)
+    cat: guardian
+  - name: Karima Delli 
+    fr: Députée européenne (Verts)
+    en: French MEP (Green)
+    cat: guardian
+  - name: Evelyne Didier
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
+  - name: Anneliese Dodds
+    fr: Députée européenne britannique (UK/Labour)
+    en: UK MEP (Labour)
+    cat: guardian
+  - name: Lloyd Doggett
+    fr: Membre du Congrès des USA
+    en: US Congressman (Democrat)
+    cat: guardian
+  - name: Marc Dufumier
+    fr: Agronome
+    en: Agronomist
+    cat: contact
+  - name: Françoise Dumont
+    fr: Présidente de la Ligue des droits de l’Homme
+    en: President of the French Human Rights League
+    cat: contact
+  - name: Rev Prof Andrew Dutney
+    fr: Uniting Church, Australie
+    en: Uniting Church in Australia
+    cat: guardian
+  - name: Bas Eickhout
+    fr: Député européen néerlandais (Verts)
+    en: Dutch MEP (Green)
+    cat: guardian
+  - name: Prof Peter Eigen
+    fr: Transparency International
+    en: Transparency International
+    cat: guardian
+  - name: Hervé Falciani
+    fr: Lanceur d'alerte (SwissLeaks)
+    en: Whistleblower (SwissLeaks)
+    cat: libe
+  - name: Carine Favier
+    fr: Mouvement du planning familial
+    en: Family Planning Movement
+    cat: contact
+  - name: Jean Gadrey
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Yann Galut
+    fr: Député (PS)
+    en: French MP
+    cat: libe
+  - name: Stéphanie Gibaud
+    fr: Lanceuse d'alerte (UBS)
+    en: Whistleblower (UBS)
+    cat: libe
+  - name: Sven Giegold
+    fr: Député européen allemand (Verts)
+    en: German MEP (Green)
+    cat: guardian
+  - name: Andrew Giles
+    fr: Député australien
+    en: Australian MP (Labour)
+    cat: guardian
+  - name: Jesse Griffiths
+    fr: Eurodad
+    en: Eurodad
+    cat: guardian
+  - name: Bernadette Groison
+    fr: Secrétaire nationale de la FSU
+    en: General secretary of FSU
+    cat: contact
+  - name: Gavin Hayman
+    fr: Global Witness
+    en: Global Witness
+    cat: guardian
+  - name: Benoît Hamon
+    fr: Député (PS)
+    en: French MP
+    cat: contact
+  - name: Nathaniel Heller
+    fr: Global Integrity
+    en: Global Integrity
+    cat: guardian
+  - name: John Hilary
+    fr: War on Want
+    en: War on Want
+    cat: guardian
+  - name: Martin Hojsik
+    fr: ActionAid International
+    en: ActionAid International
+    cat: guardian
+  - name: Kelvin Hopkins
+    fr: Membre du parlement du Royaume-Uni
+    en: UK MP (Labour) 
+    cat: guardian
+  - name: Tim Hughes
+    fr: Involve
+    en: Involve
+    cat: guardian
+  - name: Yannick Jadot
+    fr: Député européen (Verts)
+    en: French MEP (Green)
+    cat: guardian
+  - name: Cathy James
+    fr: Public Concern at Work
+    en: Public Concern at Work
+    cat: guardian
+  - name: Lord (Joel) Joffe
+    fr: Membre du parlement du Royaume-Uni
+    en: UK member of upper house (Labour)
+    cat: guardian
+  - name: Eva Joly
+    fr: Députée européenne (EELV)
+    en: French MEP (Greens)
+    cat: libe
+  - name: Ged Kearney
+    fr: Conseil australien des syndicats  
+    en: Australian Council of Trade Unions (ACTU)
+    cat: guardian
+  - name: Paul Kenny
+    fr: Syndicat GMB
+    en: GMB union
+    cat: guardian
+  - name: Dr Sheila Killian
+    fr: Universtié de Limerick
+    en: University of Limerick
+    cat: guardian
+  - name: Alain Krivine
+    fr: ex-porte parole de la LCR
+    en: French politician
+    cat: contact
+  - name: Philippe Lamberts
+    fr: Député européen belge (Verts) 
+    en: Belgian MEP (Green)
+    cat: guardian
+  - name: Jean Lassalle
+    fr: Député
+    en: French MP
+    cat: contact
+  - name: Sylvain Laurens
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
+  - name: Archie Law
+    fr: ActionAid Australie
+    en: ActionAid Australia
+    cat: guardian
+  - name: Mauricio Lazala
+    fr: Business &amp; Human Rights Resource Centre
+    en: Business &amp; Human Rights Resource Centre
+    cat: guardian
+  - name: Michel Le Scouarnec
+    fr: Sénateur (CRC)
+    en: French Senator
+    cat: contact
+  - name: Safia Lebdi
+    fr: Conseillère régionale EELV – Présidente des Insoumis-es
+    en: French politician
+    cat: contact
+  - name: Daniel Lebegue
+    fr: Président de Transparency International France
+    en: Transparency International
+    cat: guardian
+  - name: Eric LeCompte
+    fr: Jubilee USA
+    en: Jubilee USA
+    cat: guardian
+  - name: Marin Ledun
+    fr: Romancier
+    en: Novelist
+    cat: contact
+  - name: Laetitia Liebert
+    fr: Sherpa
+    en: Sherpa
+    cat: guardian
+  - name: Caroline Lucas
+    fr: Membre du parlement britannique
+    en: UK MP (Green)
+    cat: guardian
+  - name: Benoît Majerus
+    fr: Université du Luxembourg
+    en: University of Luxembourg
+    cat: libe
+  - name: Marcus Malte
+    fr: Romancier
+    en: Novelist
+    cat: contact
+  - name: Dominique Manotti
+    fr: Romancier
+    en: Novelist
+    cat: contact
+  - name: Adrienne Margolis
+    fr: Lawyers for Better Business
+    en: Lawyers for Better Business
+    cat: guardian
+  - name: Emmanuel Maurel
+    fr: Député européen (PS)
+    en: French MEP (S&amp;D)
+    cat: contact
+  - name: Sorley McCaughey
+    fr: Christian Aid Ireland
+    en: Christian Aid Ireland
+    cat: guardian
+  - name: Len McCluskey 
+    fr: Unite the union
+    en: Unite the union
+    cat: guardian
+  - name: Porter McConnell
+    fr: Coalition for Financial Transparency
+    en: Coallition for Financial Transparency
+    cat: guardian
+  - name: John McDonnell
+    fr: Membre du parlement britannique
+    en: UK MP (Labour)
+    cat: guardian
+  - name: Katherine McFate
+    fr: Center for Effective Government  
+    en: Center for Effective Government
+    cat: guardian
+  - name: Michael Meacher
+    fr: Membre du parlement britannique
+    en: UK MP (Labour)
+    cat: guardian
+  - name: Dominique Méda
+    fr: Philosophe &amp; Sociologue 
+    en: Philosopher &amp; sociologist
+    cat: contact
+  - name: Yves Michel
+    fr: Éditeur
+    en: Publisher
+    cat: contact
+  - name: Jean-François Mignard
+    fr: Secrétaire général de la Ligue des droits de l’Homme.
+    en: French Human Rights League
+    cat: contact
+  - name: Austin Mitchell
+    fr: Membre du parlement britannique
+    en: UK MP (Labour)
+    cat: guardian
+  - name: Patrick Mosconi
+    fr: Scénariste e&amp; peintre
+    en: Screenwriter &amp; painter
+    cat: contact
+  - name: Pierre-Alain Muet
+    fr: Économiste, Député (PS)
+    en: French MP &amp; Economist
+    cat: contact
+  - name: Richard Murphy
+    fr: Tax Research UK
+    en: Tax Research UK
+    cat: guardian
+  - name: Melissa Parke
+    fr: Députée australienne
+    en: Australian MP (Labour)
+    cat: guardian
+  - name: Cédric Perrin
+    fr: Sénateur (UMP)
+    en: French Senator
+    cat: libe
+  - name: Prof Sol Picciotto
+    fr: Université de Lancaster
+    en: Lancaster University
+    cat: guardian
+  - name: Thomas Piketty
+    fr: Économiste
+    en: Economist
+    cat: libe
+  - name: Laurant Pinatel
+    fr: Confédération Paysanne
+    en: Confédération Paysanne
+    cat: contact
+  - name: Bernard Pinaud
+    fr: CCFD-Terre Solidaire
+    en: CCFD-Terre Solidaire
+    cat: guardian
+  - name: Monique Pinçon-Charlot<br/>Michel Pinçon
+    fr: Sociologues, anciens Directeurs de Recherche au CNRS
+    en: Sociologists
+    cat: contact
+  - name: Éric Piolle
+    fr: Maire de Grenoble
+    en: Mayor of Grenoble
+    cat: contact
+  - name: Dominique Plihon
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Prof Thomas Pogge
+    fr: Université de Yale
+    en: Yale University
+    cat: guardian
+  - name: Philippe Poutou
+    fr: ex-porte parole du NPA
+    en: French politician
+    cat: contact
+  - name: Jean-Bernard Pouy
+    fr: Romancier
+    en: Novelist
+    cat: contact
+  - name: Marc Purcell
+    fr: Conseil australien pour le développement international
+    en: Australian Council for International Development
+    cat: guardian
+  - name: David Quentin
+    fr: Tax Justice Network
+    en: Tax Justice Network UK
+    cat: guardian
+  - name: Michèle Rivasi
+    fr: Députée européenne (Verts)
+    en: French MEP (Green)
+    cat: guardian
+  - name: Denis Robert
+    fr: Journaliste et écrivain
+    en: Journalist &amp; writer
+    cat: libe
+  - name: Friederike Roder
+    fr: ONE
+    en: ONE
+    cat: guardian
+  - name: Prof Tulio Rosembuj
+    fr: Université de Barcelone
+    en: University of Barcelona
+    cat: guardian
+  - name: Virginie Rozière
+    fr: Député européenne (S&amp;D)
+    en: French MEP (S&amp;D)
+    cat: contact
+  - name: Olivier de Schutter
+    fr: Professeur de droit international à l’Université catholique de Louvain
+    en: Professor of international human rights law
+    cat: contact
+  - name: Molly Scott Cato
+    fr: Députée européenne britannique (Verts)
+    en: UK MEP (Green)
+    cat: guardian
+  - name: Mark Serwotka
+    fr: Syndicat PCS
+    en: PCS union
+    cat: guardian
+  - name: Nick Shaxson
+    fr: Tax Justice Network
+    en: Author
+    cat: guardian
+  - name: Prof Prem Sikka
+    fr: Université d'Essex
+    en: University of Essex
+    cat: guardian
+  - name: Nick Smith
+    fr: Membre du parlement britannique
+    en: UK MP (Labour)
+    cat: guardian
+  - name: Edward Snowden
+    fr: Lanceur d'alerte
+    en: Whistleblower
+    cat: libe
+  - name: Alexis Spire
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
+  - name: Isabelle Stengers
+    fr: Philosophe
+    en: Philosopher
+    cat: contact
+  - name: Henri Sterdyniak
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Jim Stewart
+    fr: Trinity College, Dublin
+    en: Trinity College, Dublin
+    cat: guardian
+  - name: Lord (Ben) Stoneham
+    en: UK member of the upper house (Lib Dem)
+    cat: guardian
+  - name: Dr Andy Storey
+    fr: University College Dublin
+    en: University College Dublin
+    cat: guardian
+  - name: Jacques Testart
+    fr: Directeur de recherche honoraire à l'INSERM – Président d'honneur de la fondation Sciences Citoyenne
+    en: Biologist
+    cat: contact
+  - name: Ernest Urtasun
+    fr: Député européen espagnol (Verts)
+    en: Spanish MEP (Green)
+    cat: guardian
+  - name: Tom van der Lee
+    fr: Oxfam Novib
+    en: Oxfam Novib
+    cat: guardian
+  - name: Denis Vienot
+    fr: Justice et Paix
+    en: Justice et Paix
+    cat: guardian
+  - name: Cédric Villani
+    fr: Mathématicien, Médaille Fields
+    en: Mathematician, Fields Medal
+    cat: contact
+  - name: Sophie Wahnich
+    fr: Historienne
+    en: Historian
+    cat: contact
+  - name: Dominique Watrin
+    fr: Sénateur (CRC)
+    en: French Senator
+    cat: contact
+  - name: Duncan Wigan
+    fr: Copenhagen Business School
+    en: Copenhagen Business School
+    cat: guardian
+  - name: Rebecca Wilkins
+    fr: FACT Coalition
+    en: FACT Coalition
+    cat: guardian
+  - name: Dan Wootton
+    fr: Uniting Church, Australie
+    en: Uniting Church in Australia
+    cat: guardian
+  - name: Dr Mark Zirnsak
+    fr: Uniting Church, Australie
+    en: Tax Justice Network Australia
+    cat: guardian
