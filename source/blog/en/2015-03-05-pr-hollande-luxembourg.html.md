@@ -3,6 +3,7 @@ title: Official visit of the French President to Luxembourg
 subtitle: On the occasion of the visit of the French President to Luxembourg, the support committee hopes for a discussion towards more fiscal justice and dropping the charges against Antoine Deltour
 author: Antoine's support committee
 lang: en
+category: pr
 ---
 
 <a href="/docs/pr/2015-03-05-pr-hollande-luxembourg-EN.pdf"><i class="fa fa-file-pdf-o"></i> <span>PDF version</span></a>

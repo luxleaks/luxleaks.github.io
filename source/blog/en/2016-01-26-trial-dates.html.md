@@ -3,6 +3,7 @@ title: “LuxLeaks” trial to start on April 26
 subtitle: The trial of Antoine Deltour will take place in Luxembourg from April 26 to May4, 2016.
 author: Antoine's support committee
 lang: en
+category: pr
 ---
 
 ## Luxembourg authorities announced the dates of the trial

@@ -1,10 +1,13 @@
 ---
 fr:
-  language:
-    alt: en anglais
+  lang:
+    de: en allemand
+    en: en anglais
+    it: en italien
   time:
     formats:
       default: "%d %B %Y"
+      short: "%d %b %Y"
   donate:
     title: "Faire un Don de Soutien"
     description: >
@@ -43,8 +46,19 @@ fr:
   press:
     title: "Presse &amp; Médias"
     pressbook: Dossier de presse
-    coverage: Couverture médiatique
+    coverage: Les médias parlent d'Antoine Deltour
     from: à partir de %{from}
+    pr: "Communiqué de Presse"
+    article: "Article"
+    cat:
+      article: Article
+      file: Dossier
+      editorial: Édito
+      interview: Interview
+      radio-show: Chronique
+      op-ed: Tribune
+      video: Vidéo
+      video-report: Reportage vidéo
   support:
     title: "Comment aider Antoine&nbsp;?"
     action_text: "Signez la pétition, participez au financement de la défense ou %{join}... Merci&nbsp;!"

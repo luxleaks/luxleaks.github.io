@@ -2,6 +2,7 @@
 title: Présidence du Luxembourg au Conseil de l'Union Européenne
 subtitle: <b>Communiqué de Presse</b> La présidence tournante du Conseil de l'Union européenne sera assurée par le Grand-Duché du Luxembourg du 1er juillet 2015 au 31 décembre 2015.
 author: Comité de soutien à Antoine
+category: pr
 ---
 
 <a href="/docs/pr/2015-06-29-pr-FR.pdf"><i class="fa fa-file-pdf-o"></i> <span>Version PDF</span></a>

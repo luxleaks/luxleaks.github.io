@@ -2,6 +2,7 @@
 title: Remise du Prix du citoyen européen à Paris
 subtitle: <b>Communiqué de Presse</b> Le mercredi 30 septembre, Madame Sylvie Guillaume, Vice-Présidente du Parlement européen, remet à Antoine Deltour le Prix du citoyen européen 2015.
 author: Comité de soutien à Antoine
+category: pr
 ---
 
 <a href="/docs/pr/2015-09-30-pr-prix-citoyen-FR.pdf"><i class="fa fa-file-pdf-o"></i> <span>Version PDF</span></a>

@@ -2,6 +2,7 @@
 title: Antoine entendu par le Parlement européen
 subtitle: Le 1er juin, Antoine Deltour a été reçu à Bruxelles en audition publique par la commission spéciale du Parlement européen.
 author: Comité de soutien à Antoine
+category: article
 ---
 
 ## Commission spéciale « TAXE »

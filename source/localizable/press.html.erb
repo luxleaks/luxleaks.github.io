@@ -4,17 +4,33 @@ layout: page
 <section class="press">
   <h1><%= I18n.t("press.title") %></h1>
 
-  <% data.press.each do |cat| %>
-  <h2><%= I18n.t("press.#{cat[0]}") %></h2>
+  <h2><%= I18n.t("press.pressbook") %></h2>
   <ul>
-    <% cat[1].each do |link| %>
-    <li class="media-link"><%= link_to I18n.locale.to_s == 'fr'? link.fr : link.en, link.url %>
-      <% if !current_locale?(link.lang) || link.from != nil %>
-        <span class="compl"
-          ><%= "<span class=\"altlang\">#{I18n.t("language.alt")}</span>" if !current_locale? link.lang %><%= "<span class=\"from\">#{I18n.t "press.from", from:link.from}</span>" if link.from != nil %></span>
-      <% end %>
-      <time datetime="<%= link.date.strftime('%Y-%m-%d') %>"><%= I18n.l(link.date.to_time) %></time></li>
+  <% blog(I18n.locale.to_s).articles.select {|a| (%w(pr article)).include? a.data.category}.each do |article| %>
+    <li class="pressitem">
+      <time datetime="<%= article.date.strftime('%Y-%m-%d') %>"><%= I18n.l(article.date.to_time,format: :short) %></time>
+      <span class="pressitem__cat"><%= I18n.t("press.#{article.data.category}") %></span>
+      <span class="pressitem__link">
+        <a href="<%= article.url %>"><%= article.title %></a>
+      </span>
+    </li>
+  <% end %>
+  </ul>
+
+  <h2><%= I18n.t("press.coverage") %></h2>
+  <ul>
+    <% data.press.each do |item| %>
+    <% if (item[I18n.locale]) %>
+    <li class="pressitem">
+      <time datetime="<%= item.date.strftime('%Y-%m-%d') %>"><%= I18n.l(item.date.to_time, format: :short) %></time>
+      <span class="pressitem__source"><%= item.source %></span>
+      <span class="pressitem__info"
+          ><%= I18n.t("press.cat.#{item.cat}") %><%= "<span class=\"pressitem__info__lang\">#{I18n.t("lang.#{item.lang}")}</span>" if !current_locale? item.lang %><%= "<span class=\"pressitem__info__from\">#{I18n.t "press.from", from:item.from}</span>" if item.from != nil %></span>
+      <span class="pressitem__link">
+      <%= link_to I18n.locale.to_s == 'fr'? item.fr : item.en, item.url %>
+    </span>
+    </li>
+    <% end %>
     <% end %>
   </ul>
-  <% end %>
 </section>

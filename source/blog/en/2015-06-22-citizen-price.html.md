@@ -3,6 +3,7 @@ title: Antoine Deltour awarded European Citizens’ Prize
 subtitle: The European Citizen Prize distinguishes people and organizations that significantly contribute to the common values of the European Union.
 author: Antoine's support committee
 lang: en
+category: article
 ---
 
 ## One of this year's laureates

@@ -1,27 +1,45 @@
 .press {
   $press-details-color: lighten($dark-gray,25);
-  .compl {
-    color: $press-details-color;
-    font-size: 0.8em;
-    &::before{
-      content: "(\00a0";
-    }
-    &::after{
-      content: "\00a0)";
-    }
-  }
-  .altlang + .from::before {
-    content: ", ";
+  .pressitem {
+    margin-bottom: 0.7em;
   }
   time {
-    display: block;
+    // display: block;
     color: $press-details-color;
-    font-style: italic;
+    font-size: 0.8em;
     @include media($medium-screen) {
       display: inline-block;
     }
-    &::before{
-      content: "–\00a0"
+    &::after{
+      content: "\00a0–"
     }
+  }
+  .pressitem__cat {
+    color: $press-details-color;    
+  }
+  .pressitem__link {
+    display: block;
+  }
+  .pressitem__source {
+    font-style: italic;
+    &::after{
+      color: $press-details-color;
+      font-size: 0.8em;
+      content: "\00a0–"
+    }
+  }
+  .pressitem__info {
+    color: $press-details-color;
+    font-size: 0.8em;
+    /*
+    &::before{
+      content: "(";
+    }
+    &::after{
+      content: ")";
+    }*/
+  }
+  .pressitem__info__lang::before, .pressitem__info__from::before {
+    content: ", ";
   }
 }

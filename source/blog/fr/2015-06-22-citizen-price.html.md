@@ -2,6 +2,7 @@
 title: Antoine Deltour, lauréat du Prix du citoyen européen 2015
 subtitle: Le Prix du citoyen européen distingue des personnes contribuant de manière notable et exemplaire aux valeurs communes de l’Union européenne.
 author: Comité de soutien à Antoine
+category: article
 ---
 
 ## Antoine fait partie des lauréats

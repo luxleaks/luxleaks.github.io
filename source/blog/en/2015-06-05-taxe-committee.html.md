@@ -3,6 +3,7 @@ title: Antoine at the European Parliament
 subtitle: On June 1st, Antoine Deltour was received in Brussels at a public hearing held by the special committee of the European Parliament.
 author: Antoine's support committee
 lang: en
+category: article
 ---
 
 ## “TAXE” Special Committee

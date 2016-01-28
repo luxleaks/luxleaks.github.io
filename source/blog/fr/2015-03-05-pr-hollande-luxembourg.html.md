@@ -2,6 +2,7 @@
 title: Visite du président de la République française au Luxembourg
 subtitle: À l'occasion de la visite du président de la République française au Luxembourg, le comité de soutien exprime ses espoirs d'une discussion pour la justice fiscale et l'arrêt des poursuites contre Antoine Deltour.
 author: Comité de soutien à Antoine
+category: pr
 ---
 
 <a href="/docs/pr/2015-03-05-pr-hollande-luxembourg-FR.pdf"><i class="fa fa-file-pdf-o"></i> <span>Version PDF</span></a>

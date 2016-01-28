@@ -4,6 +4,7 @@ Brussels"
 subtitle: <b>Press Release</b> On October 14th, the European Citizen's Prize 2015 is presented to Antoine Deltour in the Parliament in Brussels
 author: Antoine's support committee
 lang: en
+category: pr
 ---
 
 <a href="/docs/pr/2015-10-14-pr-citizen-prize-EN.pdf"><i class="fa fa-file-pdf-o"></i> <span>PDF version</span></a>

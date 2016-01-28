@@ -2,6 +2,7 @@
 title: Antoine Deltour, prix éthique d'Anticor
 subtitle: <b>Communiqué de Presse</b> Le samedi 30 janvier à Paris, l’association Anticor remet à Antoine Deltour l’un des ses Prix éthiques 2016.
 author: Comité de soutien à Antoine
+category: pr
 ---
 
 <a href="/docs/pr/2016-01-28-pr-prix-ethique-anticor-FR.pdf"><i class="fa fa-file-pdf-o"></i> <span>Version PDF</span></a>

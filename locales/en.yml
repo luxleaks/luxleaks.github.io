@@ -1,10 +1,13 @@
 ---
 en:
-  language:
-    alt: in French
+  lang:
+    de: in German
+    fr: in french
+    it: in Italian
   time:
     formats:
       default: "%b %d, %Y"
+      short: "%b %d, %Y"
   donate:
     title: Donate to Support Antoine
     description: >
@@ -46,6 +49,16 @@ en:
     pressbook: Press kit
     coverage: Press coverage
     from: from %{from}
+    pr: "Press Release"
+    article: "Article"
+    cat:
+      file: File
+      editorial: Editorial
+      interview: Interview
+      radio-show: Radio show
+      op-ed: Op-ed
+      video: Video
+      video-report: Video report
   support:
     title: "How to support Antoine&nbsp;?"
     action_text: "Pledge your support, contribute to the defence fund, or %{join}... Thanks!"

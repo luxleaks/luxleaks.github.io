@@ -2,6 +2,7 @@
 title: Le procès « LuxLeaks » débutera le 26 avril
 subtitle: Le procès d'Antoine Deltour se déroulera au Luxembourg du 26 avril au 4 mai 2016.
 author: Comité de soutien à Antoine
+category: pr
 ---
 
 ## Le parquet de Luxembourg a annoncé les dates du procès
