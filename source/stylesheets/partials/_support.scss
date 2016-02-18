@@ -59,10 +59,22 @@
       @include big-button($color-5,$color-5);
       display: table;
       font-size: 1.4em;
-      min-width: 15em;
+      max-width: 90%;
+      min-width: 90%;
       margin: 2em auto 1em;
       @include media($medium-screen) {
-        font-size: 1.6em;
+        font-size: 1.4em;
+        min-width: 60%;
+      }
+      span {
+        display: table-cell;
+        text-align:center;
+        vertical-align: middle;
+      }
+      i::before {
+        display: table-cell;
+        // text-align:center;
+        vertical-align: middle;
       }
     }
   }

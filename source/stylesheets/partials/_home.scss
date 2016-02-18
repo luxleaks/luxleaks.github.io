@@ -82,7 +82,7 @@
         @include big-button($color-4,$color-4);
         margin: 0.8em 1.4em;
         min-width: 10.5em;
-        white-space: nowrap;
+        // white-space: nowrap;
       }
       a + a {
         @include big-button($color-5,$color-5);
