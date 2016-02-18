@@ -10,10 +10,13 @@ organisations:
   - fr: Association Française de Sociologie
     en: French Association of Sociology
     link: http://www.test-afs-socio.fr/drupal/node/4464
-  - fr: Attac France
-    en: Attac France
+  - fr: ATTAC France
+    en: ATTAC France
     link: https://france.attac.org/actus-et-medias/le-flux/article/soutenons-antoine-deltour
     cat: ppfj
+  - fr: ATTAC Wallonie Bruxelles
+    en: ATTAC Wallonie Bruxelles
+    link: http://wb.attac.be/
   - fr: CADTM France
     en: CADTM France
     link: http://cadtm.org/
@@ -73,10 +76,17 @@ organisations:
     en: Oxfam France
     link: https://www.oxfamfrance.org/communique-presse/justice-fiscale/luxleaks-ong-monde-entier-se-mobilisent-journaliste-et-lanceur-alerte
     cat: ppfj
+  - fr: Peuples Solidaires – ActionAid France
+    en: ActionAid France
+    link: http://www.peuples-solidaires.org/
+    cat: ppfj
   - fr: Réseau Foi et Justice Afrique Europe
     en: Africa Europe Faith and Justice Network
     link: http://www.reseau-foi-et-justice.fr/
     cat: ppfj
+  - fr: Réseau pour la Justice Fiscale, Belgique
+    en: Réseau pour la Justice Fiscale, Belgium
+    link: http://www.hetgrotegeld.be/index.php/les_grosses_fortunes/detail/2154
   - fr: Secours catholique Caritas France
     en: Secours catholique Caritas France
     link: http://www.secours-catholique.org/
@@ -113,6 +123,14 @@ organisations:
     link: https://xnet-x.net/en/
 
 personalities:
+  - name: Paul Allies
+    fr: Professeur de science politique
+    en: Political scientist
+    cat: contact
+  - name: Éric Alt
+    fr: Magistrat, vice-Président d'Anticor
+    en: Magistrate, vice-President of Anticor
+    cat: contact
   - name: Isabelle Attard
     fr: Députée (Écologiste)
     en: French MP
@@ -161,6 +179,10 @@ personalities:
     fr: Historien des sciences
     en: Historian of science
     cat: contact
+  - name: Dominique Bourg
+    fr: Philosophe, Université de Lausanne
+    en: Philosopher, University of Lausanne
+    cat: contact
   - name: José Bové
     fr: Député européen (Verts)
     en: French MEP (Green)
@@ -169,6 +191,10 @@ personalities:
     fr: Députée Allemande
     en: German MP (Green)
     cat: guardian
+  - name: Rony Brauman
+    fr: Ancien président de Médecins sans frontières
+    en: ex-President of Médecins Sans Frontières
+    cat: contact
   - name: Richard Brooks 
     fr: Journaliste &amp; écrivain
     en: Journalist &amp; Author
@@ -181,6 +207,10 @@ personalities:
     fr: Député Australien
     en: Australian MP (Labour)
     cat: guardian
+  - name: Julia Cagé
+    fr: Économiste
+    en: Economist
+    cat: contact
   - name: Pascal Canfin
     fr: ex-Ministre délégué au développement
     en: ex-Deputy Minister for Development
@@ -188,6 +218,10 @@ personalities:
   - name: Fanélie Carrey-Contes
     fr: Députée (PS)
     en: French MP
+    cat: contact
+  - name: Jean-Marie Cavada
+    fr: Député européen (ADLE)
+    en: French MEP (ALDE)
     cat: contact
   - name: Jean-Claude Carrière
     fr: Écrivain et scénariste
@@ -209,6 +243,10 @@ personalities:
     fr: Université de McGill
     en: McGill University
     cat: guardian
+  - name: André Cicolella
+    fr: Toxicologue, Lanceur d'alerte
+    en: Toxicologist, Whistleblower
+    cat: contact
   - name: Frank Clemente
     fr: Americans for Tax Fairness
     en: Americans for Tax Fairness
@@ -217,6 +255,10 @@ personalities:
     fr: Centre for Global Development
     en: Centre for Global Development
     cat: guardian
+  - name: Vanessa Codaccioni
+    fr: Politologue
+    en: Political scientist
+    cat: contact
   - name: Daniel Cohn-Bendit
     fr: ex-Député européen (EELV)
     en: ex-MEP
@@ -284,6 +326,14 @@ personalities:
   - name: Carine Favier
     fr: Mouvement du planning familial
     en: Family Planning Movement
+    cat: contact
+  - name: Nicolas Ferran
+    fr: Observatoire International des prisons
+    en: International Observatory on Prisons
+    cat: contact
+  - name: Irène Frachon 
+    fr: Lanceuse d'alerte (Mediator)
+    en: Whistleblower (Mediator)
     cat: contact
   - name: Jean Gadrey
     fr: Économiste
@@ -357,6 +407,10 @@ personalities:
     fr: Députée européenne (EELV)
     en: French MEP (Greens)
     cat: libe
+  - name: Paul Jorion
+    fr: Anthropologue, économiste
+    en: Anthropologist &amp; Economist
+    cat: contact
   - name: Ged Kearney
     fr: Conseil australien des syndicats  
     en: Australian Council of Trade Unions (ACTU)
@@ -369,9 +423,21 @@ personalities:
     fr: Universtié de Limerick
     en: University of Limerick
     cat: guardian
+  - name: Korben 
+    fr: Blogueur
+    en: French blog writer
+    cat: contact
   - name: Alain Krivine
     fr: ex-porte parole de la LCR
     en: French politician
+    cat: contact
+  - name: Geoffroy de Lagasnerie
+    fr: Philosophe &amp; sociologue
+    en: Philosopher &amp; sociologist
+    cat: contact
+  - name: Bernard Lahire
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: Philippe Lamberts
     fr: Député européen belge (Verts) 
@@ -413,10 +479,22 @@ personalities:
     fr: Romancier
     en: Novelist
     cat: contact
+  - name: Lefred Thouron
+    fr: Dessinateur
+    en: Cartoonist
+    cat: contact
   - name: Laetitia Liebert
     fr: Sherpa
     en: Sherpa
     cat: guardian
+  - name: Raphaël Logier
+    fr: Sociologue &amp; philosophe
+    en: Sociologist &amp; Philosopher
+    cat: contact
+  - name: Erri de Luca
+    fr: Écrivain
+    en: Writer
+    cat: contact
   - name: Caroline Lucas
     fr: Membre du parlement britannique
     en: UK MP (Green)
@@ -437,9 +515,25 @@ personalities:
     fr: Lawyers for Better Business
     en: Lawyers for Better Business
     cat: guardian
+  - name: Michel Marre
+    fr: Musicien
+    en: Musician
+    cat: contact
+  - name: Carlos Martin Tornero
+    fr: The Accountant, Rédacteur en chef
+    en: The Accountant, Editor
+    cat: contact
+  - name: Gustave Massiah
+    fr: Economiste, membre du conseil scientifique d'ATTAC
+    en: Economist, member of ATTAC scientific council
+    cat: contact
   - name: Emmanuel Maurel
     fr: Député européen (PS)
     en: French MEP (S&amp;D)
+    cat: contact
+  - name: Nonna Mayer
+    fr: Présidente de l’Association française de science politique
+    en: Sociologist &amp; political scientist
     cat: contact
   - name: Sorley McCaughey
     fr: Christian Aid Ireland
@@ -481,6 +575,14 @@ personalities:
     fr: Membre du parlement britannique
     en: UK MP (Labour)
     cat: guardian
+  - name: Monseigneur Di Falco
+    fr: Évêque de Gap
+    en: French bishop of Gap
+    cat: contact
+  - name: Gérard Mordillat
+    fr: Romancier, cinéaste
+    en: Writer &amp; Director
+    cat: contact
   - name: Patrick Mosconi
     fr: Scénariste e&amp; peintre
     en: Screenwriter &amp; painter
@@ -545,6 +647,10 @@ personalities:
     fr: Conseil australien pour le développement international
     en: Australian Council for International Development
     cat: guardian
+  - name: Olivier Py
+    fr: Metteur en scène, dramaturge, comédien
+    en: French stage director, actor and writer
+    cat: contact
   - name: David Quentin
     fr: Tax Justice Network
     en: Tax Justice Network UK
@@ -565,6 +671,10 @@ personalities:
     fr: Université de Barcelone
     en: University of Barcelona
     cat: guardian
+  - name: Dominique Rousseau
+    fr: Professeur de droit constitutionnel, Sorbonne
+    en: Professor of Constitutional Law, Paris Sorbonne
+    cat: contact
   - name: Virginie Rozière
     fr: Député européenne (S&amp;D)
     en: French MEP (S&amp;D)
@@ -589,6 +699,10 @@ personalities:
     fr: Université d'Essex
     en: University of Essex
     cat: guardian
+  - name: Serge Slama
+    fr: Maître de conférences en droit public, Membre du CREDOF
+    en: PhD in Public Law, member of CREDOF
+    cat: contact
   - name: Nick Smith
     fr: Membre du parlement britannique
     en: UK MP (Labour)
@@ -620,9 +734,17 @@ personalities:
     fr: University College Dublin
     en: University College Dublin
     cat: guardian
+  - name: Pierre Tartakowsky
+    fr: Présidents d’honneur de la LDH
+    en: ex-President of the French Human Rights League
+    cat: contact
   - name: Jacques Testart
     fr: Directeur de recherche honoraire à l'INSERM – Président d'honneur de la fondation Sciences Citoyenne
     en: Biologist
+    cat: contact
+  - name: Michel Tubiana
+    fr: Présidents d’honneur de la LDH
+    en: ex-President of the French Human Rights League
     cat: contact
   - name: Ernest Urtasun
     fr: Député européen espagnol (Verts)
@@ -660,6 +782,10 @@ personalities:
     fr: Uniting Church, Australie
     en: Uniting Church in Australia
     cat: guardian
+  - name: Jean Ziegler
+    fr:  Membre du comité consultatif du Conseil des droits de l'homme, ONU
+    en: Member of the Advisory Committee of the UN Human Rights Council
+    cat: contact
   - name: Dr Mark Zirnsak
     fr: Uniting Church, Australie
     en: Tax Justice Network Australia
