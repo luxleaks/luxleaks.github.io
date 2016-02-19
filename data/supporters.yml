@@ -263,6 +263,10 @@ personalities:
     fr: ex-Député européen (EELV)
     en: ex-MEP
     cat: libe
+  - name: Maxime Combes
+    fr: Économiste
+    en: Economist
+    cat: contact
   - name: Brigitte Conthier-Maurin
     fr: Sénatrice (CRC)
     en: French Senator
@@ -635,6 +639,10 @@ personalities:
     fr: Université de Yale
     en: Yale University
     cat: guardian
+  - name: Didier Porte
+    fr: Humoriste
+    en: Humorist
+    cat: contact
   - name: Philippe Poutou
     fr: ex-porte parole du NPA
     en: French politician
@@ -655,6 +663,10 @@ personalities:
     fr: Tax Justice Network
     en: Tax Justice Network UK
     cat: guardian
+  - name: Pierre Rabhi
+    fr: Agroécologiste &amp; écrivain
+    en: Farmer, environmentalist &amp; writer
+    cat: contact
   - name: Michèle Rivasi
     fr: Députée européenne (Verts)
     en: French MEP (Green)
