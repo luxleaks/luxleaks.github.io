@@ -131,6 +131,10 @@ personalities:
     fr: Magistrat, vice-Président d'Anticor
     en: Magistrate, vice-President of Anticor
     cat: contact
+  - name: Gérard Aschieri
+    fr: Membre du Conseil économique, social et environnemental
+    en: Member of French Environmental, Social and Economic Council
+    cat: contact
   - name: Isabelle Attard
     fr: Députée (Écologiste)
     en: French MP
@@ -498,6 +502,10 @@ personalities:
   - name: Raphaël Logier
     fr: Sociologue &amp; philosophe
     en: Sociologist &amp; Philosopher
+    cat: contact
+  - name: Édouard Louis
+    fr: Écrivain
+    en: Writer
     cat: contact
   - name: Erri de Luca
     fr: Écrivain
