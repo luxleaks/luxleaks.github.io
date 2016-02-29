@@ -14,6 +14,9 @@ organisations:
     en: ATTAC France
     link: https://france.attac.org/actus-et-medias/le-flux/article/soutenons-antoine-deltour
     cat: ppfj
+  - fr: ATTAC Luxembourg
+    en: ATTAC Luxembourg
+    link: https://www.facebook.com/groups/AttacLuxembourg/
   - fr: ATTAC Wallonie Bruxelles
     en: ATTAC Wallonie Bruxelles
     link: http://wb.attac.be/
@@ -46,6 +49,9 @@ organisations:
   - fr: Les Économistes Atterrés
     en: Les Économistes Atterrés
     link: http://www.atterres.org/
+  - fr: Eurodad
+    en: Eurodad
+    link: http://www.eurodad.org/
   - fr: Fédération Syndicale Européenne des Services Publics
     en: EPSU - NEA committee
     link: http://epsu.org/a/11264
@@ -161,6 +167,10 @@ personalities:
   - name: Guillaume Balas
     fr: Député européen (PS)
     en: French MP
+    cat: contact
+  - name: Gilles Balbastre
+    fr: Journaliste, réalisateur
+    en: Journalist
     cat: contact
   - name: Gérard Bapt
     fr: Député PS
@@ -290,6 +300,10 @@ personalities:
     fr: Sénatrice (CRC)
     en: French Senator
     cat: contact
+  - name: Chloé Delaume
+    fr: Écrivaine
+    en: Writer
+    cat: contact
   - name: Rosa L. DeLauro
     fr: Membre du Congrès des USA
     en: US Congresswoman (Democrat)
@@ -298,6 +312,10 @@ personalities:
     fr: Députée européenne (Verts)
     en: French MEP (Green)
     cat: guardian
+  - name: Monseigneur Di Falco
+    fr: Évêque de Gap
+    en: French bishop of Gap
+    cat: contact
   - name: Evelyne Didier
     fr: Sénatrice (CRC)
     en: French Senator
@@ -330,6 +348,10 @@ personalities:
     fr: Transparency International
     en: Transparency International
     cat: guardian
+  - name: Didier Eribon
+    fr: Philosophe &amp; sociologue
+    en: Philosopher &amp; sociologist
+    cat: contact
   - name: Hervé Falciani
     fr: Lanceur d'alerte (SwissLeaks)
     en: Whistleblower (SwissLeaks)
@@ -358,6 +380,10 @@ personalities:
     fr: Avocat, ex-Président du Syndicat des avocats de France
     en: ex-President of SAF (French lawyer syndicate)
     cat: contact
+  - name: Jean-Pierre Garnier
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
   - name: Stéphanie Gibaud
     fr: Lanceuse d'alerte (UBS)
     en: Whistleblower (UBS)
@@ -370,6 +396,10 @@ personalities:
     fr: Député australien
     en: Australian MP (Labour)
     cat: guardian
+  - name: Olivier Gourmet
+    fr: Comédien
+    en: Actor
+    cat: contact
   - name: Jesse Griffiths
     fr: Eurodad
     en: Eurodad
@@ -458,9 +488,17 @@ personalities:
     fr: Député européen belge (Verts) 
     en: Belgian MEP (Green)
     cat: guardian
+  - name: Pascal Lamy
+    fr: Ancien Directeur Général de l'OMC, ancien Commissaire européen
+    en: Former Director-General of WTO, former European Commissioner
+    cat: contact
   - name: Jean Lassalle
     fr: Député
     en: French MP
+    cat: contact
+  - name: Serge Latouche
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Sylvain Laurens
     fr: Sociologue
@@ -582,6 +620,10 @@ personalities:
     fr: Philosophe &amp; Sociologue 
     en: Philosopher &amp; sociologist
     cat: contact
+  - name: Jean-Claude Michéa
+    fr: Philosophe
+    en: Philosopher
+    cat: contact
   - name: Yves Michel
     fr: Éditeur
     en: Publisher
@@ -594,13 +636,13 @@ personalities:
     fr: Membre du parlement britannique
     en: UK MP (Labour)
     cat: guardian
-  - name: Monseigneur Di Falco
-    fr: Évêque de Gap
-    en: French bishop of Gap
-    cat: contact
   - name: Gérard Mordillat
     fr: Romancier, cinéaste
     en: Writer &amp; Director
+    cat: contact
+  - name: François Morin
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Patrick Mosconi
     fr: Scénariste e&amp; peintre
@@ -614,6 +656,10 @@ personalities:
     fr: Tax Research UK
     en: Tax Research UK
     cat: guardian
+  - name: Erik Neveu
+    fr: Professeur de Science Politique
+    en: Political scientist
+    cat: contact
   - name: Melissa Parke
     fr: Députée australienne
     en: Australian MP (Labour)
@@ -738,6 +784,10 @@ personalities:
     fr: Lanceur d'alerte
     en: Whistleblower
     cat: libe
+  - name: Bruno Solo
+    fr: Comédien
+    en: Actor
+    cat: contact
   - name: Alexis Spire
     fr: Sociologue
     en: Sociologist
@@ -765,9 +815,17 @@ personalities:
     fr: Présidents d’honneur de la LDH
     en: ex-President of the French Human Rights League
     cat: contact
+  - name: Janine Teisson
+    fr: Romancière
+    en: Writer
+    cat: contact
   - name: Jacques Testart
     fr: Directeur de recherche honoraire à l'INSERM – Président d'honneur de la fondation Sciences Citoyenne
     en: Biologist
+    cat: contact
+  - name: Olivier Thérondel
+    fr: ex-agent Tracfin, lanceur d'alerte
+    en: Whistleblower
     cat: contact
   - name: Michel Tubiana
     fr: Présidents d’honneur de la LDH
@@ -781,6 +839,10 @@ personalities:
     fr: Oxfam Novib
     en: Oxfam Novib
     cat: guardian
+  - name: Audrey Vernon
+    fr: Comédienne
+    en: Actor
+    cat: contact    
   - name: Denis Vienot
     fr: Justice et Paix
     en: Justice et Paix
@@ -788,6 +850,10 @@ personalities:
   - name: Cédric Villani
     fr: Mathématicien, Médaille Fields
     en: Mathematician, Fields Medal
+    cat: contact
+  - name: Daniel Villanova
+    fr: Auteur et Comédien
+    en: Actor and writer
     cat: contact
   - name: Sophie Wahnich
     fr: Historienne
