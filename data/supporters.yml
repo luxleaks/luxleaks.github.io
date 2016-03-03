@@ -312,9 +312,9 @@ personalities:
     fr: Députée européenne (Verts)
     en: French MEP (Green)
     cat: guardian
-  - name: Monseigneur Di Falco
-    fr: Évêque de Gap
-    en: French bishop of Gap
+  - name: Jean-Michel Di Falco
+    fr: Évêque de Gap et d'Embrun
+    en: French bishop of Gap and Embrun
     cat: contact
   - name: Evelyne Didier
     fr: Sénatrice (CRC)
@@ -619,6 +619,10 @@ personalities:
   - name: Dominique Méda
     fr: Philosophe &amp; Sociologue 
     en: Philosopher &amp; sociologist
+    cat: contact
+  - name: Nicole Marie Meyer
+    fr: Responsable alerte éthique, Transparency International France
+    en: Whistleblower Programme Coordinator, Transparency International France
     cat: contact
   - name: Jean-Claude Michéa
     fr: Philosophe
