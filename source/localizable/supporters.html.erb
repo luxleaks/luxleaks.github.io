@@ -4,7 +4,7 @@ layout: page
 <section class="supporters">
   <h1><%= t("supporters.title") %></h1>
 
-  <h2>Organisations</h2>
+  <h2><%= t("supporters.organisations") %></h2>
   <ul class="supporters__list">
     <% data.supporters.organisations.each do |member| %>
     <li>
@@ -15,8 +15,8 @@ layout: page
     <% end %>
   </ul>
 
-  <h2>Personalités</h2>
-  <p>Ils ont exprimé leur soutien :</p>  
+  <h2><%= t("supporters.personalities") %></h2>
+  <p><%= t("supporters.personalities_desc") %></p>  
   <ul class="supporters__list">
     <% data.supporters.personalities.each do |member| %>
     <li>
@@ -34,9 +34,9 @@ layout: page
   </ul>
 
   <ul class="supporters__footnotes" role="list">
-  <li><%= t("supporters.cat_libe", :link => "<a>"+t("supporters.cat_libe_link")+"</a>") %> </li>
-    <li>Signataires d'une tribune publiée dans le Guardian</li>
-    <li>Soutiens spontanés ou contactés par le Comité de Soutien</li>
+  <li><%= t("supporters.cat_libe", :link => "<a href=\"http://www.liberation.fr/futurs/2015/03/09/soutien-a-antoine-deltour-lanceur-d-alerte-luxleaks_1217470\">"+t("supporters.cat_libe_link")+"</a>") %></li>
+    <li><%= t("supporters.cat_guardian", :link => "<a href=\"http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged\">"+t("supporters.cat_guardian_link")+"</a>") %></li>
+    <li><%= t("supporters.cat_contact") %></li>
   </ul>
 
 </section>

@@ -74,6 +74,14 @@ en:
     donate: "Donate now"
   supporters:
     title: Supporters
+    organisations: Organisations
+    personalities: Personalities
+    personalities_desc: "They expressed their support:"
+    cat_contact: Spontaneously or contacted by the Support Committee
+    cat_libe: "In an %{link} on March 10, 2015."
+    cat_libe_link: "op-ed published in Libération"
+    cat_guardian: "In an %{link} on December 23, 2014."
+    cat_guardian_link: open letter published in the Guardian
   newsletterform:
     list: support-antoine-en
     unsub:

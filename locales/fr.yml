@@ -74,8 +74,12 @@ fr:
     title: Soutiens publics
     organisations: Organisations
     personalities: Personalités
-    cat_libe: Signataires d'une tribune %{link} le 10 mars 2015.
+    personalities_desc: "Ils ont exprimé leur soutien :"
+    cat_contact: Soutiens spontanés ou contactés par le Comité de Soutien
+    cat_libe: Signataires d'une %{link} le 10 mars 2015.
     cat_libe_link: tribune publiée dans Libération
+    cat_guardian: Signataires d'une %{link} le 23 décembre 2014.
+    cat_guardian_link: lettre ouverte publiée dans le Guardian
   blog:
     title: "Les <span>actualités</span>"
   newsletterform:
