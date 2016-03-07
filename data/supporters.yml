@@ -74,6 +74,9 @@ organisations:
   - fr: Mouvement des Objecteurs de Croissance
     en: French movement for Degrowth
     link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
+  - fr: Netzfrauen
+    en: Netzfrauen
+    link: https://netzfrauen.org/
   - fr: OCTFI
     en: OCTFI
     link: http://octfi.org/?p=1326
@@ -132,6 +135,10 @@ organisations:
     link: https://xnet-x.net/en/
 
 personalities:
+  - name: Brigitte Alain
+    fr: Députée (EELV)
+    en: French MP
+    cat: contact
   - name: Paul Allies
     fr: Professeur de science politique
     en: Political scientist
@@ -144,6 +151,10 @@ personalities:
     fr: Membre du Conseil économique, social et environnemental
     en: Member of French Environmental, Social and Economic Council
     cat: contact
+  - name: Éliane Assassi
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
   - name: Isabelle Attard
     fr: Députée (Écologiste)
     en: French MP
@@ -152,9 +163,9 @@ personalities:
     fr: Porte parole Ensemble (FDG)
     en: French politician
     cat: contact
-  - name: Éliane Assassi
-    fr: Sénatrice (CRC)
-    en: French Senator
+  - name: Raymond Avrillier
+    fr: Lanceur d'alerte
+    en: Whistleblower
     cat: contact
   - name: Geneviève Azam
     fr: Économiste
@@ -220,6 +231,10 @@ personalities:
     fr: Université de Griffith
     en: Griffith University
     cat: guardian
+  - name: François Burgat
+    fr: Politologue
+    en: Political scientist
+    cat: contact
   - name: Terri Butler
     fr: Député Australien
     en: Australian MP (Labour)
@@ -231,6 +246,10 @@ personalities:
   - name: Pascal Canfin
     fr: ex-Ministre délégué au développement
     en: ex-Deputy Minister for Development
+    cat: contact
+  - name: Jacques Caplat
+    fr: Agronome, anthropologue, écrivain
+    en: Agronomist, anthropologist, writer
     cat: contact
   - name: Fanélie Carrey-Contes
     fr: Députée (PS)
@@ -251,6 +270,10 @@ personalities:
   - name: Jacques Chérèque
     fr: Ancien ministre
     en: ex-French minister
+    cat: contact
+  - name: Eve Chiapello
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: John Christensen
     fr: Tax Justice Network
@@ -296,9 +319,25 @@ personalities:
     fr: Député (EELV)
     en: French MP
     cat: contact
+  - name: Jézabel Couppey-Soubeyran
+    fr: Économiste
+    en: Economist
+    cat: contact
   - name: Annie David
     fr: Sénatrice (CRC)
     en: French Senator
+    cat: contact
+  - name: Jean-Marc De Boni
+    fr: Président du directoire de la Nef
+    en: President of financial cooperative La Nef
+    cat: contact
+  - name: Caroline De Haas
+    fr: Féministe
+    en: Feminist
+    cat: contact
+  - name: Olivier De Schutter
+    fr: Professeur de droit international à l’Université catholique de Louvain
+    en: Professor of international human rights law
     cat: contact
   - name: Chloé Delaume
     fr: Écrivaine
@@ -312,6 +351,10 @@ personalities:
     fr: Députée européenne (Verts)
     en: French MEP (Green)
     cat: guardian
+  - name: Michelle Demessine
+    fr: Sénatrice (CRC)
+    en: French Senator
+    cat: contact
   - name: Jean-Michel Di Falco
     fr: Évêque de Gap et d'Embrun
     en: French bishop of Gap and Embrun
@@ -319,6 +362,10 @@ personalities:
   - name: Evelyne Didier
     fr: Sénatrice (CRC)
     en: French Senator
+    cat: contact
+  - name: Pascal Diethelm
+    fr: Lanceur d'alerte
+    en: Whistleblower
     cat: contact
   - name: Anneliese Dodds
     fr: Députée européenne britannique (UK/Labour)
@@ -335,6 +382,10 @@ personalities:
   - name: Françoise Dumont
     fr: Présidente de la Ligue des droits de l’Homme
     en: President of the French Human Rights League
+    cat: contact
+  - name: Pascal Durand
+    fr: Député européen (Verts)
+    en: French MEP (Green)
     cat: contact
   - name: Rev Prof Andrew Dutney
     fr: Uniting Church, Australie
@@ -356,6 +407,10 @@ personalities:
     fr: Lanceur d'alerte (SwissLeaks)
     en: Whistleblower (SwissLeaks)
     cat: libe
+  - name: Hicham Fassi-Fihri
+    fr: Producteur de films
+    en: Film producer
+    cat: contact
   - name: Carine Favier
     fr: Mouvement du planning familial
     en: Family Planning Movement
@@ -363,6 +418,10 @@ personalities:
   - name: Nicolas Ferran
     fr: Observatoire International des prisons
     en: International Observatory on Prisons
+    cat: contact
+  - name: Jean-Philippe Foegle
+    fr: Doctorant Droit public
+    en: PhD student in Public law 
     cat: contact
   - name: Irène Frachon 
     fr: Lanceuse d'alerte (Mediator)
@@ -400,6 +459,10 @@ personalities:
     fr: Comédien
     en: Actor
     cat: contact
+  - name: Alain Grandjean
+    fr: Économist, Chef d'entreprise
+    en: Ecnomist, Entrepreneur
+    cat: contact
   - name: Jesse Griffiths
     fr: Eurodad
     en: Eurodad
@@ -408,14 +471,18 @@ personalities:
     fr: Secrétaire nationale de la FSU
     en: General secretary of FSU
     cat: contact
-  - name: Gavin Hayman
-    fr: Global Witness
-    en: Global Witness
-    cat: guardian
+  - name: Thibaut Guilluy
+    fr: Entrepreneur social
+    en: Social entrepreneur
+    cat: contact
   - name: Benoît Hamon
     fr: Député (PS)
     en: French MP
     cat: contact
+  - name: Gavin Hayman
+    fr: Global Witness
+    en: Global Witness
+    cat: guardian
   - name: Nathaniel Heller
     fr: Global Integrity
     en: Global Integrity
@@ -476,6 +543,10 @@ personalities:
     fr: ex-porte parole de la LCR
     en: French politician
     cat: contact
+  - name: Laurence Labeille
+    fr: Députée (EELV)
+    en: French MP
+    cat: contact
   - name: Geoffroy de Lagasnerie
     fr: Philosophe &amp; sociologue
     en: Philosopher &amp; sociologist
@@ -484,6 +555,10 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: François-Michel Lambert
+    fr: Député (Écologiste)
+    en: French MP
+    cat: contact
   - name: Philippe Lamberts
     fr: Député européen belge (Verts) 
     en: Belgian MEP (Green)
@@ -491,6 +566,10 @@ personalities:
   - name: Pascal Lamy
     fr: Ancien Directeur Général de l'OMC, ancien Commissaire européen
     en: Former Director-General of WTO, former European Commissioner
+    cat: contact
+  - name: Dany Lang
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Jean Lassalle
     fr: Député
@@ -516,6 +595,10 @@ personalities:
     fr: Sénateur (CRC)
     en: French Senator
     cat: contact
+  - name: Frédéric Lebaron
+    fr: Sociologue, Président de l'AFS
+    en: Sociologist
+    cat: contact
   - name: Safia Lebdi
     fr: Conseillère régionale EELV – Présidente des Insoumis-es
     en: French politician
@@ -540,7 +623,7 @@ personalities:
     fr: Sherpa
     en: Sherpa
     cat: guardian
-  - name: Raphaël Logier
+  - name: Raphaël Liogier
     fr: Sociologue &amp; philosophe
     en: Sociologist &amp; Philosopher
     cat: contact
@@ -560,6 +643,10 @@ personalities:
     fr: Université du Luxembourg
     en: University of Luxembourg
     cat: libe
+  - name: Rémi Malingrëy
+    fr: Dessinateur
+    en: Cartoonist
+    cat: contact
   - name: Marcus Malte
     fr: Romancier
     en: Novelist
@@ -575,6 +662,10 @@ personalities:
   - name: Michel Marre
     fr: Musicien
     en: Musician
+    cat: contact
+  - name: Roger Martelli
+    fr: Historien
+    en: Historian
     cat: contact
   - name: Carlos Martin Tornero
     fr: The Accountant, Rédacteur en chef
@@ -649,8 +740,12 @@ personalities:
     en: Economist
     cat: contact
   - name: Patrick Mosconi
-    fr: Scénariste e&amp; peintre
+    fr: Scénariste &amp; peintre
     en: Screenwriter &amp; painter
+    cat: contact
+  - name: Laurent Mucchielli
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: Pierre-Alain Muet
     fr: Économiste, Député (PS)
@@ -663,6 +758,10 @@ personalities:
   - name: Erik Neveu
     fr: Professeur de Science Politique
     en: Political scientist
+    cat: contact
+  - name: André Orléan
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Melissa Parke
     fr: Députée australienne
@@ -680,7 +779,7 @@ personalities:
     fr: Économiste
     en: Economist
     cat: libe
-  - name: Laurant Pinatel
+  - name: Laurent Pinatel
     fr: Confédération Paysanne
     en: Confédération Paysanne
     cat: contact
@@ -732,6 +831,18 @@ personalities:
     fr: Agroécologiste &amp; écrivain
     en: Farmer, environmentalist &amp; writer
     cat: contact
+  - name: Gilles Raveaud
+    fr: Économiste
+    en: Economist
+    cat: contact
+  - name: Cécile Renouard
+    fr: Professeure à l’ESSEC
+    en: Teacher at ESSEC
+    cat: contact
+  - name: Jean-Charles Rielle
+    fr: Lanceur d'alerte
+    en: Whistleblower
+    cat: contact
   - name: Michèle Rivasi
     fr: Députée européenne (Verts)
     en: French MEP (Green)
@@ -744,6 +855,10 @@ personalities:
     fr: ONE
     en: ONE
     cat: guardian
+  - name: Jean-Louis Roumégas
+    fr: Député (EELV)
+    en: French MP
+    cat: contact
   - name: Prof Tulio Rosembuj
     fr: Université de Barcelone
     en: University of Barcelona
@@ -756,10 +871,13 @@ personalities:
     fr: Député européenne (S&amp;D)
     en: French MEP (S&amp;D)
     cat: contact
-  - name: Olivier de Schutter
-    fr: Professeur de droit international à l’Université catholique de Louvain
-    en: Professor of international human rights law
+  - name: Schlomo Sand
+    fr: Historien
+    en: Historian
     cat: contact
+  - name: Patrick Saurin
+    fr: Porte-parole de Sud Solidaires BPCE
+    en: French trade unionist
   - name: Molly Scott Cato
     fr: Députée européenne britannique (Verts)
     en: UK MEP (Green)
@@ -843,6 +961,10 @@ personalities:
     fr: Oxfam Novib
     en: Oxfam Novib
     cat: guardian
+  - name: Christian Velot
+    fr: Biologiste
+    en: Biologist
+    cat: contact    
   - name: Audrey Vernon
     fr: Comédienne
     en: Actor
@@ -879,6 +1001,10 @@ personalities:
     fr: Uniting Church, Australie
     en: Uniting Church in Australia
     cat: guardian
+  - name: Jacek Woźniak
+    fr: Dessinateur
+    en: Cartoonist
+    cat: contact
   - name: Jean Ziegler
     fr:  Membre du comité consultatif du Conseil des droits de l'homme, ONU
     en: Member of the Advisory Committee of the UN Human Rights Council
