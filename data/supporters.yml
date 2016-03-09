@@ -211,6 +211,10 @@ personalities:
     fr: Philosophe, Université de Lausanne
     en: Philosopher, University of Lausanne
     cat: contact
+  - name: Jacques Bouveresse
+    fr: Professeur honoraire au Collège de France
+    en: Honorary Professor at Collège de France
+    cat: contact
   - name: José Bové
     fr: Député européen (Verts)
     en: French MEP (Green)
@@ -262,6 +266,10 @@ personalities:
   - name: Jean-Claude Carrière
     fr: Écrivain et scénariste
     en: Novelist, screenwriter
+    cat: contact
+  - name: Claude Cécile
+    fr: Secrétaire Général du SNJ
+    en: Secretary-General of SNJ
     cat: contact
   - name: Emmanuel Chaumery
     fr: ex-Secrétaire national de Nouvelle Donne
@@ -571,6 +579,10 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
+  - name: Vincent Lanier
+    fr: Premier Secrétaire Général du SNJ
+    en: Primary Secretary-General of SNJ
+    cat: contact
   - name: Jean Lassalle
     fr: Député
     en: French MP
@@ -771,6 +783,10 @@ personalities:
     fr: Sénateur (UMP)
     en: French Senator
     cat: libe
+  - name: Rodolphe Peté
+    fr: Secrétaire Général du SNJ
+    en: Secretary-General of SNJ
+    cat: contact
   - name: Prof Sol Picciotto
     fr: Université de Lancaster
     en: Lancaster University
@@ -807,6 +823,10 @@ personalities:
     fr: Humoriste
     en: Humorist
     cat: contact
+  - name: Emmanuel Poupard
+    fr: Secrétaire Général du SNJ
+    en: Secretary-General of SNJ
+    cat: contact
   - name: Philippe Poutou
     fr: ex-porte parole du NPA
     en: French politician
@@ -814,6 +834,10 @@ personalities:
   - name: Jean-Bernard Pouy
     fr: Romancier
     en: Novelist
+    cat: contact
+  - name: Dominique Pradalié
+    fr: Secrétaire Générale du SNJ
+    en: Secretary-General of SNJ
     cat: contact
   - name: Marc Purcell
     fr: Conseil australien pour le développement international
@@ -871,7 +895,7 @@ personalities:
     fr: Député européenne (S&amp;D)
     en: French MEP (S&amp;D)
     cat: contact
-  - name: Schlomo Sand
+  - name: Shlomo Sand
     fr: Historien
     en: Historian
     cat: contact
