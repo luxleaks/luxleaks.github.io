@@ -244,6 +244,10 @@ personalities:
     fr: Journaliste &amp; écrivain
     en: Journalist &amp; Author
     cat: guardian
+  - name: Vincent Brossel
+    fr: Directeur de Peuples Solidaires – ActionAid France
+    en: Director of ActionAid France
+    cat: contact
   - name: Prof A J Brown
     fr: Université de Griffith
     en: Griffith University
@@ -791,6 +795,10 @@ personalities:
   - name: Gérard Mordillat
     fr: Romancier, cinéaste
     en: Writer &amp; Director
+    cat: contact
+  - name: Edgar Morin
+    fr: Sociologue et Philosophe
+    en: Sociologist &amp; Philosopher
     cat: contact
   - name: François Morin
     fr: Économiste
