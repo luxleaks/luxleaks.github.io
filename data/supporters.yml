@@ -436,7 +436,7 @@ personalities:
     fr: Philosophe &amp; sociologue
     en: Philosopher &amp; sociologist
     cat: contact
-  - name: Etcheverry Txetx
+  - name: Txetx Etcheverry
     fr: Cofondateur Alternatiba
     en: Alternatiba
     cat: contact
@@ -828,6 +828,10 @@ personalities:
     fr: Députée australienne
     en: Australian MP (Labour)
     cat: guardian
+  - name: Thierry Pech
+    fr: Essayiste
+    en: Essayist
+    cat: contact
   - name: Cédric Perrin
     fr: Sénateur (UMP)
     en: French Senator
@@ -1098,7 +1102,7 @@ personalities:
     fr: Uniting Church, Australie
     en: Uniting Church in Australia
     cat: guardian
-  - name: Jacek Woźniak
+  - name: Woźniak
     fr: Dessinateur
     en: Cartoonist
     cat: contact
