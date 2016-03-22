@@ -93,7 +93,7 @@ fr:
       success: "C'est fait ! Vous allez recevoir un email de confirmation."
     sub:
       title: "S'abonner à la lettre d'information"
-      desc: "Recevez des nouvelles sur la situation d'Antoine et de l'affaire LuxLeaks&nbsp;!"
+      desc: "Recevez des nouvelles sur la situation d'Antoine et sur l'affaire LuxLeaks&nbsp;!"
       submit: Je m'abonne
       success: "Merci ! Vous serez inscrit après retour de l'email de confirmation."
     label:
