@@ -51,6 +51,9 @@ organisations:
     en: CRID
     link: http://www.crid.asso.fr/
     cat: ppfj
+  - fr: Déclaration de Berne
+    en: Berne Declaration
+    link: https://www.bernedeclaration.ch/
   - fr: Droit pour la justice
     en: Droit pour la justice
     link: http://www.droit-pour-la-justice.org/
@@ -61,12 +64,18 @@ organisations:
   - fr: Eurodad
     en: Eurodad
     link: http://www.eurodad.org/
+  - fr: FACT Coalition
+    en: FACT Coalition
+    link: http://thefactcoalition.org/
   - fr: Fédération Syndicale Européenne des Services Publics
     en: EPSU - NEA committee
     link: http://epsu.org/a/11264
   - fr: Financial Transparency Coalition
     en: Financial Transparency Coalition
     link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
+  - fr: Financité
+    en: Financité
+    link: https://www.financite.be/
   - fr: F.S.U.
     en: F.S.U (French Union)
     link: http://snpi-fsu.org/spip.php?article523
@@ -80,6 +89,9 @@ organisations:
   - fr: Ligue des Droits de l'Homme
     en: Human Rights League France
     link: http://www.ldh-france.org/soutien-ldh-antoine-deltour-lanceur-dalerte-luxleaks/
+  - fr: Mines Alerte Canada
+    en: Mining Watch Canada
+    link: http://miningwatch.ca/
   - fr: Mouvement des Objecteurs de Croissance
     en: French movement for Degrowth
     link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
@@ -131,6 +143,12 @@ organisations:
   - fr: Tax Justice Network
     en: Tax Justice Network
     link: http://www.taxjustice.net/
+  - fr: Tax Justice Network Australia
+    en: Tax Justice Network Australia
+    link: http://www.taxjustice.org.au/
+  - fr: Tax Justice Network USA
+    en: Tax Justice Network USA
+    link: http://tjn-usa.org/
   - fr: Transparency International France
     en: Transparency International France
     link: http://www.transparency-france.org/
@@ -216,6 +234,10 @@ personalities:
     fr: Tax Justice Network
     en: Tax Justice Network USA
     cat: guardian
+  - name: Michèle Bonneton
+    fr: Députée (EELV)
+    en: French MP
+    cat: contact
   - name: Christophe Bonneuil
     fr: Historien des sciences
     en: Historian of science
@@ -291,6 +313,10 @@ personalities:
   - name: Claude Cécile
     fr: Secrétaire Général du SNJ
     en: Secretary-General of SNJ
+    cat: contact
+  - name: Robert Charvin
+    fr: Doyen honoraire de la Faculté de droit de Nice
+    en: Professor of International Law
     cat: contact
   - name: Emmanuel Chaumery
     fr: Initiative pour une démocratie alternative
@@ -387,6 +413,10 @@ personalities:
   - name: Michelle Demessine
     fr: Sénatrice (CRC)
     en: French Senator
+    cat: contact
+  - name: Alain Deneault
+    fr: Philosophe, politologue
+    en: Philosopher &amp; political scientist
     cat: contact
   - name: Jean-Michel Di Falco
     fr: Évêque de Gap et d'Embrun
@@ -500,6 +530,10 @@ personalities:
     fr: Député australien
     en: Australian MP (Labour)
     cat: guardian
+  - name: Corinne Gobin
+    fr: Politologue
+    en: Political scientist
+    cat: contact
   - name: Olivier Gourmet
     fr: Comédien
     en: Actor
@@ -524,6 +558,14 @@ personalities:
     fr: Entrepreneur social
     en: Social entrepreneur
     cat: contact
+  - name: André Gunthert
+    fr: Historien, EHESS
+    en: Historian
+    cat: contact
+  - name: Philippe Hambye
+    fr: Chargé de recherche en linguistique
+    en: Linguist
+    cat: contact
   - name: Benoît Hamon
     fr: Député (PS)
     en: French MP
@@ -536,6 +578,10 @@ personalities:
     fr: Global Integrity
     en: Global Integrity
     cat: guardian
+  - name: Christiane Hessel
+    fr: 
+    en: 
+    cat: contact
   - name: John Hilary
     fr: War on Want
     en: War on Want
@@ -552,6 +598,10 @@ personalities:
     fr: Involve
     en: Involve
     cat: guardian
+  - name: Marc Jacquemain
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
   - name: Yannick Jadot
     fr: Député européen (Verts)
     en: French MEP (Green)
@@ -588,6 +638,10 @@ personalities:
     fr: Universtié de Limerick
     en: University of Limerick
     cat: guardian
+  - name: Naomi Klein
+    fr: Essayiste
+    en: Essayist
+    cat: contact
   - name: Korben 
     fr: Blogueur
     en: French blog writer
@@ -631,6 +685,10 @@ personalities:
   - name: Vincent Lanier
     fr: Premier Secrétaire Général du SNJ
     en: Primary Secretary-General of SNJ
+    cat: contact
+  - name: Pierre Larrouturou
+    fr: co-Président de Nouvelle Donne
+    en: co-President of Nouvelle Donne
     cat: contact
   - name: Jean Lassalle
     fr: Député
@@ -679,6 +737,10 @@ personalities:
   - name: Lefred Thouron
     fr: Dessinateur
     en: Cartoonist
+    cat: contact
+  - name: Philippe Légé
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Laetitia Liebert
     fr: Sherpa
@@ -839,6 +901,10 @@ personalities:
   - name: Thierry Pech
     fr: Essayiste
     en: Essayist
+    cat: contact
+  - name: Antoine Peillon
+    fr: Journaliste
+    en: Journalist
     cat: contact
   - name: Cédric Perrin
     fr: Sénateur (UMP)
@@ -1122,3 +1188,7 @@ personalities:
     fr: Uniting Church, Australie
     en: Tax Justice Network Australia
     cat: guardian
+  - name: Marc Zune
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
