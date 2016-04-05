@@ -92,6 +92,9 @@ organisations:
   - fr: Mines Alerte Canada
     en: Mining Watch Canada
     link: http://miningwatch.ca/
+  - fr: Mouvement national des chômeurs et précaires
+    en: French movement for the unemployed
+    link: http://www.mncp.fr/site/appel-aupres-de-personnalites-a-soutenir-antoine-deltour-lanceur-dalerte-dans-laffaire-luxleaks/
   - fr: Mouvement des Objecteurs de Croissance
     en: French movement for Degrowth
     link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
@@ -178,6 +181,10 @@ personalities:
     fr: Membre du Conseil économique, social et environnemental
     en: Member of French Environmental, Social and Economic Council
     cat: contact
+  - name: Julian Assange
+    fr: Cofondateur de WikiLeaks
+    en: WikiLeaks Editor-in-chief
+    cat: contact
   - name: Éliane Assassi
     fr: Sénatrice (CRC)
     en: French Senator
@@ -230,10 +237,22 @@ personalities:
     fr: Homme politique (NPA)
     en: French politician
     cat: contact
+  - name: Sophie Binet
+    fr: Secrétaire Générale Adjointe de la CGT-UGICT
+    en: Deputy Secretary-General of CGT-UGICT
+    cat: contact
+  - name: Laurence Blisson
+    fr: Secrétaire Générale du Syndicat de la Magistrature
+    en: Secretary-General of the French Magistrate Union
+    cat: contact
   - name: Jack A. Blum
     fr: Tax Justice Network
     en: Tax Justice Network USA
     cat: guardian
+  - name: Juan Branco
+    fr: Juriste
+    en: Jurist
+    cat: contact
   - name: Michèle Bonneton
     fr: Députée (EELV)
     en: French MP
@@ -442,6 +461,10 @@ personalities:
     fr: Réalisateur
     en: Film-maker and writer
     cat: contact
+  - name: Jean-Pierre Dubois
+    fr: Président d’honneur de la LDH
+    en: ex-President of the French Human Rights League
+    cat: contact
   - name: Marc Dufumier
     fr: Agronome
     en: Agronomist
@@ -469,6 +492,10 @@ personalities:
   - name: Didier Eribon
     fr: Philosophe &amp; sociologue
     en: Philosopher &amp; sociologist
+    cat: contact
+  - name: Patrice Estanguet
+    fr: Médaillé Olympique de Canoë
+    en:  French slalom canoer
     cat: contact
   - name: Txetx Etcheverry
     fr: Cofondateur Alternatiba
@@ -578,6 +605,10 @@ personalities:
     fr: Global Integrity
     en: Global Integrity
     cat: guardian
+  - name: Patrick Henriot
+    fr: Secrétaire National du Syndicat de la Magistrature
+    en: National Secretary of the French Magistrate Union
+    cat: contact
   - name: Christiane Hessel
     fr: 
     en: 
@@ -598,6 +629,10 @@ personalities:
     fr: Involve
     en: Involve
     cat: guardian
+  - name: Daniel Ibanez
+    fr: Lanceur d'alerte
+    en: Whistleblower
+    cat: contact
   - name: Marc Jacquemain
     fr: Sociologue
     en: Sociologist
@@ -613,6 +648,10 @@ personalities:
   - name: François Jarrige
     fr: Historien
     en: Historian
+    cat: contact
+  - name: Raoul-Marc Jennar
+    fr: Essaysite, Publiciste
+    en:  Essayist, Political scientist
     cat: contact
   - name: Lord (Joel) Joffe
     fr: Membre du parlement du Royaume-Uni
@@ -657,6 +696,10 @@ personalities:
   - name: Annie Lacroix-Riz
     fr: Historienne
     en: Historian
+    cat: contact
+  - name: Marion Lagaillarde
+    fr: Secrétaire Nationale du Syndicat de la Magistrature
+    en: National Secretary of the French Magistrate Union
     cat: contact
   - name: Geoffroy de Lagasnerie
     fr: Philosophe &amp; sociologue
@@ -794,6 +837,10 @@ personalities:
     fr: The Accountant, Rédacteur en chef
     en: The Accountant, Editor
     cat: contact
+  - name: Valérie Massadian
+    fr: Réalisatrice
+    en: Film-maker
+    cat: contact
   - name: Gustave Massiah
     fr: Economiste, membre du conseil scientifique d'ATTAC
     en: Economist, member of ATTAC scientific council
@@ -833,6 +880,10 @@ personalities:
   - name: Dominique Méda
     fr: Philosophe &amp; Sociologue 
     en: Philosopher &amp; sociologist
+    cat: contact
+  - name: Jean-Luc Mélenchon
+    fr: Député européen, co-fondateur du Parti de Gauche
+    en: MEP, Left Party co-founder
     cat: contact
   - name: Nicole Marie Meyer
     fr: Responsable alerte éthique, Transparency International France
@@ -954,6 +1005,10 @@ personalities:
     fr: Humoriste
     en: Humorist
     cat: contact
+  - name: André Posman
+    fr: Redacteur en chef du Magazine 'De Nieuwe Vlaamse Muziekrevue'
+    en: Editor-in-chief of 'De Nieuwe Vlaamse Muziekrevue'
+    cat: contact
   - name: Emmanuel Poupard
     fr: Secrétaire Général du SNJ
     en: Secretary-General of SNJ
@@ -1057,6 +1112,10 @@ personalities:
     fr: Université d'Essex
     en: University of Essex
     cat: guardian
+  - name: Yves Sintomer
+    fr: Professeur en Sciences Politiques
+    en: Professor of Political science
+    cat: contact
   - name: Serge Slama
     fr: Maître de conférences en droit public, Membre du CREDOF
     en: PhD in Public Law, member of CREDOF
@@ -1096,8 +1155,12 @@ personalities:
     fr: University College Dublin
     en: University College Dublin
     cat: guardian
+  - name: Clarisse Taron
+    fr: Présidente du Syndicat de la Magistrature
+    en: President of the French Magistrate Union
+    cat: contact
   - name: Pierre Tartakowsky
-    fr: Présidents d’honneur de la LDH
+    fr: Président d’honneur de la LDH
     en: ex-President of the French Human Rights League
     cat: contact
   - name: Janine Teisson
@@ -1121,7 +1184,7 @@ personalities:
     en: Sociologist
     cat: contact
   - name: Michel Tubiana
-    fr: Présidents d’honneur de la LDH
+    fr: Président d’honneur de la LDH
     en: ex-President of the French Human Rights League
     cat: contact
   - name: Ernest Urtasun
@@ -1155,6 +1218,10 @@ personalities:
   - name: Daniel Villanova
     fr: Auteur et Comédien
     en: Actor and writer
+    cat: contact
+  - name: Anaïs Vrain
+    fr: Secrétaire Nationale du Syndicat de la Magistrature
+    en: National Secretary of the French Magistrate Union
     cat: contact
   - name: Sophie Wahnich
     fr: Historienne
@@ -1192,3 +1259,8 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Mathilde Zylberberg
+    fr: Secrétaire Nationale du Syndicat de la Magistrature
+    en: National Secretary of the French Magistrate Union
+    cat: contact
+
