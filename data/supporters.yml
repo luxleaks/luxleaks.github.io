@@ -17,6 +17,9 @@ organisations:
   - fr: ATTAC Luxembourg
     en: ATTAC Luxembourg
     link: https://www.facebook.com/groups/AttacLuxembourg/
+  - fr: ATTAC Norvège
+    en: ATTAC Norway
+    link: http://attac.no/
   - fr: ATTAC Wallonie Bruxelles
     en: ATTAC Wallonie Bruxelles
     link: http://wb.attac.be/
@@ -40,6 +43,10 @@ organisations:
   - fr: CFDT
     en: CFDT
     link: https://www.cfdt.fr/portail/theme/mobilisation/appel-a-soutenir-antoine-deltour-a-l-origine-des-luxleaks-srv1_257376
+    cat: ppfj
+  - fr: Collectif Roosevelt
+    en: Collectif Roosevelt
+    link: https://collectif-roosevelt.fr/mobilisations/antoine-deltour-lanceur-dalerte-danger-soutenons-antoine/
     cat: ppfj
   - fr: Collectif Roosevelt Belgique
     en: Collectif Roosevelt Belgique
@@ -76,6 +83,9 @@ organisations:
   - fr: Financité
     en: Financité
     link: https://www.financite.be/
+  - fr: Fondation Sciences Citoyennes
+    en: Fondation Sciences Citoyennes
+    link: http://sciencescitoyennes.org/soutenons-antoine-deltour/  
   - fr: F.S.U.
     en: F.S.U (French Union)
     link: http://snpi-fsu.org/spip.php?article523
@@ -136,6 +146,9 @@ organisations:
     en: Solidaires Finances Publiques
     link: http://solidairesfinancespubliques.fr/
     cat: ppfj
+  - fr: Syndicat des Avocats de France
+    en: Syndicat des Avocats de France
+    link: http://www.lesaf.org/
   - fr: Syndicat de la magistrature
     en: Syndicat de la magistrature
     link: http://www.syndicat-magistrature.org/
@@ -240,6 +253,10 @@ personalities:
   - name: Sophie Binet
     fr: Secrétaire Générale Adjointe de la CGT-UGICT
     en: Deputy Secretary-General of CGT-UGICT
+    cat: contact
+  - name: Jacques Blaquart
+    fr: Évêque d'Orléans
+    en: French bishop of Orléans
     cat: contact
   - name: Laurence Blisson
     fr: Secrétaire Générale du Syndicat de la Magistrature
@@ -401,6 +418,10 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
+  - name: Harold Crooks
+    fr: Journaliste, écrivain &amp; réalisateur
+    en: Journalist, writer &amp; director
+    cat: contact
   - name: Annie David
     fr: Sénatrice (CRC)
     en: French Senator
@@ -545,6 +566,10 @@ personalities:
     fr: Politiste
     en: Political scientist
     cat: contact
+  - name: Susan George
+    fr: Écrivaine, présidente d'honneur d'ATTAC
+    en: Political scientist, Honorary president of ATTAC
+    cat: contact
   - name: Stéphanie Gibaud
     fr: Lanceuse d'alerte (UBS)
     en: Whistleblower (UBS)
@@ -560,6 +585,10 @@ personalities:
   - name: Corinne Gobin
     fr: Politologue
     en: Political scientist
+    cat: contact
+  - name: Roland Gori
+    fr: Psychanalyste
+    en: Psychanalyst
     cat: contact
   - name: Olivier Gourmet
     fr: Comédien
@@ -825,6 +854,10 @@ personalities:
     fr: Lawyers for Better Business
     en: Lawyers for Better Business
     cat: guardian
+  - name: Jonathan Marie
+    fr: Économiste
+    en: Economist
+    cat: contact
   - name: Michel Marre
     fr: Musicien
     en: Musician
@@ -905,6 +938,10 @@ personalities:
     fr: Membre du parlement britannique
     en: UK MP (Labour)
     cat: guardian
+  - name: Patrick Monfort
+    fr: Directeur de recherche, Secrétaire général du SNCS-FSU
+    en: Secretary-general of SNCS-FSU
+    cat: contact
   - name: Gérard Mordillat
     fr: Romancier, cinéaste
     en: Writer &amp; Director
@@ -1218,6 +1255,10 @@ personalities:
   - name: Daniel Villanova
     fr: Auteur et Comédien
     en: Actor and writer
+    cat: contact
+  - name: Patrick Viveret
+    fr: Philosophe
+    en: Philosopher
     cat: contact
   - name: Anaïs Vrain
     fr: Secrétaire Nationale du Syndicat de la Magistrature
