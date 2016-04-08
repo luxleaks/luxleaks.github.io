@@ -255,7 +255,7 @@ personalities:
     en: Deputy Secretary-General of CGT-UGICT
     cat: contact
   - name: Jacques Blaquart
-    fr: Évêque d'Orléans
+    fr: Évêque du diocèse d'Orléans
     en: French bishop of Orléans
     cat: contact
   - name: Laurence Blisson
@@ -412,6 +412,10 @@ personalities:
     cat: contact
   - name: Sergio Coronado
     fr: Député (EELV)
+    en: French MP
+    cat: contact
+  - name: Valérie Corre
+    fr: Députée (PS)
     en: French MP
     cat: contact
   - name: Jézabel Couppey-Soubeyran
