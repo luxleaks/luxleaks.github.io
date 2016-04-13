@@ -358,6 +358,10 @@ personalities:
     fr: Initiative pour une démocratie alternative
     en: French politician
     cat: contact
+  - name: François Chérèque
+    fr: Ancien syndicaliste
+    en: Former syndicalist
+    cat: contact
   - name: Jacques Chérèque
     fr: Ancien ministre
     en: ex-French minister
@@ -1137,6 +1141,11 @@ personalities:
   - name: Patrick Saurin
     fr: Porte-parole de Sud Solidaires BPCE
     en: French trade unionist
+    cat: contact
+  - name: Christian Sautter
+    fr: Ancien Ministre
+    en: ex-French minister
+    cat: contact
   - name: Molly Scott Cato
     fr: Députée européenne britannique (Verts)
     en: UK MEP (Green)
@@ -1300,6 +1309,10 @@ personalities:
     fr: Uniting Church, Australie
     en: Tax Justice Network Australia
     cat: guardian
+  - name: Gabriel Zucman
+    fr: Économiste, UC Berkeley
+    en: Assistant Professor of Economics, UC Berkeley
+    cat: contact
   - name: Marc Zune
     fr: Sociologue
     en: Sociologist
