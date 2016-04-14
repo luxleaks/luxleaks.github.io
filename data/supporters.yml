@@ -108,6 +108,9 @@ organisations:
   - fr: Mouvement des Objecteurs de Croissance
     en: French movement for Degrowth
     link: http://www.les-oc.info/2015/04/il-faut-soutenir-antoine-deltour-le-lanceur-dalerte-luxleaks/
+  - fr: Netzwerk Steuergerechtigkeit
+    en: Netzwerk Steuergerechtigkeit
+    link: https://netzfrauen.org/
   - fr: Netzfrauen
     en: Netzfrauen
     link: https://netzfrauen.org/
@@ -205,6 +208,10 @@ personalities:
   - name: Isabelle Attard
     fr: Députée (Écologiste)
     en: French MP
+    cat: contact
+  - name: Guy Aurenche
+    fr: Avocat, président du CCFD Terre Solidaire
+    en: President of CCFD Terre Solidaire
     cat: contact
   - name: Clémentine Autain
     fr: Porte parole Ensemble (FDG)
@@ -1268,6 +1275,10 @@ personalities:
   - name: Daniel Villanova
     fr: Auteur et Comédien
     en: Actor and writer
+    cat: contact
+  - name: Vinvin
+    fr: Animateur, Auteur, acteur
+    en: Presenter, Actor and writer
     cat: contact
   - name: Patrick Viveret
     fr: Philosophe
