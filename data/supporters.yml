@@ -373,6 +373,10 @@ personalities:
     fr: Ancien ministre
     en: ex-French minister
     cat: contact
+  - name: Marc Chesney
+    fr: Professeur de finance à l'université de Zurich
+    en: Finance Professor at Zurich University
+    cat: contact
   - name: Eve Chiapello
     fr: Sociologue
     en: Sociologist
@@ -548,6 +552,10 @@ personalities:
   - name: Carine Favier
     fr: Mouvement du planning familial
     en: Family Planning Movement
+    cat: contact
+  - name: Claire Fehrenbach
+    fr: Directrice générale d'Oxfam France
+    en: CEO of Oxfam France
     cat: contact
   - name: Nicolas Ferran
     fr: Observatoire International des prisons
