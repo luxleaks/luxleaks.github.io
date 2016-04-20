@@ -58,6 +58,9 @@ organisations:
     en: CRID
     link: http://www.crid.asso.fr/
     cat: ppfj
+  - fr: Citoyens résistants d'hier et d'aujourd'hui
+    en: CRHA
+    link: http://www.citoyens-resistants.fr/
   - fr: Déclaration de Berne
     en: Berne Declaration
     link: https://www.bernedeclaration.ch/
@@ -236,6 +239,10 @@ personalities:
   - name: Gilles Balbastre
     fr: Journaliste, réalisateur
     en: Journalist
+    cat: contact
+  - name: Jacqueline Balsan
+    fr: Présidente du MNCP
+    en: President of MNCP
     cat: contact
   - name: Gérard Bapt
     fr: Député PS
@@ -589,6 +596,10 @@ personalities:
     fr: Politiste
     en: Political scientist
     cat: contact
+  - name: Chantale Gauthier
+    fr: Vice Présidente du MNCP
+    en: Deputy President of MNCP
+    cat: contact
   - name: Susan George
     fr: Écrivaine, présidente d'honneur d'ATTAC
     en: Political scientist, Honorary president of ATTAC
@@ -644,6 +655,10 @@ personalities:
   - name: Philippe Hambye
     fr: Chargé de recherche en linguistique
     en: Linguist
+    cat: contact
+  - name: Jean-Pierre Hammer
+    fr: Professeur des Universités
+    en: University Professor
     cat: contact
   - name: Benoît Hamon
     fr: Député (PS)
@@ -749,6 +764,10 @@ personalities:
     fr: Historienne
     en: Historian
     cat: contact
+  - name: Laurent Lafforgue
+    fr: Mathématicien, Médaille Fields
+    en: Mathematician, Fields Medal
+    cat: contact
   - name: Marion Lagaillarde
     fr: Secrétaire Nationale du Syndicat de la Magistrature
     en: National Secretary of the French Magistrate Union
@@ -844,6 +863,10 @@ personalities:
   - name: Raphaël Liogier
     fr: Sociologue &amp; philosophe
     en: Sociologist &amp; Philosopher
+    cat: contact
+  - name: Alain Lipietz
+    fr: ancien Député européen
+    en: former MEP (Green)
     cat: contact
   - name: Édouard Louis
     fr: Écrivain
@@ -1009,6 +1032,10 @@ personalities:
     fr: Députée australienne
     en: Australian MP (Labour)
     cat: guardian
+  - name: Eléna Pasca
+    fr: Philosophe
+    en: Philosopher
+    cat: contact
   - name: Thierry Pech
     fr: Essayiste
     en: Essayist
@@ -1016,6 +1043,10 @@ personalities:
   - name: Antoine Peillon
     fr: Journaliste
     en: Journalist
+    cat: contact
+  - name: Gilles Perret
+    fr: Documentariste
+    en: Documentarian
     cat: contact
   - name: Cédric Perrin
     fr: Sénateur (UMP)
@@ -1148,6 +1179,10 @@ personalities:
   - name: Christian Salmon
     fr: Écrivain, chercheur
     en: Writer, researcher
+    cat: contact
+  - name: Sako
+    fr: Artiste
+    en: Artist
     cat: contact
   - name: Shlomo Sand
     fr: Historien
