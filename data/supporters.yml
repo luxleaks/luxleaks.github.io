@@ -668,6 +668,10 @@ personalities:
     fr: Global Witness
     en: Global Witness
     cat: guardian
+  - name: Michel Heinrich
+    fr: Maire d'Épinal, Député
+    en: French MP, Mayor of Épinal
+    cat: contact
   - name: Nathaniel Heller
     fr: Global Integrity
     en: Global Integrity
