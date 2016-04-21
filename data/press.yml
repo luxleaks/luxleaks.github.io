@@ -1,3 +1,81 @@
+
+- date: 2016-04-16
+  source: France Inter
+  cat: radio-show
+  fr: Quelles protections pour les lanceurs d’alerte ?"
+  en: "What protections for whistleblowers?"
+  url: http://media.radiofrance-podcast.net/podcast09/11548-16.04.2016-ITEMA_20962901-5.mp3
+  lang: fr
+- date: 2016-04-12
+  source: Le Monde
+  cat: article
+  fr: "Edward Snowden, Stéphanie Gibaud, Hervé Falciani… Que deviennent les lanceurs d'alerte ?"
+  en: "Edward Snowden, Stéphanie Gibaud, Hervé Falicani… What becomes of whistleblowers?"
+  url: http://www.lemonde.fr/panama-papers/article/2016/04/12/julian-assange-edward-snowden-herve-falciani-que-deviennent-les-lanceurs-d-alerte_4900688_4890278.html
+  lang: fr
+- date: 2016-04-12
+  source: Luxemburger Wort
+  cat: article
+  fr: "Procès LuxLeaks : « Deltour ne regrette rien »"
+  en: "LuxLeaks trial: “Deltour regrets nothing”"
+  url: http://www.wort.lu/fr/politique/proces-luxleaks-deltour-ne-regrette-rien-570cc6151bea9dff8fa75fdb
+  lang: fr
+- date: 2016-04-12
+  source: Luxemburger Wort
+  cat: article
+  fr: "Procès LuxLeaks : « Deltour ne regrette rien »"
+  en: "LuxLeaks trial: “Deltour regrets nothing”"
+  url: http://www.wort.lu/en/business/luxleaks-trial-deltour-regrets-nothing-570ca40c1bea9dff8fa75fbf
+  lang: en
+- date: 2016-04-11
+  source: Luxemburger Wort
+  cat: article
+  fr: "Affaire LuxLeaks : «M. Valls, merci d'évoquer le cas de Deltour et Perrin»"
+  en: "LuxLeaks affair: “Mr. Valls, please mention the case of Deltour and Perrin”"
+  url: http://www.wort.lu/fr/politique/affaire-luxleaks-m-valls-merci-d-evoquer-le-cas-de-deltour-et-perrin-570be6911bea9dff8fa75f66
+  lang: fr
+- date: 2016-04-11
+  source: Le Quotidien
+  cat: article
+  fr: "Lanceurs d’alerte « LuxLeaks » : Valls pas vraiment solidaire"
+  en: "Whistleblowers “LuxLeaks”: Valls not really showing solidarity"
+  url: http://www.lequotidien.lu/politique-et-societe/lanceurs-dalerte-luxleaks-valls-pas-vraiment-solidaire/
+  lang: fr
+- date: 2016-04-08
+  source: France Info
+  cat: interview
+  fr: "LuxLeaks : Antoine Deltour « serein » mais demande à redevenir un « citoyen lambda »"
+  en: "LuxLekas: Antoine Deltour « at peace » but would like to turn back into an « average citizen »"
+  url: http://www.lemonde.fr/idees/article/2016/04/08/le-president-de-la-republique-doit-proteger-les-lanceurs-d-alerte_4898344_3232.html
+  lang: fr
+- date: 2016-04-08
+  source: Le Monde
+  cat: op-ed
+  fr: "Le président de la République doit protéger les lanceurs d’alerte"
+  en: "President of France must protect whistleblowers"
+  url: http://www.lemonde.fr/idees/article/2016/04/08/le-president-de-la-republique-doit-proteger-les-lanceurs-d-alerte_4898344_3232.html
+  lang: fr
+- date: 2016-04-04
+  source: Le Quotidien
+  cat: article
+  fr: "Hollande remercie les lanceurs d’alerte des Panama Papers, mais pas ceux des LuxLeaks"
+  en: "Hollande thanks the whistleblowers of the Panama Papers, but not the LuxLeaks ones"
+  url: http://www.lequotidien.lu/economie/hollande-remercie-les-lanceurs-dalerte-des-panama-papers-mais-pas-ceux-des-luxleaks/
+  lang: fr
+- date: 2016-04-01
+  source: Tax Justice Network
+  cat: article
+  fr: "Comment la directive européenne sur le secret d'affaires va réduire les lanceurs d'alerte au silence"
+  en: "How the European Trade secrets Directive will silence tax whistleblowers"
+  url: http://www.taxjustice.net/2016/04/01/the-european-trade-secrets-directive-how-to-silence-tax-whistleblowers/
+  lang: en
+- date: 2016-03-19
+  source: Le Républicain Lorrain
+  cat: article
+  fr: "Antoine Deltour : lanceur d’alerte dans la tourmente"
+  en: "Antoine Deltour: a whistleblower in turmoil"
+  url: http://www.republicain-lorrain.fr/justice/2016/03/19/antoine-deltour-lanceur-d-alerte-dans-la-tourmente
+  lang: fr
 - date: 2016-02-19
   source: L'Expansion
   cat: interview
