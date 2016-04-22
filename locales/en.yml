@@ -48,6 +48,8 @@ en:
     title: "Press Kit &amp; Coverage"
     pressbook: Press kit
     coverage: Press coverage
+    newsletters: Newsletters
+    newsletter: "Newsletter #"
     from: from %{from}
     pr: "Press Release"
     article: "Article"

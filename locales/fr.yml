@@ -46,6 +46,8 @@ fr:
   press:
     title: "Presse &amp; Médias"
     pressbook: Dossier de presse
+    newsletters: Lettres d'information
+    newsletter: Lettre d'information n°
     coverage: Les médias parlent d'Antoine Deltour
     from: à partir de %{from}
     pr: "Communiqué de Presse"

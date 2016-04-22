@@ -4,6 +4,20 @@ layout: page
 <section class="press">
   <h1><%= I18n.t("press.title") %></h1>
 
+  <h2><%= I18n.t("press.newsletters") %></h2>
+  <ul>
+    <% data.newsletters.each do |item| %>
+    <% if (item[I18n.locale]) %>
+    <li class="pressitem">
+      <time datetime="<%= item.date.strftime('%Y-%m-%d') %>"><%= I18n.l(item.date.to_time, format: :short) %></time>
+      <span class="pressitem__source"><%= I18n.t("press.newsletter") %><%= item.num %></span>
+      <%= link_to I18n.locale.to_s == 'fr'? item.fr : item.en, i18n_path('/newsletter/news-'+item.num.to_s)%>
+    </span>
+    </li>
+    <% end %>
+    <% end %>
+  </ul>
+
   <h2><%= I18n.t("press.pressbook") %></h2>
   <ul>
   <% blog(I18n.locale.to_s).articles.select {|a| (%w(pr article)).include? a.data.category}.each do |article| %>
