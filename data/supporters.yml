@@ -968,6 +968,10 @@ personalities:
     fr: Député européen, co-fondateur du Parti de Gauche
     en: MEP, Left Party co-founder
     cat: contact
+  - name: Daniel Mermet
+    fr: Journaliste
+    en: Journalist
+    cat: contact
   - name: Nicole Marie Meyer
     fr: Responsable alerte éthique, Transparency International France
     en: Whistleblower Programme Coordinator, Transparency International France
@@ -1179,6 +1183,10 @@ personalities:
   - name: Virginie Rozière
     fr: Député européenne (S&amp;D)
     en: French MEP (S&amp;D)
+    cat: contact
+  - name: François Ruffin
+    fr: Journaliste
+    en: Journalist
     cat: contact
   - name: Christian Salmon
     fr: Écrivain, chercheur
