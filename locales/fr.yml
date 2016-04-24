@@ -82,6 +82,8 @@ fr:
     cat_libe_link: tribune publiée dans Libération
     cat_guardian: Signataires d'une %{link} le 23 décembre 2014.
     cat_guardian_link: lettre ouverte publiée dans le Guardian
+    cat_ppfj: Membres de la %{link}.
+    cat_ppfj_link: Plateforme Paradis Fiscaux et Judiciaires
   blog:
     title: "Les <span>actualités</span>"
   newsletterform:

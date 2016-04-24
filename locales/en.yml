@@ -84,6 +84,9 @@ en:
     cat_libe_link: "op-ed published in Libération"
     cat_guardian: "In an %{link} on December 23, 2014."
     cat_guardian_link: open letter published in the Guardian
+    cat_ppfj: Members of the French %{link}.
+    cat_ppfj_link: Platform on judicial and tax havens
+
   newsletterform:
     list: support-antoine-en
     unsub:

@@ -10,10 +10,17 @@ layout: page
     <li>
       <% if member.link != nil %><a href="<%= member.link %>"><% end %>
       <%= (I18n.locale == I18n.default_locale) ? member.fr : member.en %>
+      <% if member.cat == 'ppfj' %>
+      <sup class="supporters__noteref">*</sup>
+      <% end %>
       <% if member.link != nil %></a><% end %>
     </li>
     <% end %>
   </ul>
+  <ul class="supporters__footnotes" role="list">
+  <li><%= t("supporters.cat_ppfj", :link => "<a href=\"http://www.stopparadisfiscaux.fr/qui-sommes-nous/article/les-15-membres-de-la-plateforme\">"+t("supporters.cat_ppfj_link")+"</a>") %></li>
+  </ul>
+
 
   <h2><%= t("supporters.personalities") %></h2>
   <p><%= t("supporters.personalities_desc") %></p>  
