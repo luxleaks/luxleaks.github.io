@@ -196,6 +196,10 @@ personalities:
     fr: Magistrat, vice-Président d'Anticor
     en: Magistrate, vice-President of Anticor
     cat: contact
+  - name: Jean-Pierre Andrevon
+    fr: Écrivain
+    en: Writer
+    cat: contact
   - name: Gérard Aschieri
     fr: Membre du Conseil économique, social et environnemental
     en: Member of French Environmental, Social and Economic Council
@@ -255,6 +259,10 @@ personalities:
   - name: Marie-France Beaufils
     fr: Sénatrice (CRC)
     en: French Senator
+    cat: contact
+  - name: Laurent Beccaria
+    fr: Éditeur
+    en: Publisher
     cat: contact
   - name: Miguel Benasayag
     fr: Philosophe, Psychanalyste
@@ -420,10 +428,6 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
-  - name: Brigitte Conthier-Maurin
-    fr: Sénatrice (CRC)
-    en: French Senator
-    cat: contact
   - name: Philippe Corcuff
     fr: Politiste
     en: Political scientist
@@ -457,12 +461,20 @@ personalities:
     en: President of financial cooperative La Nef
     cat: contact
   - name: Caroline De Haas
-    fr: Féministe
+    fr: Militante féministe
     en: Feminist
+    cat: contact
+  - name: Erri De Luca
+    fr: Écrivain
+    en: Writer
     cat: contact
   - name: Olivier De Schutter
     fr: Professeur de droit international à l’Université catholique de Louvain
     en: Professor of international human rights law
+    cat: contact
+  - name: Jean-Michel Delambre
+    fr: Dessinateur de presse
+    en: Cartoonist
     cat: contact
   - name: Chloé Delaume
     fr: Écrivaine
@@ -564,6 +576,10 @@ personalities:
     fr: Directrice générale d'Oxfam France
     en: CEO of Oxfam France
     cat: contact
+  - name: Caryl Férey
+    fr: Écrivain
+    en: Writer
+    cat: contact
   - name: Nicolas Ferran
     fr: Observatoire International des prisons
     en: International Observatory on Prisons
@@ -575,6 +591,10 @@ personalities:
   - name: Irène Frachon 
     fr: Lanceuse d'alerte (Mediator)
     en: Whistleblower (Mediator)
+    cat: contact
+  - name: Pascal Franchet
+    fr: Président CADTM France
+    en: President of CADTM France
     cat: contact
   - name: Jean Gadrey
     fr: Économiste
@@ -604,6 +624,10 @@ personalities:
     fr: Écrivaine, présidente d'honneur d'ATTAC
     en: Political scientist, Honorary president of ATTAC
     cat: contact
+  - name: Geoffrey Geuens
+    fr: Essayiste et universitaire
+    en: Essayist, University lecturer
+    cat: contact
   - name: Stéphanie Gibaud
     fr: Lanceuse d'alerte (UBS)
     en: Whistleblower (UBS)
@@ -619,6 +643,10 @@ personalities:
   - name: Corinne Gobin
     fr: Politologue
     en: Political scientist
+    cat: contact
+  - name: Brigitte Gonthier-Maurin
+    fr: Sénatrice (CRC)
+    en: French Senator
     cat: contact
   - name: Roland Gori
     fr: Psychanalyste
@@ -639,10 +667,6 @@ personalities:
   - name: Bernadette Groison
     fr: Secrétaire nationale de la FSU
     en: General secretary of FSU
-    cat: contact
-  - name: Geoffrey Geuens
-    fr: Essayiste et universitaire
-    en: Essayist, University lecturer
     cat: contact
   - name: Thibaut Guilluy
     fr: Entrepreneur social
@@ -792,6 +816,10 @@ personalities:
     fr: Député européen belge (Verts) 
     en: Belgian MEP (Green)
     cat: guardian
+  - name: Bruno Lamour
+    fr: président Collectif Roosevelt France
+    en: President Collectif Roosevelt France
+    cat: contact
   - name: Pascal Lamy
     fr: Ancien Directeur Général de l'OMC, ancien Commissaire européen
     en: Former Director-General of WTO, former European Commissioner
@@ -837,7 +865,7 @@ personalities:
     en: Sociologist
     cat: contact
   - name: Safia Lebdi
-    fr: Conseillère régionale EELV – Présidente des Insoumis-es
+    fr: Présidente des Insoumis-es
     en: French politician
     cat: contact
   - name: Daniel Lebegue
@@ -873,10 +901,6 @@ personalities:
     en: former MEP (Green)
     cat: contact
   - name: Édouard Louis
-    fr: Écrivain
-    en: Writer
-    cat: contact
-  - name: Erri de Luca
     fr: Écrivain
     en: Writer
     cat: contact
@@ -933,8 +957,8 @@ personalities:
     en: French MEP (S&amp;D)
     cat: contact
   - name: Nonna Mayer
-    fr: Présidente de l’Association française de science politique
-    en: Sociologist &amp; political scientist
+    fr: Professeure de science politique
+    en: Political scientist
     cat: contact
   - name: Sorley McCaughey
     fr: Christian Aid Ireland
