@@ -1092,6 +1092,10 @@ personalities:
     fr: Secrétaire Général du SNJ
     en: Secretary-General of SNJ
     cat: contact
+  - name: Jean-Christophe Picard
+    fr: Président d'Anticor
+    en: President of Anticor
+    cat: guardian
   - name: Prof Sol Picciotto
     fr: Université de Lancaster
     en: Lancaster University
