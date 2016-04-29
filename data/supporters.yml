@@ -10,6 +10,12 @@ organisations:
   - fr: Association Française de Sociologie
     en: French Association of Sociology
     link: http://www.test-afs-socio.fr/drupal/node/4464
+  - fr: Associated Whistleblowing Press
+    en: Associated Whistleblowing Press
+    link: https://awp.is/
+  - fr: ATTAC Autriche
+    en: ATTAC Austria
+    link: http://www.attac.at/
   - fr: ATTAC France
     en: ATTAC France
     link: https://france.attac.org/actus-et-medias/le-flux/article/soutenons-antoine-deltour
@@ -80,6 +86,9 @@ organisations:
   - fr: Fédération Syndicale Européenne des Services Publics
     en: EPSU - NEA committee
     link: http://epsu.org/a/11264
+  - fr: Fíltra.la
+    en: Fíltra.la
+    link: https://filtrala.org/
   - fr: Financial Transparency Coalition
     en: Financial Transparency Coalition
     link: http://financialtransparency.org/news/stoptaxdodging-campaign-putting-an-end-to-unfair-tax-policies/
@@ -728,6 +737,10 @@ personalities:
     fr: Involve
     en: Involve
     cat: guardian
+  - name: Jean-Pierre Hugot
+    fr: Auteur BD
+    en: Comics Author
+    cat: contact
   - name: Daniel Ibanez
     fr: Lanceur d'alerte
     en: Whistleblower
