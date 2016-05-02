@@ -209,6 +209,10 @@ personalities:
     fr: Écrivain
     en: Writer
     cat: contact
+  - name: Paul Ariès
+    fr: Politologue
+    en: Political scientist
+    cat: contact
   - name: Gérard Aschieri
     fr: Membre du Conseil économique, social et environnemental
     en: Member of French Environmental, Social and Economic Council
@@ -480,6 +484,10 @@ personalities:
   - name: Erri De Luca
     fr: Écrivain
     en: Writer
+    cat: contact
+  - name: Fabio De Masi
+    fr: Député européen (Die Linke)
+    en: German MEP (Die Linke)
     cat: contact
   - name: Olivier De Schutter
     fr: Professeur de droit international à l’Université catholique de Louvain
@@ -777,6 +785,10 @@ personalities:
     fr: Anthropologue, économiste
     en: Anthropologist &amp; Economist
     cat: contact
+  - name: Nicolas Jounin
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
   - name: Ged Kearney
     fr: Conseil australien des syndicats  
     en: Australian Council of Trade Unions (ACTU)
@@ -789,6 +801,10 @@ personalities:
     fr: Universtié de Limerick
     en: University of Limerick
     cat: guardian
+  - name: Klaire fait Grrr
+    fr: Auteure
+    en: Writer
+    cat: contact
   - name: Naomi Klein
     fr: Essayiste
     en: Essayist
@@ -1141,6 +1157,10 @@ personalities:
     fr: Université de Yale
     en: Yale University
     cat: guardian
+  - name: Laura Poitras
+    fr: Journaliste
+    en: Journalist
+    cat: contact
   - name: Thomas Porcher
     fr: Économiste
     en: Economist
