@@ -1,8 +1,105 @@
-
+- date: 2016-04-30
+  source: The Economist
+  cat: article
+  fr: "Deltour sur le banc des accusés"
+  en: "Deltour in the dock"
+  url: http://www.economist.com/news/business/21697864-beancounter-who-exposed-cosy-tax-deals-multinationals-goes-trial-deltour-dock
+  lang: en
+- date: 2016-04-26
+  source: Marianne
+  cat: article
+  fr: "LuxLeaks : Antoine Deltour, soldat inconnu des lanceurs d'alerte"
+  en: "LuxLeaks: Antoine Deltour, the Unknown Soldier of the whistleblowers"
+  url: http://www.marianne.net/luxleaks-antoine-deltour-soldat-inconnu-lanceurs-alerte-100242024.html
+  lang: fr
+- date: 2016-04-26
+  source: 20 minutes
+  cat: article
+  fr: "Haro sur le héraut"
+  en: "Outcry against the Herald"
+  url: http://pdf.20mn.fr/2016/quotidien/20160426_FRA.pdf?1
+  lang: fr
+- date: 2016-04-25
+  source: Médiapart
+  cat: op-ed
+  fr: "Luxleaks et le procès d'Antoine Deltour: quand le vice se plaint de la vertu !"
+  en: "LuxLeaks and Antoine Deltour's trial: when Vice complains against Virtue!"
+  url: https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/250416/luxleaks-et-le-proces-dantoine-deltour-quand-le-vice-se-plaint-de-la-vertu
+  lang: fr
+- date: 2016-04-25
+  source: Le Monde
+  cat: article
+  fr: "Antoine Deltour, le discret artisan des LuxLeaks"
+  en: "Antoine Deltour, the reserved architect of the LuxLeaks"
+  url: http://www.lemonde.fr/international/article/2016/04/25/antoine-deltour-lanceur-d-alerte-discret-mais-determine_4907970_3210.html
+  lang: fr
+- date: 2016-04-25
+  source: Challenge
+  cat: article
+  fr: "LuxLeaks: Deltour, un lanceur d'alerte exemplaire face au Luxembourg"
+  en: "LuxLeaks: Deltour, an examplary whistleblower facing Luxembourg"
+  url: http://www.challenges.fr/challenges-soir/20160425.CHA8354/luxleaks-deltour-un-lanceur-d-alerte-exemplaire-face-au-luxembourg.html
+  lang: fr
+- date: 2016-04-25
+  source: Médiapart
+  cat: article
+  fr: "«LuxLeaks» : les enjeux d’un procès explosif"
+  en: "“LuxLeaks”: the stakes of an explosive trial"
+  url: https://www.mediapart.fr/journal/economie/250416/luxleaks-les-enjeux-d-un-proces-explosif
+  lang: fr
+- date: 2016-04-24
+  source: TF1, 20h
+  cat: video-report
+  fr: "LuxLeaks : l’exemple d’Antoine Deltour mobilise pour la création d’un statut de lanceur d’alerte"
+  en: "LuxLeaks: the case of Antoine Deltour mobilises for the creation of a whistleblower statute"
+  url: http://lci.tf1.fr/jt-we/videos/2016/luxleaks-l-exemple-d-antoine-deltour-mobilise-pour-la-creation-8736029.html
+  lang: fr
+- date: 2016-04-24
+  source: The Guardian
+  cat: article
+  fr: "Des anciens salariés de PwC sont poursuivis pour leur rôle dans le scandale LuxLeaks"
+  en: "Former PwC employees face trial over role in LuxLeaks scandal"
+  url: http://www.theguardian.com/world/2016/apr/24/luxleaks-antoine-deltour-luxembourg-tax-avoidance-pricewaterhousecoopers-trial
+  lang: en
+- date: 2016-04-24
+  source: Financial Times
+  cat: article
+  fr: "Le lanceur d'alerte LuxLeaks serein avant le procès"
+  en: "LuxLeaks whistleblower calm ahead of trial"
+  url: http://www.ft.com/cms/s/0/07ae6336-08a7-11e6-b6d3-746f8e9cdd33.html
+  lang: en
+- date: 2016-04-24
+  source: France Info
+  cat: interview
+  fr: "LuxLeaks : le lanceur d'alerte Antoine Deltour témoigne avant son procès"
+  en: "LuxLeaks: whistleblower Antoine Deltour speaks before his trial"
+  url: http://www.franceinfo.fr/fil-info/article/luxleaks-deux-jours-de-son-proces-l-impatience-et-l-anxiete-du-lanceur-d-alerte-antoine-deltour-784671
+  lang: fr
+- date: 2016-04-24
+  source: Libération
+  cat: article
+  fr: "Antoine Deltour : « J'ai agi en conscience »"
+  en: "Antoine Deltour: “I acted in conscience”"
+  url: http://www.liberation.fr/planete/2016/04/24/antoine-deltour-j-ai-agi-en-conscience_1448402
+  lang: fr
+- date: 2016-04-24
+  source: Le Journal du Dimanche
+  cat: article
+  fr: "Antoine Deltour, lanceur d'alerte : « Je ne suis ni justicier ni martyr »"
+  en: "Antoine Deltour, whistleblower: “I'm neither a righter of wrongs, nor a martyr”"
+  url: http://www.lejdd.fr/Societe/Antoine-Deltour-lanceur-d-alerte-Je-ne-suis-ni-justicier-ni-martyr-782453
+  lang: fr
+- date: 2016-04-16
+  source: Global Magazine
+  cat: article
+  fr: "Procès du secret ou du Juste ?"
+  en: "Trial of the secret or the Just man"
+  url: http://www.globalmagazine.info/meli-melo/2016/04/16/le-proces-luxleaks-ou-comment-inquieter-les-lanceurs-dalerte-1460816561
+  lang: fr
 - date: 2016-04-16
   source: France Inter
   cat: radio-show
-  fr: Quelles protections pour les lanceurs d’alerte ?"
+  fr: "Quelles protections pour les lanceurs d’alerte ?"
   en: "What protections for whistleblowers?"
   url: http://media.radiofrance-podcast.net/podcast09/11548-16.04.2016-ITEMA_20962901-5.mp3
   lang: fr
@@ -41,11 +138,18 @@
   en: "Whistleblowers “LuxLeaks”: Valls not really showing solidarity"
   url: http://www.lequotidien.lu/politique-et-societe/lanceurs-dalerte-luxleaks-valls-pas-vraiment-solidaire/
   lang: fr
+- date: 2016-04-10
+  source: TV5 Monde, Grand Angle
+  cat: video
+  fr: "«LuxLeaks, le procès d’un lanceurs d'alerte au Luxembourg» (avec Jean-Christophe Picard, président d'Anticor)"
+  en: "“LuxLeaks, the trial of a whistleblower in Luxembourg” (with Jean-Christophe Picard, president of Anticor)"
+  url: http://information.tv5monde.com/info/luxleaks-le-proces-d-un-lanceurs-d-alerte-au-luxembourg-101366
+  lang: fr
 - date: 2016-04-08
   source: France Info
   cat: interview
   fr: "LuxLeaks : Antoine Deltour « serein » mais demande à redevenir un « citoyen lambda »"
-  en: "LuxLekas: Antoine Deltour « at peace » but would like to turn back into an « average citizen »"
+  en: "LuxLeaks: Antoine Deltour « at peace » but would like to turn back into an « average citizen »"
   url: http://www.lemonde.fr/idees/article/2016/04/08/le-president-de-la-republique-doit-proteger-les-lanceurs-d-alerte_4898344_3232.html
   lang: fr
 - date: 2016-04-08
