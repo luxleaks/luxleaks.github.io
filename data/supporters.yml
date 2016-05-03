@@ -749,6 +749,10 @@ personalities:
     fr: Auteur BD
     en: Comics Author
     cat: contact
+  - name: Nicolas Hulot
+    fr: Président de la Fondation Nicolas-Hulot pour la Nature et l’Homme.
+    en: President of Foundation Nicolas-Hulot
+    cat: contact
   - name: Daniel Ibanez
     fr: Lanceur d'alerte
     en: Whistleblower
