@@ -32,6 +32,9 @@ organisations:
   - fr: Bizi
     en: Bizi
     link: http://www.bizimugi.eu/
+  - fr: BLOOM Association
+    en: BLOOM Association
+    link: http://www.bloomassociation.org/
   - fr: CADTM Belgique
     en: CADTM Belgium
     link: http://cadtm.org/
@@ -188,6 +191,9 @@ organisations:
     en: UGCIT-CGT (French Union)
     link: http://www.ugict.cgt.fr/articles/actus/soutien-deltour-luxleaks
     cat: ppfj
+  - fr: War on Want
+    en: War on Want
+    link: http://www.waronwant.org/
   - fr: Xnet
     en: Xnet
     link: https://xnet-x.net/en/
@@ -308,6 +314,10 @@ personalities:
   - name: Juan Branco
     fr: Juriste
     en: Jurist
+    cat: contact
+  - name: Éric Bocquet
+    fr: Sénateur (CRC)
+    en: French Senator
     cat: contact
   - name: Michèle Bonneton
     fr: Députée (EELV)
@@ -1092,6 +1102,10 @@ personalities:
   - name: Julien Noé
     fr: Fondateur d'Enercoop
     en: Enercoop
+    cat: contact
+  - name: Claire Nouvian
+    fr: Présidente, BLOOM Association
+    en: President of BLOOM Association
     cat: contact
   - name: André Orléan
     fr: Économiste
