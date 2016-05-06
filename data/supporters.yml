@@ -591,6 +591,10 @@ personalities:
     fr: Cofondateur Alternatiba
     en: Alternatiba
     cat: contact
+  - name: Jeanne Fagnani
+    fr: Directrice de recherche honoraire, CNRS
+    en: Honorary director of research, CNRS
+    cat: libe
   - name: Hervé Falciani
     fr: Lanceur d'alerte (SwissLeaks)
     en: Whistleblower (SwissLeaks)
@@ -610,6 +614,10 @@ personalities:
   - name: Caryl Férey
     fr: Écrivain
     en: Writer
+    cat: contact
+  - name: Sara Fernandez
+    fr: Ingénieure Chercheuse, Irstea
+    en: Engineer Researcher, Irstea
     cat: contact
   - name: Nicolas Ferran
     fr: Observatoire International des prisons
@@ -779,6 +787,10 @@ personalities:
     fr: Public Concern at Work
     en: Public Concern at Work
     cat: guardian
+  - name: Florence Jany-Catrice
+    fr: Économiste, Université de Lille
+    en: Economist, Lille University
+    cat: contact
   - name: François Jarrige
     fr: Historien
     en: Historian
@@ -854,6 +866,10 @@ personalities:
   - name: Bernard Lahire
     fr: Sociologue
     en: Sociologist
+    cat: contact
+  - name: Caroline Lambert
+    fr: Professeure, HEC Montréal
+    en: Professor, HEC Montréal
     cat: contact
   - name: François-Michel Lambert
     fr: Député (Écologiste)
@@ -1291,6 +1307,10 @@ personalities:
     fr: Ancien Ministre
     en: ex-French minister
     cat: contact
+  - name: Laurence Scialom
+    fr: Professeure des Universités
+    en: University Professor
+    cat: contact
   - name: Molly Scott Cato
     fr: Députée européenne britannique (Verts)
     en: UK MEP (Green)
@@ -1369,6 +1389,10 @@ personalities:
   - name: Olivier Thérondel
     fr: ex-agent Tracfin, lanceur d'alerte
     en: Whistleblower
+    cat: contact
+  - name: Hélène Tordjman
+    fr: Économiste, Univeristé de Paris 13
+    en: Economist, University Paris 13
     cat: contact
   - name: Éric Toussaint
     fr: Porte parole du CADTM
