@@ -30,6 +30,7 @@ You can join the Support Committee by filling the membership application form:
 It is also possible to apply offline by downloading the [membership application form](/docs/asso/application-form.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) and sending it (joining the membership fees in cash or cheque payble to "Comité de soutien à Antoine Deltour") to:
 
 Comité de soutien à Antoine Deltour  
+Centre Léo Lagrange  
 BP 1006  
 88050 EPINAL Cedex 9  
 France

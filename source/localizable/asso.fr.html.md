@@ -29,5 +29,6 @@ Vous pouvez adhérer à l'association via la plateforme [HelloAsso]() en utilisa
 Il est également possible d'adhérer par voie postale en téléchargeant le [bulletin d'adhésion](/docs/asso/bulletin-adhesion.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) et en l'envoyant avec le règlement (en espèces ou chèque à l'ordre de "Comité de Soutien à Antoine Deltour") à l'adresse de l'association&nbsp;:
 
 Comité de soutien à Antoine Deltour  
+Centre Léo Lagrange  
 BP 1006  
 88050 EPINAL Cedex 9
