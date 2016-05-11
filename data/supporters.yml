@@ -211,6 +211,10 @@ personalities:
     fr: Magistrat, vice-Président d'Anticor
     en: Magistrate, vice-President of Anticor
     cat: contact
+  - name: Annick Ancelin-Bourguignon
+    fr: Enseignante-chercheure, ESSEC Business School Paris
+    en: Teacher-Researcher, ESSEC Business School Paris
+    cat: contact
   - name: Jean-Pierre Andrevon
     fr: Écrivain
     en: Writer
@@ -646,6 +650,10 @@ personalities:
   - name:  Jean-Jacques Gandini
     fr: Avocat, ex-Président du Syndicat des avocats de France
     en: ex-President of SAF (French lawyer syndicate)
+    cat: contact
+  - name: Hélène Garner-Moyer
+    fr: Chercheuse associée, CERGORS 
+    en: Researcher, CERGORS
     cat: contact
   - name: Jean-Pierre Garnier
     fr: Sociologue
@@ -1389,6 +1397,10 @@ personalities:
   - name: Olivier Thérondel
     fr: ex-agent Tracfin, lanceur d'alerte
     en: Whistleblower
+    cat: contact
+  - name: Géraldine Thiry
+    fr: Enseignante-Chercheuse en économie, Université catholique de Louvain
+    en: Economist, Catholic University of Louvain
     cat: contact
   - name: Hélène Tordjman
     fr: Économiste, Univeristé de Paris 13
