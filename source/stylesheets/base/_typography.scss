@@ -89,7 +89,7 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019";
 }
 
-blockquote :first-child:before {
+blockquote > *:first-child:before {
   color: $base-accent-color;
   content: "\201C";
   font: bold 4em serif;
