@@ -107,6 +107,9 @@ organisations:
   - fr: Global Alliance for Tax Justice
     en: Global Alliance for Tax Justice
     link: http://www.globaltaxjustice.org/support-the-luxleaks-whistleblower/
+  - fr: Greenpeace France
+    en: Greenpeace France
+    link: http://www.greenpeace.org/france/
   - fr: Justice et Paix
     en: Justice et Paix
     link: http://www.justice-paix.cef.fr/
@@ -174,6 +177,9 @@ organisations:
   - fr: Syndicat National des Journalistes
     en: French National Syndicate of Journalists (SNJ)
     link: http://www.snj.fr/
+  - fr: Syndicat National des Journalistes CGT
+    en: French National Syndicate of Journalists (SNJ-CGT)
+    link: http://www.snjcgt.fr
   - fr: Tax Justice Network
     en: Tax Justice Network
     link: http://www.taxjustice.net/
@@ -199,6 +205,10 @@ organisations:
     link: https://xnet-x.net/en/
 
 personalities:
+  - name: Patrick Abate
+    fr: Sénateur (CRC)
+    en: French Senator
+    cat: contact
   - name: Brigitte Alain
     fr: Députée (EELV)
     en: French MP
@@ -411,6 +421,10 @@ personalities:
     fr: Initiative pour une démocratie alternative
     en: French politician
     cat: contact
+  - name: Christian Chavagneux
+    fr: Journaliste
+    en: Journalist
+    cat: contact
   - name: François Chérèque
     fr: Ancien syndicaliste
     en: Former syndicalist
@@ -567,6 +581,10 @@ personalities:
     fr: Présidente de la Ligue des droits de l’Homme
     en: President of the French Human Rights League
     cat: contact
+  - name: James Dunne
+    fr: Lanceur d'alerte
+    en: Whistleblower
+    cat: contact
   - name: Pascal Durand
     fr: Député européen (Verts)
     en: French MEP (Green)
@@ -626,6 +644,10 @@ personalities:
   - name: Nicolas Ferran
     fr: Observatoire International des prisons
     en: International Observatory on Prisons
+    cat: contact
+  - name: Isabelle Ferreras
+    fr: Professeure, Université de Louvain
+    en: Professor, University of Louvain
     cat: contact
   - name: Jean-Philippe Foegle
     fr: Doctorant Droit public
@@ -715,6 +737,10 @@ personalities:
     fr: Secrétaire nationale de la FSU
     en: General secretary of FSU
     cat: contact
+  - name: Jean-Claude Guillebaud
+    fr: Essayiste, écrivain
+    en: Writer
+    cat: contact
   - name: Thibaut Guilluy
     fr: Entrepreneur social
     en: Social entrepreneur
@@ -787,6 +813,10 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Patrick Jacquemin
+    fr: Fondateur de Rue Du Commerce
+    en: Entrepreneur
+    cat: contact
   - name: Yannick Jadot
     fr: Député européen (Verts)
     en: French MEP (Green)
@@ -823,6 +853,10 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Jean-François Julliard
+    fr: Directeur Général de Greenpeace France
+    en: Executive Director, Greenpeace France
+    cat: contact
   - name: Ged Kearney
     fr: Conseil australien des syndicats  
     en: Australian Council of Trade Unions (ACTU)
@@ -854,6 +888,10 @@ personalities:
   - name: Laurence Labeille
     fr: Députée (EELV)
     en: French MP
+    cat: contact
+  - name: Agnès Labrousse
+    fr: Économiste
+    en: Economist
     cat: contact
   - name: Annie Lacroix-Riz
     fr: Historienne
@@ -1251,6 +1289,10 @@ personalities:
     fr: Agroécologiste &amp; écrivain
     en: Farmer, environmentalist &amp; writer
     cat: contact
+  - name: Hélène Rainelli Weiss
+    fr: Professeure des Universités
+    en: University Teacher
+    cat: contact
   - name: Gilles Raveaud
     fr: Économiste
     en: Economist
@@ -1402,6 +1444,10 @@ personalities:
     fr: Enseignante-Chercheuse en économie, Université catholique de Louvain
     en: Economist, Catholic University of Louvain
     cat: contact
+  - name: Sophie Tissier
+    fr: Lanceuse d'alerte
+    en: Whistleblower
+    cat: contact
   - name: Hélène Tordjman
     fr: Économiste, Univeristé de Paris 13
     en: Economist, University Paris 13
@@ -1485,6 +1531,10 @@ personalities:
   - name: Woźniak
     fr: Dessinateur
     en: Cartoonist
+    cat: contact
+  - name: Yannis Youlountas
+    fr: Philosophe
+    en: Philosopher
     cat: contact
   - name: Jean Ziegler
     fr:  Membre du comité consultatif du Conseil des droits de l'homme, ONU
