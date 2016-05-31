@@ -1500,6 +1500,10 @@ personalities:
     fr: Animateur, Auteur, acteur
     en: Presenter, Actor and writer
     cat: contact
+  - name: Emmanuel Vire
+    fr: Secrétaire général du SNJ-CGT
+    en: Secratary-General of SNJ-CGT
+    cat: contact
   - name: Patrick Viveret
     fr: Philosophe
     en: Philosopher
