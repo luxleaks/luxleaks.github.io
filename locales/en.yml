@@ -19,6 +19,9 @@ en:
     alternative: >
       If you face issues using the form above, you can also donate directly via
       the %{link}.
+    check: >
+      It is also possible to send a check payable to ‘Comité de soutien à Antoine
+      Deltour’, at the following address:
     helloasso: Support Committee's page on the HelloAsso platform
   footer:
     credits: Credits

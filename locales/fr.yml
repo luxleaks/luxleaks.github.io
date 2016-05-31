@@ -18,6 +18,9 @@ fr:
     alternative: >
       Si vous rencontrez un problème avec le formulaire ci-dessus, vous pouvez
       également faire un don directement depuis la %{link}.
+    check: >
+      Il est également possible de donner par chèque à l'ordre de «&nbsp;Comité
+      de soutien à Antoine Deltour&nbsp;», à envoyer à notre adresse postale&nbsp;:
     helloasso: page du Comité de Soutien sur HelloAsso
   footer:
     credits: Attributions
