@@ -7,6 +7,9 @@ organisations:
     en: Anticor
     link: http://www.anticor.org/
     cat: ppfj
+  - fr: Ars Industrialis
+    en: Ars Industrialis
+    link: http://arsindustrialis.org/
   - fr: Association Française de Sociologie
     en: French Association of Sociology
     link: http://www.test-afs-socio.fr/drupal/node/4464
@@ -53,6 +56,9 @@ organisations:
     en: CFDT
     link: https://www.cfdt.fr/portail/theme/mobilisation/appel-a-soutenir-antoine-deltour-a-l-origine-des-luxleaks-srv1_257376
     cat: ppfj
+  - fr: Collectif Échec aux Paradis Fiscaux (Canada)
+    en: Collectif Échec aux Paradis Fiscaux (Canada)
+    link: http://www.echecparadisfiscaux.ca/
   - fr: Collectif Roosevelt
     en: Collectif Roosevelt
     link: https://collectif-roosevelt.fr/mobilisations/antoine-deltour-lanceur-dalerte-danger-soutenons-antoine/
@@ -67,6 +73,9 @@ organisations:
     en: CRID
     link: http://www.crid.asso.fr/
     cat: ppfj
+  - fr: Crim'Halt
+    en: Crim'Halt
+    link: https://crimhalt.org/
   - fr: Citoyens résistants d'hier et d'aujourd'hui
     en: CRHA
     link: http://www.citoyens-resistants.fr/
@@ -533,6 +542,10 @@ personalities:
     fr: Membre du Congrès des USA
     en: US Congresswoman (Democrat)
     cat: guardian
+  - name: Benoît Delepine
+    fr: Réalisateur
+    en: Film director
+    cat: contact
   - name: Karima Delli 
     fr: Députée européenne (Verts)
     en: French MEP (Green)
@@ -1153,6 +1166,10 @@ personalities:
     fr: Économiste, Député (PS)
     en: French MP &amp; Economist
     cat: contact
+  - name: Fernand Muller
+    fr: Vice-président de l’UFE (Union du personnel des finances en Europe)<br/>Ancien fonctionnaire des contributions, Luxembourg
+    en: Vice-president of UFE<br/>Former public servant in the Luxembourg tax administration
+    cat: contact
   - name: Richard Murphy
     fr: Tax Research UK
     en: Tax Research UK
@@ -1413,6 +1430,10 @@ personalities:
     fr: Trinity College, Dublin
     en: Trinity College, Dublin
     cat: guardian
+  - name: Bernard Stiegler
+    fr: Philosophe
+    en: Philosopher
+    cat: contact
   - name: Lord (Ben) Stoneham
     en: UK member of the upper house (Lib Dem)
     cat: guardian
