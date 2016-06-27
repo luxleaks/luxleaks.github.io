@@ -9,11 +9,13 @@ layout: page
     <% data.newsletters.each do |item| %>
     <% if (item[I18n.locale]) %>
     <li class="pressitem">
+      <% num = data.newsletters.size - data.newsletters.index(item) %>
       <time datetime="<%= item.date.strftime('%Y-%m-%d') %>"><%= I18n.l(item.date.to_time, format: :short) %></time>
-      <span class="pressitem__source"><%= I18n.t("press.newsletter") %><%= item.num %></span>
-      <%= link_to I18n.locale.to_s == 'fr'? item.fr : item.en, i18n_path('/newsletter/news-'+item.num.to_s)%>
-    </span>
-    </li>
+      <span class="pressitem__cat"><%= I18n.t("press.newsletter") %><%= num %></span>
+      <span class="pressitem__link">
+      <%= link_to I18n.locale.to_s == 'fr'? item.fr : item.en, i18n_path('/newsletter/news-'+num.to_s)%>
+      </span>
+     </li>
     <% end %>
     <% end %>
   </ul>
