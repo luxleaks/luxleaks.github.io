@@ -4,7 +4,7 @@ layout: page
 <section class="supporters">
   <h1><%= t("supporters.title") %></h1>
 
-  <h2><%= t("supporters.organisations") %></h2>
+  <h2><%= data.supporters.organisations.length %>&nbsp;<%= t("supporters.organisations") %></h2>
   <ul class="supporters__list">
     <% data.supporters.organisations.each do |member| %>
     <li>
@@ -22,7 +22,7 @@ layout: page
   </ul>
 
 
-  <h2><%= t("supporters.personalities") %></h2>
+  <h2><%= data.supporters.personalities.length %>&nbsp;<%= t("supporters.personalities") %></h2>
   <p><%= t("supporters.personalities_desc") %></p>  
   <ul class="supporters__list">
     <% data.supporters.personalities.each do |member| %>

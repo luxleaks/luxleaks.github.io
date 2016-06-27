@@ -77,8 +77,8 @@ fr:
     donate: "Faire un don"
   supporters:
     title: Soutiens publics
-    organisations: Organisations
-    personalities: Personnalités
+    organisations: organisations
+    personalities: personnalités
     personalities_desc: "Ils ont exprimé leur soutien :"
     cat_contact: Soutiens spontanés ou contactés par le Comité de Soutien
     cat_libe: Signataires d'une %{link} le 10 mars 2015.

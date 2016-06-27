@@ -79,8 +79,8 @@ en:
     donate: "Donate now"
   supporters:
     title: Supporters
-    organisations: Organisations
-    personalities: Personalities
+    organisations: organisations
+    personalities: personalities
     personalities_desc: "They expressed their support:"
     cat_contact: Spontaneously or contacted by the Support Committee
     cat_libe: "In an %{link} on March 10, 2015."
