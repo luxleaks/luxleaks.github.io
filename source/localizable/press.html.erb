@@ -39,9 +39,15 @@ layout: page
     <% if (item[I18n.locale]) %>
     <li class="pressitem">
       <time datetime="<%= item.date.strftime('%Y-%m-%d') %>"><%= I18n.l(item.date.to_time, format: :short) %></time>
+      <% if (item.source) %>
       <span class="pressitem__source"><%= item.source %></span>
+      <% end %>
       <span class="pressitem__info"
-          ><%= I18n.t("press.cat.#{item.cat}") %><%= "<span class=\"pressitem__info__lang\">#{I18n.t("lang.#{item.lang}")}</span>" if !current_locale? item.lang %><%= "<span class=\"pressitem__info__from\">#{I18n.t "press.from", from:item.from}</span>" if item.from != nil %></span>
+          ><%= I18n.t("press.cat.#{item.cat}") %>
+          <% if (item.lang) %>
+          <%= "<span class=\"pressitem__info__lang\">#{I18n.t("lang.#{item.lang}")}</span>" if !current_locale? item.lang %><%= "<span class=\"pressitem__info__from\">#{I18n.t "press.from", from:item.from}</span>" if item.from != nil %>
+          <% end %>      
+      </span>
       <span class="pressitem__link">
       <%= link_to I18n.locale.to_s == 'fr'? item.fr : item.en, item.url %>
     </span>

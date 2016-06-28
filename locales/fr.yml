@@ -3,6 +3,7 @@ fr:
   lang:
     de: en allemand
     en: en anglais
+    es: en espagnol
     it: en italien
   time:
     formats:
@@ -57,6 +58,7 @@ fr:
     article: "Article"
     cat:
       article: Article
+      collection: Collection
       file: Dossier
       editorial: Édito
       interview: Interview

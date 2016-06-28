@@ -2,6 +2,7 @@
 en:
   lang:
     de: in German
+    es: in Spanish
     fr: in french
     it: in Italian
   time:
@@ -57,6 +58,7 @@ en:
     pr: "Press Release"
     article: "Article"
     cat:
+      collection: Collection
       file: File
       editorial: Editorial
       interview: Interview

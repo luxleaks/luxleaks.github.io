@@ -1,3 +1,100 @@
+- date: 2016-06-27 
+  source: Rue89 Strasbourg 
+  cat: interview
+  fr: "On a rencontré le vosgien Antoine Deltour, cauchemar du capitalisme européen"
+  en: "We met with Antoine Deltour, the bugbear of european capitalism"
+  url: http://www.rue89strasbourg.com/rencontre-antoine-deltour-terreur-capitalisme-europeen-108106
+  lang: fr
+- date: 2016-06-23 
+  source: Le Monde 
+  cat: article
+  fr: "Lanceurs d'alerte : la loi Sapin 2 va t-elle assez loin ?"
+  en: "Whistleblowers: does the law ‘Sapin 2’ go far enough?"
+  url: http://www.lemonde.fr/idees/article/2016/06/23/lanceurs-d-alerte-la-loi-sapin-2-va-t-elle-assez-loin_4956589_3232.htm
+  lang: fr
+- date: 2016-06-07 
+  source: Magazine La chronique d'Amnesty International 
+  cat: article
+  fr: "LuxLeaks : l'intérêt général en procès"
+  en: "LuxLeaks: the trial of the general interest"
+  url: http://asp.zone-secure.net/v2/index.jsp?id=1084/1367/64880&lng=fr (page 14)
+  lang: fr
+- date: 2016-05-27 
+  source: Libération 
+  cat: article
+  fr: "A Paris comme à Bruxelles, les lanceurs d'alerte trahis par les mots"
+  en: "In Paris or in Brussels, whistleblowers are betrayed by the words"
+  url: http://www.liberation.fr/france/2016/05/27/a-paris-comme-a-bruxelles-les-lanceurs-d-alerte-trahis-par-les-mots_1455581
+  lang: fr
+- date: 2016-05-19 
+  source: The Conversation 
+  cat: article
+  fr: "Le statut des lanceurs d’alerte à l’épreuve du procès LuxLeaks"
+  en: "The status of whistleblowers is tested by the LuxLeaks trial"
+  url: https://theconversation.com/le-statut-des-lanceurs-dalerte-a-lepreuve-du-proces-luxleaks-59356
+  lang: fr
+- date: 2016-05-19 
+  source: Les Echos
+  cat: article
+  fr: "Loi Sapin II : Vers une agence nationale pour protéger les lanceurs d’alerte"
+  en: "Law ‘Sapin II’: towards a national agency for the protection of whistleblowers"
+  url: http://www.lesechos.fr/economie-france/budget-fiscalite/021947119851-vers-une-agence-nationale-pour-proteger-les-lanceurs-dalerte-1223170.php#
+  lang: fr
+- date: 2016-05-17 
+  source: The Accountant
+  cat: article
+  en: "Edito : Antoine Deltour, le Daniel Ellsberg de la comptabilité"
+  fr: "Editor's letter: Antoine Deltour – the Daniel Ellsberg of accountancy"
+  url: http://www.theaccountant-online.com/blog/editors-letter-antoine-deltour-the-daniel-ellsberg-of-accountancy/
+  lang: en
+- date: 2016-05-15 
+  source: El Diaro 
+  cat: article
+  fr: "LuxLeaks : Révélations de secrets ou service public?"
+  en: "LuxLeaks: disclosure of secrets or public service?"
+  url: http://www.eldiario.es/cultura/tecnologia/privacidad/LuxLeaks-Revelacion-secretos-servicio-publico_0_515499332.htm
+  lang: es
+- date: 2016-05-14 
+  source: Der Spiegel 
+  cat: article
+  fr: "Dans l'intérêt de l'Europe"
+  en: "In Europe's interest"
+  url: https://magazin.spiegel.de/SP/2016/20/144788074/index.html
+  lang: de
+- date: 2016-05-12 
+  source: Le Quotidien
+  cat: article
+  fr: "LuxLeaks : La relaxe ou le purgatoire"
+  en: "Luxleaks : acquittal or purgatory"
+  url: http://www.lequotidien.lu/editoriaux/la-relaxe-ou-le-purgatoire/
+  lang: fr
+- date: 2016-05-11
+  cat: collection
+  fr: "Couverture médiatique de la 8ème audience"
+  en: "Press coverage of the 8th hearing"
+  url: https://support-antoine.org/blog/2016/05/11/trial-day8/#dans-la-presse
+- date: 2016-05-10
+  cat: collection
+  fr: "Couverture médiatique de la 7ème audience"
+  en: "Press coverage of the 7th hearing"
+  url: https://support-antoine.org/blog/2016/05/10/trial-day7/#dans-la-presse
+- date: 2016-05-04
+  cat: collection
+  fr: "Couverture médiatique de la 6ème audience"
+  en: "Press coverage of the 6th hearing"
+  url: https://support-antoine.org/blog/2016/05/04/trial-day6/#dans-la-presse
+- date: 2016-05-03 
+  source: AFP
+  cat: article
+  fr: "Antoine Deltour « fier » d'avoir fait avancer le débat fiscal en Europe"
+  en: "Antoine Deltour “proud” to have moved forward the tax discussions in Europe"
+  url: http://www.francesoir.fr/societe-faits-divers/luxleaks-antoine-deltour-fier-davoir-fait-avancer-le-debat-fiscal-en-europe
+  lang: fr
+- date: 2016-05-03
+  cat: collection
+  fr: "Couverture médiatique de la 5ème audience"
+  en: "Press coverage of the 5th hearing"
+  url: https://support-antoine.org/blog/2016/05/03/trial-day5/#dans-la-presse
 - date: 2016-04-30
   source: The Economist
   cat: article
@@ -5,6 +102,26 @@
   en: "Deltour in the dock"
   url: http://www.economist.com/news/business/21697864-beancounter-who-exposed-cosy-tax-deals-multinationals-goes-trial-deltour-dock
   lang: en
+- date: 2016-04-29
+  cat: collection
+  fr: "Couverture médiatique de la 4ème audience"
+  en: "Press coverage of the 4th hearing"
+  url: https://support-antoine.org/blog/2016/04/29/trial-day4/#dans-la-presse
+- date: 2016-04-28
+  cat: collection
+  fr: "Couverture médiatique de la 3ème audience"
+  en: "Press coverage of the 3d hearing"
+  url: https://support-antoine.org/blog/2016/04/28/trial-day3/#dans-la-presse
+- date: 2016-04-27
+  cat: collection
+  fr: "Couverture médiatique de la 2ème audience"
+  en: "Press coverage of the 2nd hearing"
+  url: https://support-antoine.org/blog/2016/04/27/trial-day2/#dans-la-presse
+- date: 2016-04-26
+  cat: collection
+  fr: "Couverture médiatique de la 1ère audience"
+  en: "Press coverage of the 1st hearing"
+  url: https://support-antoine.org/blog/2016/04/26/trial-day1/#dans-la-presse
 - date: 2016-04-26
   source: Marianne
   cat: article
