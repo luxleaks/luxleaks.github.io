@@ -183,6 +183,9 @@ organisations:
     en: Syndicat de la magistrature
     link: http://www.syndicat-magistrature.org/
     cat: ppfj
+  - fr: Syndicat National de l'Environnement (SNE-FSU)
+    en: French National Syndicate of Environment (SNE-FSU)
+    link: http://snefsu.org/
   - fr: Syndicat National des Journalistes
     en: French National Syndicate of Journalists (SNJ)
     link: http://www.snj.fr/
@@ -878,6 +881,10 @@ personalities:
     fr: Syndicat GMB
     en: GMB union
     cat: guardian
+  - name: Chaynesse Khirouni
+    fr: Députée (PS)
+    en: French MP
+    cat: contact
   - name: Dr Sheila Killian
     fr: Universtié de Limerick
     en: University of Limerick
