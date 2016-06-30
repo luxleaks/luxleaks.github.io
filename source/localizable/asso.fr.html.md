@@ -22,9 +22,9 @@ _Les personnes désireuses de consulter l’intégralité des statuts peuvent en
 
 ## Comment adhérer ?
 
-Vous pouvez adhérer à l'association via la plateforme [HelloAsso]() en utilisant le formulaire ci-dessous :
+Vous pouvez adhérer à l'association via la plateforme [HelloAsso](https://www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/adhesions/adhesion-au-comite-de-soutien-d-antoine-deltour) en utilisant le formulaire ci-dessous :
 
-<iframe id="haWidget" src="//www.helloasso.com/widgets/izi_adhesion.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&campagne=adhesion-au-comite-de-soutien-d-antoine-deltour&color=%2370c24a&lang=en" onload="scroll(0,0);" class="helloasso"></iframe> 
+<iframe id="haWidget" src="//www.helloasso.com/widgets/izi_adhesion.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&amp;campagne=adhesion-au-comite-de-soutien-d-antoine-deltour&amp;color=%2370c24a" onload="scroll(0,0);" class="helloasso"></iframe> 
 
 Il est également possible d'adhérer par voie postale en téléchargeant le [bulletin d'adhésion](/docs/asso/bulletin-adhesion.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) et en l'envoyant avec le règlement (en espèces ou chèque à l'ordre de "Comité de Soutien à Antoine Deltour") à l'adresse de l'association&nbsp;:
 
