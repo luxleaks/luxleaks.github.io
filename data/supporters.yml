@@ -225,6 +225,10 @@ personalities:
     fr: Députée (EELV)
     en: French MP
     cat: contact
+  - name: Éric Alauzet
+    fr: Député (EELV)
+    en: French MP
+    cat: contact
   - name: Paul Allies
     fr: Professeur de science politique
     en: Political scientist
@@ -320,6 +324,10 @@ personalities:
   - name: Olivier Besancenot
     fr: Homme politique (NPA)
     en: French politician
+    cat: contact
+  - name: Martine Billard
+    fr: Secrétaire nationale du Parti de gauche
+    en: National secretary of French Left party
     cat: contact
   - name: Sophie Binet
     fr: Secrétaire Générale Adjointe de la CGT-UGICT
@@ -425,6 +433,10 @@ personalities:
     fr: Secrétaire Général du SNJ
     en: Secretary-General of SNJ
     cat: contact
+  - name: Manuel Cervera-Marzal
+    fr: Docteur en science politique, philosophe
+    en: Political scientist, philosopher
+    cat: contact
   - name: Robert Charvin
     fr: Doyen honoraire de la Faculté de droit de Nice
     en: Professor of International Law
@@ -473,6 +485,10 @@ personalities:
     fr: Centre for Global Development
     en: Centre for Global Development
     cat: guardian
+  - name: Yves Cochet
+    fr: Ancien ministre
+    en: Former French minister
+    cat: contact
   - name: Vanessa Codaccioni
     fr: Politiste
     en: Political scientist
@@ -609,6 +625,10 @@ personalities:
     fr: Uniting Church, Australie
     en: Uniting Church in Australia
     cat: guardian
+  - name: Guillaume Duval
+    fr: Rédacteur en chef d'Alternatives économiques
+    en: Editor-in-chief of “Alternatives économiques”
+    cat: contact
   - name: Bas Eickhout
     fr: Député européen néerlandais (Verts)
     en: Dutch MEP (Green)
@@ -665,6 +685,10 @@ personalities:
     fr: Professeure, Université de Louvain
     en: Professor, University of Louvain
     cat: contact
+  - name: Gérard Filoche
+    fr: Militant politique
+    en: French politician
+    cat: contact
   - name: Jean-Philippe Foegle
     fr: Doctorant Droit public
     en: PhD student in Public law 
@@ -676,6 +700,10 @@ personalities:
   - name: Pascal Franchet
     fr: Président CADTM France
     en: President of CADTM France
+    cat: contact
+  - name: Philippe Frémeaux
+    fr: Journaliste, Alternatives économiques
+    en: Journalist
     cat: contact
   - name: Jean Gadrey
     fr: Économiste
@@ -1049,6 +1077,10 @@ personalities:
     fr: Romancier
     en: Novelist
     cat: contact
+  - name: Patrice Maniglier
+    fr: Philosophe
+    en: Philosopher
+    cat: contact
   - name: Dominique Manotti
     fr: Romancière
     en: Novelist
@@ -1213,6 +1245,10 @@ personalities:
     fr: Journaliste
     en: Journalist
     cat: contact
+  - name: Corine Pelluchon
+    fr: Philosophe
+    en: Philosopher
+    cat: contact    
   - name: Gilles Perret
     fr: Documentariste
     en: Documentarian
@@ -1384,6 +1420,10 @@ personalities:
   - name: Christian Sautter
     fr: Ancien Ministre
     en: ex-French minister
+    cat: contact
+  - name: Dominique Schnapper
+    fr: Sociologue, Politologue
+    en: Sociologist, political scientist
     cat: contact
   - name: Laurence Scialom
     fr: Professeure des Universités
