@@ -1,5 +1,5 @@
 ---
-title: Antoine Deltour condamné !!!
+title: Une condamnation incompréhensible et inacceptable
 subtitle: <b>Communiqué de Presse</b> 
 author: Comité de soutien à Antoine
 category: pr
