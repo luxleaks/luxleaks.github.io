@@ -417,9 +417,9 @@ personalities:
     fr: Agronome, anthropologue, écrivain
     en: Agronomist, anthropologist, writer
     cat: contact
-  - name: Fanélie Carrey-Contes
-    fr: Députée (PS)
-    en: French MP
+  - name: Fanélie Carrey-Conte
+    fr: ex-Députée (PS)
+    en: Former French MP
     cat: contact
   - name: Jean-Marie Cavada
     fr: Député européen (ADLE)
@@ -1369,6 +1369,10 @@ personalities:
     fr: Lanceur d'alerte
     en: Whistleblower
     cat: contact
+  - name: Michèle Riot-Sarcey
+    fr: Historienne
+    en: Historian
+    cat: contact
   - name: Michèle Rivasi
     fr: Députée européenne (Verts)
     en: French MEP (Green)
@@ -1381,6 +1385,10 @@ personalities:
     fr: ONE
     en: ONE
     cat: guardian
+  - name: Barbara Romagnan
+    fr: Députée (PS)
+    en: French MP
+    cat: contact
   - name: Jean-Louis Roumégas
     fr: Député (EELV)
     en: French MP
