@@ -1,3 +1,5 @@
+require_relative "./lib/build_cleaner"
+
 ###
 # Blog settings
 ###
@@ -144,6 +146,9 @@ set :images_dir, 'images'
 
 # Build-specific configuration
 configure :build do
+  # Clean the build directory
+  activate :build_cleaner
+
   # For example, change the Compass output style for deployment
   activate :minify_css
 
@@ -164,6 +169,9 @@ configure :build do
 end
 
 activate :deploy do |deploy|
+  # set :skip_build_clean do |path|
+  #   path =~ /\.git/
+  # end
   deploy.method = :git
   deploy.branch = 'master'
 end
