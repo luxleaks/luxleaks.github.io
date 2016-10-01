@@ -536,6 +536,10 @@ personalities:
     fr: Président du directoire de la Nef
     en: President of financial cooperative La Nef
     cat: contact
+  - name: Vincent de Gaulejac
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
   - name: Caroline De Haas
     fr: Militante féministe
     en: Feminist
@@ -1264,6 +1268,10 @@ personalities:
     fr: Secrétaire Général du SNJ
     en: Secretary-General of SNJ
     cat: contact
+  - name: Riccardo Petrella
+    fr: Professeur émérite de l'Université Catholique de Louvain
+    en: Emeritus Professor, Catholic University of Louvain
+    cat: contact
   - name: Jean-Christophe Picard
     fr: Président d'Anticor
     en: President of Anticor
@@ -1395,6 +1403,10 @@ personalities:
   - name: Jean-Louis Roumégas
     fr: Député (EELV)
     en: French MP
+    cat: contact
+  - name: Pierre Rosanvallon
+    fr: Historien, sociologue
+    en: Historian, Sociologist
     cat: contact
   - name: Prof Tulio Rosembuj
     fr: Université de Barcelone
@@ -1540,8 +1552,8 @@ personalities:
     en: Committee for the Abolition of the Third World Debt
     cat: contact
   - name: Aurélie Trouvé
-    fr: Docteure en Sciences Économiques
-    en: Ph.D. in Economics
+    fr: Militante, ATTAC
+    en: Åctivist, ATTAC
     cat: contact
   - name: Fabien Truong
     fr: Sociologue
@@ -1550,6 +1562,10 @@ personalities:
   - name: Michel Tubiana
     fr: Président d’honneur de la LDH
     en: ex-President of the French Human Rights League
+    cat: contact
+  - name: Justin Turpel
+    fr: ancien Député du Luxembourg
+    en: ex-MP of Luxembourg
     cat: contact
   - name: Ernest Urtasun
     fr: Député européen espagnol (Verts)
