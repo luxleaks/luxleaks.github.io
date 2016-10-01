@@ -1,6 +1,6 @@
 ---
-title: Antoine Deltour convicted!!!
-subtitle: <b>Communiqué de Presse</b> 
+title: An inexplicable and unacceptable sentence
+subtitle: <b>Press Release</b> 
 author: Antoine's support committee
 category: pr
 lang: en

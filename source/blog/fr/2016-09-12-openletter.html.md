@@ -6,7 +6,7 @@ author: Comité de soutien à Antoine
 
 > Chers Raphël et Antoine,
 >
-> (…) Nous saluons votre courage au cours des derniès années, et votre ténacité à essayer de renverser le verdict du 29 juin. Clairement, les Luxembourg Leaks ont eu un impact décisif sur le débat sur la transparence et la justice fiscale. (…)
+> (…) Nous saluons votre courage au cours des dernières années, et votre ténacité à essayer de renverser le verdict du 29 juin. Clairement, les Luxembourg Leaks ont eu un impact décisif sur le débat sur la transparence et la justice fiscale. (…)
 
 Jeudi 8 septembre, 108 députés européens ont publié une lettre ouverte adressée à Antoine Deltour et Raphaël Halet, saluant le «&nbsp;courage&nbsp;» des deux lanceurs d'alerte condamnés, ainsi que leur «&nbsp;ténacité à essayer de renverser le verdict du 29 juin&nbsp;». D'après PaperJam (lien), une copie de cette lettre a été livrée à Vera Jourova, Commissaire européenne à la Justice, ainsi qu'à Félix Braz, Ministre de la Justice au Luxembourg.
 
