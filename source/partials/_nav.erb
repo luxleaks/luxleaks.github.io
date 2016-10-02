@@ -4,8 +4,8 @@
 <!--   <div id="cookie-banner-message" align="center">Ce site utilise Google Analytics. En continuant à naviguer, vous nous autorisez à déposer un cookie à des fins de mesure d'audience. <a href="javascript:tagAnalyticsCNIL.CookieConsent.showInform()" style="text-decoration:underline;"> En savoir plus ou s'opposer</a>.</div>
  -->
     <ul class="lang-switch">
-      <li><% link_to switch_locale("fr") do %><span class="fr">FR</span><% end %>
-      <li><% link_to switch_locale("en") do %><span class="en">EN</span><% end %>
+      <li><a href="<%= switch_locale("fr") %>"><span class="fr">FR</span></a>
+      <li><a href="<%= switch_locale("en") %>"><span class="en">EN</span></a>
     </ul>
     <a href="#content" class="sr-only sr-only-focusable"><%= t('nav.skip')%></a>
     <ul class="socio-links">
