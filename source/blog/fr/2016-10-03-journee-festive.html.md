@@ -6,7 +6,7 @@ author: Comité de soutien à Antoine
 
 ## Rendez-vous le 16 octobre !
 
-Dimanche 16 octobre, des arstites vosgiens se mobilisent pour soutenir Antoine. Venez écouter, papoter, partager. Pour dire notre grand soutien à Antoine ! Pour dire notre opposition à l'évasion fiscale !
+Dimanche 16 octobre, des artistes vosgiens se mobilisent pour soutenir Antoine. Venez écouter, papoter, partager. Pour dire notre grand soutien à Antoine ! Pour dire notre opposition à l'évasion fiscale !
 
 **Tous les bénéfices de la journée serviront à financer le procès.**
 
