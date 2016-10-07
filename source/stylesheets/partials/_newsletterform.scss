@@ -4,6 +4,11 @@
   $button-color: $dark-gray;
   $base-spacing: 10px;
 
+  $error-color: #a94442;
+  $error-color-bg: #f2dede;
+  $success-color: #3c763d;
+  $success-color-bg: #dff0d8;
+
   background-color: $light-gray;
   &--unsub {
     background-color: inherit;
@@ -15,24 +20,31 @@
 
   &_invite {
     margin-bottom: 1em;
-
     color: $dark-gray;
     font-size: 1.2em;
     text-align: center;
   }
 
+  & > p {
+    margin-bottom: 3em;
+  }
+
   form {
     margin: 1em auto;
     max-width: 40em;
-  }
-  &--unsub form {
-    margin-top: 3em;
+    position: relative;
   }
   
   input, button {
     display: inline-block;
     vertical-align: middle;
   }
+
+  input[class].error {
+    border-color: red;
+    color: $error-color;
+  }
+
   input[type='email'] {
     width: 70%;
     margin: 0;
@@ -84,15 +96,28 @@
     }
   }
 
+  #loading-gif {
+    position: absolute;
+    display: none;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  #loading-gif img {
+    position: relative;
+    display: block;
+    margin:auto;
+    height:200%;
+    top:-50%;
+  }
+
 
   // Alerts
-  $error-color: lighten($color-2,25);
-  $success-color: lighten($color-4,5);
 
-  @mixin flash($color) {
-    background-color: $color;
-    color: darken($color, 40);
-    border-color: darken($color,10); 
+  @mixin flash($color, $color-bg) {
+    background-color: $color-bg;
+    color: $color;
+    border-color: darken($color-bg,5); 
 
     a {
       color: darken($color, 70%);
@@ -111,7 +136,7 @@
 
     display: block;
     margin-bottom: $base-spacing / 2;
-    padding: $base-spacing / 2;
+    padding: $base-spacing;
     text-align: center;
     border-width: 1px;
     border-style: solid;
@@ -125,16 +150,16 @@
       margin: 0;
     }
     &-success {
-      @include flash($success-color);
+      @include flash($success-color,$success-color-bg);
     }
     &-error {
-      @include flash($error-color);  
+      @include flash($error-color,$error-color-bg);  
     }
   }
 
   div[aria-hidden="true"] {
     visibility:hidden;
-    // @include transition (all 0.4s ease-in-out);
+    @include transition (all 0.4s ease-in-out);
     opacity: 0;
   }
   div[aria-hidden="false"] {

@@ -99,15 +99,18 @@ en:
       desc: >
           You can unsubscribe from our newsletter by using the form below. Sorry to see you go, and thanks for your support!
       submit: Unsubscribe
-      success: "Done! You will receive a confirmation email."
     sub:
       title: "Subscribe to our newsletter"
       desc: "Keep up-to-date on Antoine's situation and the LuxLeaks case!"
       submit: Sign up
-      success: "Thanks! You'll be subscribed after returning the confirmation email."
+    subok:
+      title: "You have subscribed successfully!"
+      desc: "You will receive our next newsletters. Thank you for your interest!"
     label:
       email: Email address
-    error: "An error occurred. You can contact us at contact@support-antoine.org"
+    msg:
+      empty: Please enter an email address.
+      invalid: The email address is invalid.
   blog:
     title: "The <span>News</span>"
   title: "LuxLeaks: Support Antoine Deltour"

@@ -1,19 +1,24 @@
 ---
 layout: page
+append_js:
+  - subunsub.js
 ---
 <section class="newsletterform newsletterform--unsub">
   <h1><%= I18n.t("newsletterform.unsub.title") %></h1>
   <p><%= I18n.t("newsletterform.unsub.desc") %></p>
 
-  <form id="news-unsub" data-list="<%= I18n.t("newsletterform.list") %>">
+  <form id="unsubscribe-form" method="post" action="https://my.sendinblue.com/users/unsubscribeembed/js_id/2l89w/id/<%= (I18n.locale == I18n.default_locale) ? '2' : '3' %>" onsubmit="return false;">
     <label for="email" class="sr-only"><%= I18n.t("newsletterform.label.email") %></label>    
-    <input type="email" name="email" id="news-unsub-email" placeholder="email@example.com" required aria-required="true"
+    <input type="hidden" name="from_url" value="yes">
+    <input type="hidden" name="js_id" value="2l89w">
+    <input type="email" name="email" id="unsubscribe-email" placeholder="email@example.com" required aria-required="true" data-msg-empty="<%= I18n.t("newsletterform.msg.empty") %>" data-msg-invalid="<%= I18n.t("newsletterform.msg.invalid") %>"
     ><input type="submit" value="<%= I18n.t("newsletterform.unsub.submit") %>"/>
+    <div id="loading-gif">
+      <img src="https://my.sendinblue.com/public/theme/version4/assets/images/loader_sblue.gif" alt="">
+    </div>
   </form>
-  <div id="news-unsub-response" class="newsletterform_alert" role="alert" aria-hidden="true"
-    data-success="<%= I18n.t("newsletterform.unsub.success") %>"
-    data-error="<%= I18n.t("newsletterform.error") %>">
+  <div id="form-alert" class="newsletterform_alert" role="alert" aria-hidden="true">
     &nbsp;
   </div>
-
+  
 </section>

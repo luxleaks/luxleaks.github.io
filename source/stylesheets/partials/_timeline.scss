@@ -140,11 +140,11 @@ Main components
     -webkit-transform: translateZ(0);
     -webkit-backface-visibility: hidden;
 
-    .cssanimations &.is-hidden {
+    &.is-hidden {
       visibility: hidden;
     }
 
-    .cssanimations &.bounce-in {
+    &.bounce-in {
       visibility: visible;
       @include animation(cd-bounce-1 .6s);
     }
@@ -284,11 +284,11 @@ Main components
       }
     }
 
-    .cssanimations &.is-hidden {
+    &.is-hidden {
       visibility: hidden;
     }
 
-    .cssanimations &.bounce-in {
+    &.bounce-in {
       visibility: visible;
       @include animation(cd-bounce-2 .6s);
     }
@@ -297,7 +297,7 @@ Main components
 
 @include media($large-screen) {
   /* inverse bounce effect on even content blocks */
-  .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {
+  .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {
     @include animation(cd-bounce-2-inverse .6s);
   }
 }

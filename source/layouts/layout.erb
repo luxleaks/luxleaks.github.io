@@ -10,7 +10,6 @@
         <meta name="description" content="<%= t('desc') %>">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <%= stylesheet_link_tag "main" %>
-        <%= javascript_include_tag 'vendor/modernizr-2.6.2.min', :async => "" %>
         <%= partial "partials/fonts" %>
         <link rel="alternate" hreflang="<%= alt_locale()%>" href="<%= switch_locale(alt_locale())%>">
     </head>
@@ -23,13 +22,12 @@
         <%= yield %>
         <%= partial "partials/footer" %>
 
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="javascripts/vendor/jquery-1.11.1.min.js"><\/script>')</script>
-        <script src="//www.parsecdn.com/js/parse-1.4.2.min.js"></script>
-
+        <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=blissfuljs"></script>
+        <%= javascript_include_tag 'vendor/bliss' %>
 
         <%= javascript_include_tag 'main' %>
-
+        <% current_page.data.append_js.each do |jsfile|%>
+            <%= javascript_include_tag jsfile %>
+        <% end if current_page.data.append_js %>
     </body>
 </html>

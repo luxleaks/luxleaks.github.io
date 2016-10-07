@@ -27,190 +27,120 @@
  */
 (function(document, window, undefined) {
 
-  'use strict';
-  
-  // Vars
-  var menu = document.getElementById('menu'),
-      menuButton = document.getElementById('menu-button')
+    'use strict';
 
-  // Menu properties
-  menu.setAttribute('aria-hidden', 'true');
-  menu.setAttribute('aria-labelledby', 'menu-button');
+    // Vars
+    var menu = document.getElementById('menu'),
+        menuButton = document.getElementById('menu-button')
 
-  // Handle button click event
-  menuButton.addEventListener('click', function () {
-    
-    // If active...
+    // Menu properties
+    menu.setAttribute('aria-hidden', 'true');
+    menu.setAttribute('aria-labelledby', 'menu-button');
+
+    // Handle button click event
+    menuButton.addEventListener('click', function () {
+
+        // If active...
+        if (menu.classList.contains('active')) {
+            // Hide
+            menu.classList.remove('active');
+            menu.setAttribute('aria-hidden', 'true');
+            menuButton.setAttribute('aria-expanded', 'false');
+        } else {
+            // Show
+            menu.classList.add('active');
+            menu.setAttribute('aria-hidden', 'false');
+            menuButton.setAttribute('aria-expanded', 'true');
+
+            // Set focus on first link
+            // menu.children[0].children[0].children[0].focus();
+        }
+    }, false);
+
+    $$(".nav a")._.addEventListener('click', function () {
     if (menu.classList.contains('active')) {
-      // Hide
-      menu.classList.remove('active');
-      menu.setAttribute('aria-hidden', 'true');
-      menuButton.setAttribute('aria-expanded', 'false');
-    } else {
-      // Show
-      menu.classList.add('active');
-      menu.setAttribute('aria-hidden', 'false');
-      menuButton.setAttribute('aria-expanded', 'true');
-
-      // Set focus on first link
-      // menu.children[0].children[0].children[0].focus();
+        // Hide
+        menu.classList.remove('active');
+        menu.setAttribute('aria-hidden', 'true');
+        menuButton.setAttribute('aria-expanded', 'false');
     }
-  }, false);
+    });
 
-  $(".nav a").click(function(){
-    if (menu.classList.contains('active')) {
-      // Hide
-      menu.classList.remove('active');
-      menu.setAttribute('aria-hidden', 'true');
-      menuButton.setAttribute('aria-expanded', 'false');
-    }
-  });
-
-  // underline under the active nav item
-  // $(".nav .nav-link").click(function() {
-  //   $(".nav .nav-link").each(function() {
-  //     $(this).removeClass("active-nav-item");
-  //   });
-  //   $(this).addClass("active-nav-item");
-  // });
+    // underline under the active nav item
+    // $(".nav .nav-link").click(function() {
+    //   $(".nav .nav-link").each(function() {
+    //     $(this).removeClass("active-nav-item");
+    //   });
+    //   $(this).addClass("active-nav-item");
+    // });
   
 })(document, window);
 
 /**
  * Update the navigation bar style after some scrolling
  */
-$(function(){
-  $(document).scroll(function() {
-    var navbar = $('.index .navbar');
-    if( $(this).scrollTop() > $(window).height()/2) {
-      $(navbar).removeClass('index');
-    }
-    else if ( $(this).scrollTop() < $(window).height()/2)  { 
-      $(navbar).addClass('index');
-    }
-  });
-  $(document).scroll();
+$.ready().then(function(){
+    document.addEventListener("scroll", function() {
+        var navbar = $('.index .navbar');
+        var doc = navbar.ownerDocument;
+        var win = doc.defaultView || doc.parentWindow;
+        var scrollTop = win.pageYOffset || doc.documentElement.scrollTop;
+        if( scrollTop > win.innerHeight/2) {
+            navbar.classList.remove('index');
+        }
+        else if ( scrollTop < win.innerHeight/2)  { 
+            navbar.classList.add('index');
+        }
+    });
+    document.dispatchEvent(new Event("scroll"));
 });
 
-$(function() {
-  $('a[href*=#]:not([href=#])').click(function () {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html,body').animate({
-          scrollTop: target.offset().top
-        }, 1000);
-        return false;
-      }
-    }
-  });
-});
+
+/**
+ * Smooth scrolling
+ * Replaced by CSS property 'scroll-behavior'
+ * TODO implement a polyfill?
+ */
+// $.ready().then(function(){
+//   $$("a[href*='#']:not([href='#'])")._.addEventListener("click",function () {
+//     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+//       var target = $(this.hash);
+//       target = target ? target : $('[name=' + this.hash.slice(1) +']');
+//       if (target) {
+//         $$('html,body')._.transition({
+//           scrollTop: target.offsetTop;
+//         }, 1000);
+//         return false;
+//       }
+//     }
+//   });
+// });
 
 // Vertical timeline
 // see http://codyhouse.co/gem/vertical-timeline/
-jQuery(document).ready(function($){
-  var $timeline_block = $('.cd-timeline-block');
+$.ready().then(function(){
+    var timeline_block = $$('.cd-timeline-block');
+    var win = document.defaultView || document.parentWindow;
 
-  //hide timeline blocks which are outside the viewport
-  $timeline_block.each(function(){
-    if($(this).offset().top > $(window).scrollTop()+$(window).height()*0.75) {
-      $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
-    }
-  });
-
-  //on scolling, show/animate timeline blocks when enter the viewport
-  $(window).on('scroll', function(){
-    $timeline_block.each(function(){
-      if( $(this).offset().top <= $(window).scrollTop()+$(window).height()*0.75 && $(this).find('.cd-timeline-img').hasClass('is-hidden') ) {
-        $(this).find('.cd-timeline-img, .cd-timeline-content').removeClass('is-hidden').addClass('bounce-in');
-      }
-    });
-  });
-});
-
-// Newsletter subscribe/unsubscribe forms
-$(document).ready(function(){
-
-  var parseAPPID = "xrhItm2KbDWjd9CZTQTiWDsL1DZZw2CGv9ZcOzEZ";
-  var parseJSID = "kcFJQ5VJEYbZ6Cw6zwJmJnJE1Zv9Fk9VOSL8f9JZ";
-  Parse.initialize(parseAPPID, parseJSID);
-
-  var showformalert = function(id,type) {
-    var alert = document.getElementById(id);
-    alert.innerHTML = alert.getAttribute("data-"+type);
-    alert.classList.remove("newsletterform_alert-error");
-    alert.classList.remove("newsletterform_alert-success");
-    alert.classList.add("newsletterform_alert-"+type)
-    alert.setAttribute('aria-hidden', 'false');
-  }
-  var hideformalert = function(id) {
-    var alert = document.getElementById(id);
-    alert.innerHTML = '&nbsp;';
-    alert.classList.remove("newsletterform_alert-error");
-    alert.classList.remove("newsletterform_alert-success");
-    alert.setAttribute('aria-hidden', 'true');
-  }
-
-  //
-  // Subscribe Form
-  //
-  $('#news-sub-email').focus(function(e){
-    hideformalert("news-sub-response");
-  }); 
-  $('#news-sub').submit(function(e){
-    e.preventDefault();
- 
-    // Grab the elements from the form to make up
-    // an object containing name, email and message
-    var data = { 
-      email: document.getElementById('news-sub-email').value,
-      list: document.getElementById('news-sub').getAttribute("data-list")
-    }
-     showformalert("news-sub-response","success");
-    // Run our Parse Cloud Code and 
-    // pass our 'data' object to it
-    Parse.Cloud.run("subscribe", data, {
-      success: function(object) {
-        showformalert("news-sub-response","success");
-      },
- 
-      error: function(object, error) {
-        console.log(error);
-        showformalert("news-sub-response","error");
-      }
-    });
-  });
-
-  //
-  // Unsubscribe Form
-  //
-
-  $('#news-unsub-email').focus(function(e){
-    hideformalert("news-unsub-response");
-  });
-  $('#news-unsub').submit(function(e){
-    e.preventDefault();
-
-    // Grab the elements from the form to make up
-    // an object containing name, email and message
-    var data = { 
-      email: document.getElementById('news-unsub-email').value,
-      list: document.getElementById('news-unsub').getAttribute("data-list")
-    }
-    // Run our Parse Cloud Code and 
-    // pass our 'data' object to it
-    Parse.Cloud.run("unsubscribe", data, {
-      success: function(object) {
-        showformalert("news-unsub-response","success");
-      },
- 
-      error: function(object, error) {
-        console.log(error);
-        showformalert("news-unsub-response","error");
-      }
+    //hide timeline blocks which are outside the viewport
+    timeline_block.forEach(function(block){
+        if(block.getBoundingClientRect().top > win.innerHeight*0.75) {
+            $$('.cd-timeline-img, .cd-timeline-content',block).forEach(function(el){
+                el.classList.add('is-hidden');
+            });
+        }
     });
 
-  });
- 
+    //on scolling, show/animate timeline blocks when enter the viewport
+    win.addEventListener('scroll', function(){
+        timeline_block.forEach(function(block){
+            if(block.getBoundingClientRect().top <= win.innerHeight*0.75 ) {
+                $$('.cd-timeline-img, .cd-timeline-content',block).forEach(function(el){
+                    el.classList.remove('is-hidden');
+                    el.classList.add('bounce-in');
+                });
+
+            }
+        });
+    });
 });
