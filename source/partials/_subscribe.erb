@@ -9,6 +9,7 @@
       <input type="hidden" name="from_url" value="yes">
       <input type="hidden" name="js_id" value="2l89w">
       <input type="hidden" name="listid" value="11">
+      <input type="hidden" name="NEWS-<%= (I18n.locale == I18n.default_locale) ? 'FR' : 'EN' %>" value="1">
       <input type="email" name="email" id="news-sub-email" placeholder="email@example.com" required aria-required="true" data-msg-empty="<%= I18n.t("newsletterform.msg.empty") %>" data-msg-invalid="<%= I18n.t("newsletterform.msg.invalid") %>"
       ><input type="submit" value="<%= I18n.t("newsletterform.sub.submit") %>"/>
     <div id="loading-gif">
