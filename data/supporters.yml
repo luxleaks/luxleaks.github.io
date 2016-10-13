@@ -138,6 +138,9 @@ organisations:
   - fr: Mouvement Rural de Jeunesse Chrétienne
     en: MRJC
     link: http://www.mrjc.org/
+  - fr: Mouvement Utopia
+    en: Movement Utopia
+    link: http://mouvementutopia.org/
   - fr: Netzwerk Steuergerechtigkeit
     en: Netzwerk Steuergerechtigkeit
     link: https://www.netzwerk-steuergerechtigkeit.de/
@@ -284,6 +287,10 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
+  - name: Bertrand Badie
+    fr: Professeur des Universités, Sciences Po Paris
+    en: University Professor
+    cat: contact
   - name: Raymond Baker
     fr: Global Financial Integrity
     en: Global Financial Integrity
@@ -295,6 +302,10 @@ personalities:
   - name: Gilles Balbastre
     fr: Journaliste, réalisateur
     en: Journalist
+    cat: contact
+  - name: Étienne Balibar
+    fr: Philosophe
+    en: Philosopher
     cat: contact
   - name: Jacqueline Balsan
     fr: Présidente du MNCP
@@ -355,6 +366,10 @@ personalities:
   - name: Éric Bocquet
     fr: Sénateur (CRC)
     en: French Senator
+    cat: contact
+  - name: Pascal Boniface
+    fr: Géopoliticien
+    en: Political scientist
     cat: contact
   - name: Michèle Bonneton
     fr: Députée (EELV)
@@ -443,6 +458,10 @@ personalities:
   - name: Robert Charvin
     fr: Doyen honoraire de la Faculté de droit de Nice
     en: Professor of International Law
+    cat: contact
+  - name: Francis Chateauraynaud
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: Emmanuel Chaumery
     fr: Initiative pour une démocratie alternative
@@ -535,10 +554,6 @@ personalities:
   - name: Jean-Marc De Boni
     fr: Président du directoire de la Nef
     en: President of financial cooperative La Nef
-    cat: contact
-  - name: Vincent de Gaulejac
-    fr: Sociologue
-    en: Sociologist
     cat: contact
   - name: Caroline De Haas
     fr: Militante féministe
@@ -636,6 +651,10 @@ personalities:
     fr: Rédacteur en chef d'Alternatives économiques
     en: Editor-in-chief of “Alternatives économiques”
     cat: contact
+  - name: Nicolas Duvoux
+    fr: Sociologue
+    en: Sociologist
+    cat: contact
   - name: Bas Eickhout
     fr: Député européen néerlandais (Verts)
     en: Dutch MEP (Green)
@@ -667,6 +686,10 @@ personalities:
   - name: Hicham Fassi-Fihri
     fr: Producteur de films
     en: Film producer
+    cat: contact
+  - name: Didier Fassin
+    fr: Professeur de sciences sociales, Princeton
+    en: Professor of Social Science, Princeton
     cat: contact
   - name: Carine Favier
     fr: Mouvement du planning familial
@@ -735,6 +758,10 @@ personalities:
   - name: Alain Garrigou
     fr: Politiste
     en: Political scientist
+    cat: contact
+  - name: Vincent de Gaulejac
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: Chantale Gauthier
     fr: Vice Présidente du MNCP
@@ -1012,6 +1039,10 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Eloi Laurent
+    fr: Économiste
+    en: Economist
+    cat: contact
   - name: Archie Law
     fr: ActionAid Australie
     en: ActionAid Australia
@@ -1271,6 +1302,10 @@ personalities:
   - name: Riccardo Petrella
     fr: Professeur émérite de l'Université Catholique de Louvain
     en: Emeritus Professor, Catholic University of Louvain
+    cat: contact
+  - name: Camille Peugny
+    fr: Sociologue
+    en: Sociologist
     cat: contact
   - name: Jean-Christophe Picard
     fr: Président d'Anticor
