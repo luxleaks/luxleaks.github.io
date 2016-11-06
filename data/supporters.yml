@@ -359,10 +359,6 @@ personalities:
     fr: Tax Justice Network
     en: Tax Justice Network USA
     cat: guardian
-  - name: Juan Branco
-    fr: Juriste
-    en: Jurist
-    cat: contact
   - name: Éric Bocquet
     fr: Sénateur (CRC)
     en: French Senator
@@ -391,6 +387,10 @@ personalities:
     fr: Député européen (Verts)
     en: French MEP (Green)
     cat: guardian
+  - name: Juan Branco
+    fr: Juriste
+    en: Jurist
+    cat: contact
   - name: Franziska Brantner
     fr: Députée Allemande
     en: German MP (Green)
@@ -439,13 +439,13 @@ personalities:
     fr: ex-Députée (PS)
     en: Former French MP
     cat: contact
-  - name: Jean-Marie Cavada
-    fr: Député européen (ADLE)
-    en: French MEP (ALDE)
-    cat: contact
   - name: Jean-Claude Carrière
     fr: Écrivain et scénariste
     en: Novelist, screenwriter
+    cat: contact
+  - name: Jean-Marie Cavada
+    fr: Député européen (ADLE)
+    en: French MEP (ALDE)
     cat: contact
   - name: Claude Cécile
     fr: Secrétaire Général du SNJ
@@ -1459,13 +1459,13 @@ personalities:
     fr: Journaliste
     en: Journalist
     cat: contact
-  - name: Christian Salmon
-    fr: Écrivain, chercheur
-    en: Writer, researcher
-    cat: contact
   - name: Sako
     fr: Artiste
     en: Artist
+    cat: contact
+  - name: Christian Salmon
+    fr: Écrivain, chercheur
+    en: Writer, researcher
     cat: contact
   - name: Shlomo Sand
     fr: Historien
