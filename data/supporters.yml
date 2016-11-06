@@ -151,6 +151,9 @@ organisations:
     en: OCTFI
     link: http://octfi.org/?p=1326
     cat: ppfj
+  - fr: Osons Causer
+    en: Osons Causer
+    link: http://osonscauser.com/
   - fr: Oxfam France
     en: Oxfam France
     link: https://www.oxfamfrance.org/communique-presse/justice-fiscale/luxleaks-ong-monde-entier-se-mobilisent-journaliste-et-lanceur-alerte
@@ -291,6 +294,10 @@ personalities:
     fr: Professeur des Universités, Sciences Po Paris
     en: University Professor
     cat: contact
+  - name: Normand Baillargeon
+    fr: Essayiste
+    en: Essayist
+    cat: contact
   - name: Raymond Baker
     fr: Global Financial Integrity
     en: Global Financial Integrity
@@ -378,6 +385,10 @@ personalities:
   - name: Dominique Bourg
     fr: Philosophe, Université de Lausanne
     en: Philosopher, University of Lausanne
+    cat: contact
+  - name: Céline Boussié
+    fr: Lanceuse d'alerte
+    en: Whistleblower
     cat: contact
   - name: Jacques Bouveresse
     fr: Professeur honoraire au Collège de France
@@ -491,7 +502,7 @@ personalities:
     fr: Tax Justice Network
     en: Tax Justice Network UK
     cat: guardian
-  - name: Allison Christians 
+  - name: Allison Christians
     fr: Université de McGill
     en: McGill University
     cat: guardian
@@ -551,6 +562,10 @@ personalities:
     fr: Sénatrice (CRC)
     en: French Senator
     cat: contact
+  - name: Marie-Laure Darrigade Bellocq
+    fr: Secrétaire Générale du Parti de Gauche
+    en: Secretary-General of French Left Party
+    cat: contact
   - name: Jean-Marc De Boni
     fr: Président du directoire de la Nef
     en: President of financial cooperative La Nef
@@ -587,7 +602,7 @@ personalities:
     fr: Réalisateur
     en: Film director
     cat: contact
-  - name: Karima Delli 
+  - name: Karima Delli
     fr: Députée européenne (Verts)
     en: French MEP (Green)
     cat: guardian
@@ -723,7 +738,11 @@ personalities:
     fr: Doctorant Droit public
     en: PhD student in Public law 
     cat: contact
-  - name: Irène Frachon 
+  - name: Nicolas Forissier
+    fr: Lanceur d'alerte
+    en: Whistleblower
+    cat: contact
+  - name: Irène Frachon
     fr: Lanceuse d'alerte (Mediator)
     en: Whistleblower (Mediator)
     cat: contact
@@ -959,7 +978,7 @@ personalities:
     fr: Essayiste
     en: Essayist
     cat: contact
-  - name: Korben 
+  - name: Korben
     fr: Blogueur
     en: French blog writer
     cat: contact
@@ -1139,6 +1158,10 @@ personalities:
     fr: Historien
     en: Historian
     cat: contact
+  - name: Céline Martinelli
+    fr: Lanceuse d'alerte
+    en: Whistleblower
+    cat: contact
   - name: Carlos Martin Tornero
     fr: The Accountant, Rédacteur en chef
     en: The Accountant, Editor
@@ -1163,7 +1186,7 @@ personalities:
     fr: Christian Aid Ireland
     en: Christian Aid Ireland
     cat: guardian
-  - name: Len McCluskey 
+  - name: Len McCluskey
     fr: Unite the union
     en: Unite the union
     cat: guardian
