@@ -61,6 +61,9 @@
     &:nth-child(3):before {
       content: "***";
     }
+    &:nth-child(4):before {
+      content: "****";
+    }
   }
 
 }

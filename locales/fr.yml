@@ -83,6 +83,9 @@ fr:
     personalities: personnalités
     personalities_desc: "Ils ont exprimé leur soutien :"
     cat_contact: Soutiens spontanés ou contactés par le Comité de Soutien
+    cat_108meps: Députés européens signataires d'une %{link}.
+    cat_108meps_link: lettre ouverte de soutien
+    cat_108meps_url: https://support-antoine.org/blog/2016/09/12/openletter/
     cat_libe: Signataires d'une %{link} le 10 mars 2015.
     cat_libe_link: tribune publiée dans Libération
     cat_guardian: Signataires d'une %{link} le 23 décembre 2014.

@@ -85,6 +85,9 @@ en:
     personalities: personalities
     personalities_desc: "They expressed their support:"
     cat_contact: Spontaneously or contacted by the Support Committee
+    cat_108meps: MEPs signatories of an %{link} to LuxLeaks whistleblowers.
+    cat_108meps_link: open letter
+    cat_108meps_url: https://support-antoine.org/en/blog/2016/09/12/openletter/
     cat_libe: "In an %{link} on March 10, 2015."
     cat_libe_link: "op-ed published in Libération"
     cat_guardian: "In an %{link} on December 23, 2014."

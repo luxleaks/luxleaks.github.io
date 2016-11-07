@@ -230,6 +230,14 @@ personalities:
     fr: Sénateur (CRC)
     en: French Senator
     cat: contact
+  - name: Isabella Adinolfi
+    fr: Députée européenne (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
+  - name: Daniela Aiuto
+    fr: Députée européenne (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Brigitte Alain
     fr: Députée (EELV)
     en: French MP
@@ -238,6 +246,14 @@ personalities:
     fr: Député (EELV)
     en: French MP
     cat: contact
+  - name: Marina Albiol Guzman
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Jan Philipp Albrecht
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Paul Allies
     fr: Professeur de science politique
     en: Political scientist
@@ -250,10 +266,26 @@ personalities:
     fr: Enseignante-chercheure, ESSEC Business School Paris
     en: Teacher-Researcher, ESSEC Business School Paris
     cat: contact
+  - name: Martina Anderson
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Max Andersson
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Jean-Pierre Andrevon
     fr: Écrivain
     en: Writer
     cat: contact
+  - name: Eric Andrieu
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Maria Arena
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Paul Ariès
     fr: Politologue
     en: Political scientist
@@ -274,6 +306,10 @@ personalities:
     fr: Députée (Écologiste)
     en: French MP
     cat: contact
+  - name: Margrete Auken
+    fr: Députée européenne (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Guy Aurenche
     fr: Avocat, président du CCFD Terre Solidaire
     en: President of CCFD Terre Solidaire
@@ -326,6 +362,10 @@ personalities:
     fr: Photojournaliste et écrivain
     en: Photojournalist &amp; writer
     cat: contact
+  - name: Hugues Bayet
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Marie-France Beaufils
     fr: Sénatrice (CRC)
     en: French Senator
@@ -334,13 +374,29 @@ personalities:
     fr: Éditeur
     en: Publisher
     cat: contact
+  - name: Tiziana Beghin
+    fr: Députée européenne (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Miguel Benasayag
     fr: Philosophe, Psychanalyste
     en: Philosopher, Psychanalyst
     cat: contact
+  - name: Jávor Benedek
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
+  - name: Brando Benifei
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Xabier Benito Ziluaga
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Pervenche Berès
     fr: Députée européenne, Présidente de la Délégation socialiste française
-    en: French MEP (S&amp;D), Chair of the French socialist delegation
+    en: MEP (S&amp;D), Chair of the French socialist delegation
     cat: contact
   - name: Olivier Besancenot
     fr: Homme politique (NPA)
@@ -354,6 +410,10 @@ personalities:
     fr: Secrétaire Générale Adjointe de la CGT-UGICT
     en: Deputy Secretary-General of CGT-UGICT
     cat: contact
+  - name: Malin Björk
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Jacques Blaquart
     fr: Évêque du diocèse d'Orléans
     en: French bishop of Orléans
@@ -396,8 +456,12 @@ personalities:
     cat: contact
   - name: José Bové
     fr: Député européen (Verts)
-    en: French MEP (Green)
+    en: MEP (Greens)
     cat: guardian
+  - name: Lynn Boylan
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Juan Branco
     fr: Juriste
     en: Jurist
@@ -422,10 +486,18 @@ personalities:
     fr: Université de Griffith
     en: Griffith University
     cat: guardian
+  - name: Klaus Büchner
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: François Burgat
     fr: Politiste
     en: Political scientist
     cat: contact
+  - name: Reinhard Bütikofer
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Terri Butler
     fr: Député Australien
     en: Australian MP (Labour)
@@ -454,9 +526,17 @@ personalities:
     fr: Écrivain et scénariste
     en: Novelist, screenwriter
     cat: contact
+  - name: Matt Carthy
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Fabio Massimo Castaldo
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Jean-Marie Cavada
     fr: Député européen (ADLE)
-    en: French MEP (ALDE)
+    en: MEP (ALDE)
     cat: contact
   - name: Claude Cécile
     fr: Secrétaire Général du SNJ
@@ -498,6 +578,10 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Nessa Childers
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: John Christensen
     fr: Tax Justice Network
     en: Tax Justice Network UK
@@ -506,6 +590,10 @@ personalities:
     fr: Université de McGill
     en: McGill University
     cat: guardian
+  - name: Kostas Chrysogonos
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: André Cicolella
     fr: Toxicologue, Lanceur d'alerte
     en: Toxicologist, Whistleblower
@@ -526,9 +614,13 @@ personalities:
     fr: Politiste
     en: Political scientist
     cat: contact
+  - name: Sergio Cofferati
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Daniel Cohn-Bendit
     fr: ex-Député européen (EELV)
-    en: ex-MEP
+    en: ex-MEP (Greens)
     cat: libe
   - name: Maxime Combes
     fr: Économiste
@@ -546,6 +638,10 @@ personalities:
     fr: Député (EELV)
     en: French MP
     cat: contact
+  - name: Ignazio Corrao
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Valérie Corre
     fr: Députée (PS)
     en: French MP
@@ -558,13 +654,21 @@ personalities:
     fr: Journaliste, écrivain &amp; réalisateur
     en: Journalist, writer &amp; director
     cat: contact
-  - name: Annie David
-    fr: Sénatrice (CRC)
-    en: French Senator
-    cat: contact
+  - name: Jakop Dalunde
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
+  - name: Rosa D'Amato
+    fr: Députée européenne (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Marie-Laure Darrigade Bellocq
     fr: Secrétaire Générale du Parti de Gauche
     en: Secretary-General of French Left Party
+    cat: contact
+  - name: Annie David
+    fr: Sénatrice (CRC)
+    en: French Senator
     cat: contact
   - name: Jean-Marc De Boni
     fr: Président du directoire de la Nef
@@ -574,13 +678,17 @@ personalities:
     fr: Militante féministe
     en: Feminist
     cat: contact
+  - name: Dennis De Jong
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Erri De Luca
     fr: Écrivain
     en: Writer
     cat: contact
   - name: Fabio De Masi
     fr: Député européen (Die Linke)
-    en: German MEP (Die Linke)
+    en: MEP (GUE/NGL)
     cat: contact
   - name: Olivier De Schutter
     fr: Professeur de droit international à l’Université catholique de Louvain
@@ -604,7 +712,7 @@ personalities:
     cat: contact
   - name: Karima Delli
     fr: Députée européenne (Verts)
-    en: French MEP (Green)
+    en: MEP (Greens)
     cat: guardian
   - name: Michelle Demessine
     fr: Sénatrice (CRC)
@@ -627,8 +735,8 @@ personalities:
     en: Whistleblower
     cat: contact
   - name: Anneliese Dodds
-    fr: Députée européenne britannique (UK/Labour)
-    en: UK MEP (Labour)
+    fr: Députée européenne (UK/Labour)
+    en: MEP (Labour)
     cat: guardian
   - name: Lloyd Doggett
     fr: Membre du Congrès des USA
@@ -656,7 +764,7 @@ personalities:
     cat: contact
   - name: Pascal Durand
     fr: Député européen (Verts)
-    en: French MEP (Green)
+    en: MEP (Greens)
     cat: contact
   - name: Rev Prof Andrew Dutney
     fr: Uniting Church, Australie
@@ -670,9 +778,13 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Stefan Eck
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Bas Eickhout
-    fr: Député européen néerlandais (Verts)
-    en: Dutch MEP (Green)
+    fr: Député européen (Verts)
+    en: MEP (Greens)
     cat: guardian
   - name: Prof Peter Eigen
     fr: Transparency International
@@ -694,6 +806,10 @@ personalities:
     fr: Directrice de recherche honoraire, CNRS
     en: Honorary director of research, CNRS
     cat: libe
+  - name: Tanja Fajon
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Hervé Falciani
     fr: Lanceur d'alerte (SwissLeaks)
     en: Whistleblower (SwissLeaks)
@@ -726,6 +842,10 @@ personalities:
     fr: Observatoire International des prisons
     en: International Observatory on Prisons
     cat: contact
+  - name: Laura Ferrara
+    fr: Députée européenne (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Isabelle Ferreras
     fr: Professeure, Université de Louvain
     en: Professor, University of Louvain
@@ -734,6 +854,10 @@ personalities:
     fr: Militant politique
     en: French politician
     cat: contact
+  - name: Luke Ming Flanagan
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Jean-Philippe Foegle
     fr: Doctorant Droit public
     en: PhD student in Public law 
@@ -799,21 +923,33 @@ personalities:
     en: Whistleblower (UBS)
     cat: libe
   - name: Sven Giegold
-    fr: Député européen allemand (Verts)
-    en: German MEP (Green)
+    fr: Député européen (Verts)
+    en: MEP (Greens)
     cat: guardian
   - name: Andrew Giles
     fr: Député australien
     en: Australian MP (Labour)
     cat: guardian
+  - name: María Teresa Giménez Barbat
+    fr: Députée européenne (ALDE)
+    en: MEP (ALDE)
+    cat: 108meps
   - name: Corinne Gobin
     fr: Politologue
     en: Political scientist
     cat: contact
+  - name: Ana Maria Gomes
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Brigitte Gonthier-Maurin
     fr: Sénatrice (CRC)
     en: French Senator
     cat: contact
+  - name: Tania Gonzales
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Roland Gori
     fr: Psychanalyste
     en: Psychanalyst
@@ -834,6 +970,10 @@ personalities:
     fr: Secrétaire nationale de la FSU
     en: General secretary of FSU
     cat: contact
+  - name: Sylvie Guillaume
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Jean-Claude Guillebaud
     fr: Essayiste, écrivain
     en: Writer
@@ -858,6 +998,10 @@ personalities:
     fr: Député (PS)
     en: French MP
     cat: contact
+  - name: Heidi Hautala
+    fr: Députée européenne (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Gavin Hayman
     fr: Global Witness
     en: Global Witness
@@ -878,6 +1022,10 @@ personalities:
     fr: 
     en: 
     cat: contact
+  - name: Maria Heubuch
+    fr: Députée européenne (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: John Hilary
     fr: War on Want
     en: War on Want
@@ -916,7 +1064,7 @@ personalities:
     cat: contact
   - name: Yannick Jadot
     fr: Député européen (Verts)
-    en: French MEP (Green)
+    en: MEP (Greens)
     cat: guardian
   - name: Cathy James
     fr: Public Concern at Work
@@ -930,6 +1078,10 @@ personalities:
     fr: Historien
     en: Historian
     cat: contact
+  - name: Ramón Jáuregui Atondo
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Raoul-Marc Jennar
     fr: Essaysite, Publiciste
     en:  Essayist, Political scientist
@@ -940,8 +1092,12 @@ personalities:
     cat: guardian
   - name: Eva Joly
     fr: Députée européenne (EELV)
-    en: French MEP (Greens)
+    en: MEP (Greens)
     cat: libe
+  - name: Agnes Jongerius
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Paul Jorion
     fr: Anthropologue, économiste
     en: Anthropologist &amp; Economist
@@ -950,10 +1106,18 @@ personalities:
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Iosu Juaristi Abaunz
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Jean-François Julliard
     fr: Directeur Général de Greenpeace France
     en: Executive Director, Greenpeace France
     cat: contact
+  - name: Rina Ronja Kari
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Ged Kearney
     fr: Conseil australien des syndicats  
     en: Australian Council of Trade Unions (ACTU)
@@ -978,14 +1142,38 @@ personalities:
     fr: Essayiste
     en: Essayist
     cat: contact
+  - name: Jeppe Kofod
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Kateřina Konečná
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Korben
     fr: Blogueur
     en: French blog writer
     cat: contact
+  - name: Dietmar Köster
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Stelios Kouloglou
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Alain Krivine
     fr: ex-porte parole de la LCR
     en: French politician
     cat: contact
+  - name: Kostadinka Kuneva
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Merja Kyllönen
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Laurence Labeille
     fr: Députée (EELV)
     en: French MP
@@ -1023,8 +1211,8 @@ personalities:
     en: French MP
     cat: contact
   - name: Philippe Lamberts
-    fr: Député européen belge (Verts) 
-    en: Belgian MEP (Green)
+    fr: Député européen (Verts) 
+    en: MEP (Greens)
     cat: guardian
   - name: Bruno Lamour
     fr: président Collectif Roosevelt France
@@ -1070,6 +1258,10 @@ personalities:
     fr: Business &amp; Human Rights Resource Centre
     en: Business &amp; Human Rights Resource Centre
     cat: guardian
+  - name: Patrick Le Hyaric
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Michel Le Scouarnec
     fr: Sénateur (CRC)
     en: French Senator
@@ -1112,8 +1304,20 @@ personalities:
     cat: contact
   - name: Alain Lipietz
     fr: ancien Député européen
-    en: former MEP (Green)
+    en: former MEP (Greens)
     cat: contact
+  - name: Juan Fernando López Aguilar
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Paloma Lopez Bermejo
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Sabine Lösing
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Édouard Louis
     fr: Écrivain
     en: Writer
@@ -1122,6 +1326,10 @@ personalities:
     fr: Membre du parlement britannique
     en: UK MP (Green)
     cat: guardian
+  - name: Olle Ludvigsson
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Benoît Majerus
     fr: Université du Luxembourg
     en: University of Luxembourg
@@ -1134,6 +1342,10 @@ personalities:
     fr: Romancier
     en: Novelist
     cat: contact
+  - name: Curzio Maltese
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Patrice Maniglier
     fr: Philosophe
     en: Philosopher
@@ -1142,6 +1354,14 @@ personalities:
     fr: Romancière
     en: Novelist
     cat: contact
+  - name: Louis-Joseph Manscour
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Ernest Maragall
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Adrienne Margolis
     fr: Lawyers for Better Business
     en: Lawyers for Better Business
@@ -1158,13 +1378,17 @@ personalities:
     fr: Historien
     en: Historian
     cat: contact
-  - name: Céline Martinelli
-    fr: Lanceuse d'alerte
-    en: Whistleblower
-    cat: contact
+  - name: Édouard Martin
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Carlos Martin Tornero
     fr: The Accountant, Rédacteur en chef
     en: The Accountant, Editor
+    cat: contact
+  - name: Céline Martinelli
+    fr: Lanceuse d'alerte
+    en: Whistleblower
     cat: contact
   - name: Valérie Massadian
     fr: Réalisatrice
@@ -1174,9 +1398,17 @@ personalities:
     fr: Economiste, membre du conseil scientifique d'ATTAC
     en: Economist, member of ATTAC scientific council
     cat: contact
+  - name: Jiří Mastalka
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Marisa Matias
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Emmanuel Maurel
     fr: Député européen (PS)
-    en: French MEP (S&amp;D)
+    en: MEP (S&amp;D)
     cat: contact
   - name: Nonna Mayer
     fr: Professeure de science politique
@@ -1230,6 +1462,10 @@ personalities:
     fr: Éditeur
     en: Publisher
     cat: contact
+  - name: Martina Michels
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Jean-François Mignard
     fr: Secrétaire général de la Ligue des droits de l’Homme.
     en: French Human Rights League
@@ -1274,10 +1510,18 @@ personalities:
     fr: Tax Research UK
     en: Tax Research UK
     cat: guardian
+  - name: Javier Nart
+    fr: Député européen (ALDE)
+    en: MEP (ALDE)
+    cat: 108meps
   - name: Erik Neveu
     fr: Professeur de Science Politique
     en: Political scientist
     cat: contact
+  - name: Liadh Ní Riada
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Julien Noé
     fr: Fondateur d'Enercoop
     en: Enercoop
@@ -1290,6 +1534,14 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
+  - name: Dimitrios Papadimoulis
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
+  - name: Gilles Pargneaux
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Melissa Parke
     fr: Députée australienne
     en: Australian MP (Labour)
@@ -1302,10 +1554,18 @@ personalities:
     fr: Essayiste
     en: Essayist
     cat: contact
+  - name: Piernicola Pedicini
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Antoine Peillon
     fr: Journaliste
     en: Journalist
     cat: contact
+  - name: Vincent Peillon
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Corine Pelluchon
     fr: Philosophe
     en: Philosopher
@@ -1358,6 +1618,10 @@ personalities:
     fr: Maire de Grenoble
     en: Mayor of Grenoble
     cat: contact
+  - name: Georgi Pirinski
+    fr: Député européen (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Dominique Plihon
     fr: Économiste
     en: Economist
@@ -1406,6 +1670,10 @@ personalities:
     fr: Artiste
     en: Artist
     cat: contact
+  - name: Carolina Punset
+    fr: Députée européenne (ALDE)
+    en: MEP (ALDE)
+    cat: 108meps
   - name: Marc Purcell
     fr: Conseil australien pour le développement international
     en: Australian Council for International Development
@@ -1430,10 +1698,26 @@ personalities:
     fr: Économiste
     en: Economist
     cat: contact
+  - name: Julia Reda
+    fr: Députée européenne (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
+  - name: Evelyn Regner
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Michel Reimon
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Cécile Renouard
     fr: Professeure à l’ESSEC
     en: Teacher at ESSEC
     cat: contact
+  - name: Christine Revault d'Allonnes-Bonnefoy
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Jean-Charles Rielle
     fr: Lanceur d'alerte
     en: Whistleblower
@@ -1444,7 +1728,7 @@ personalities:
     cat: contact
   - name: Michèle Rivasi
     fr: Députée européenne (Verts)
-    en: French MEP (Green)
+    en: MEP (Greens)
     cat: guardian
   - name: Denis Robert
     fr: Journaliste et écrivain
@@ -1458,6 +1742,10 @@ personalities:
     fr: Députée (PS)
     en: French MP
     cat: contact
+  - name: Bronis Ropé
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Jean-Louis Roumégas
     fr: Député (EELV)
     en: French MP
@@ -1476,12 +1764,16 @@ personalities:
     cat: contact
   - name: Virginie Rozière
     fr: Député européenne (S&amp;D)
-    en: French MEP (S&amp;D)
+    en: MEP (S&amp;D)
     cat: contact
   - name: François Ruffin
     fr: Journaliste
     en: Journalist
     cat: contact
+  - name: Pirkko Ruohonen-Lerner
+    fr: Députée européenne (ECR)
+    en: MEP (ECR)
+    cat: 108meps
   - name: Sako
     fr: Artiste
     en: Artist
@@ -1490,6 +1782,10 @@ personalities:
     fr: Écrivain, chercheur
     en: Writer, researcher
     cat: contact
+  - name: Lola Sánchez Caldentey
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Shlomo Sand
     fr: Historien
     en: Historian
@@ -1502,18 +1798,38 @@ personalities:
     fr: Ancien Ministre
     en: ex-French minister
     cat: contact
+  - name: Christel Schaldemose
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
+  - name: Elly Schlein
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Dominique Schnapper
     fr: Sociologue, Politologue
     en: Sociologist, political scientist
     cat: contact
+  - name: Helmut Scholz
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Laurence Scialom
     fr: Professeure des Universités
     en: University Professor
     cat: contact
   - name: Molly Scott Cato
-    fr: Députée européenne britannique (Verts)
-    en: UK MEP (Green)
+    fr: Députée européenne (Verts)
+    en: MEP (Greens)
     cat: guardian
+  - name: Jordi Sebastià
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
+  - name: Lídia Senra Rodríguez
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Mark Serwotka
     fr: Syndicat PCS
     en: PCS union
@@ -1546,10 +1862,18 @@ personalities:
     fr: Comédien
     en: Actor
     cat: contact
+  - name: Barbara Spinelli
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Alexis Spire
     fr: Sociologue
     en: Sociologist
     cat: contact
+  - name: Bart Staes
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Isabelle Stengers
     fr: Philosophe
     en: Philosopher
@@ -1573,6 +1897,10 @@ personalities:
     fr: University College Dublin
     en: University College Dublin
     cat: guardian
+  - name: Neoklis Sylikiotis
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Clarisse Taron
     fr: Présidente du Syndicat de la Magistrature
     en: President of the French Magistrate Union
@@ -1585,6 +1913,10 @@ personalities:
     fr: Romancière
     en: Writer
     cat: contact
+  - name: Josep-Maria Terricabras
+    fr: Député européen (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Jacques Testart
     fr: Directeur de recherche honoraire à l'INSERM – Président d'honneur de la fondation Sciences Citoyenne
     en: Biologist
@@ -1597,6 +1929,10 @@ personalities:
     fr: Enseignante-Chercheuse en économie, Université catholique de Louvain
     en: Economist, Catholic University of Louvain
     cat: contact
+  - name: Isabelle Thomas
+    fr: Députée européenne (S&amp;D)
+    en: MEP (S&amp;D)
+    cat: 108meps
   - name: Sophie Tissier
     fr: Lanceuse d'alerte
     en: Whistleblower
@@ -1605,6 +1941,10 @@ personalities:
     fr: Économiste, Univeristé de Paris 13
     en: Economist, University Paris 13
     cat: contact
+  - name: Nils Torvalds
+    fr: Député européen (ALDE)
+    en: MEP (ALDE)
+    cat: 108meps
   - name: Éric Toussaint
     fr: Porte parole du CADTM
     en: Committee for the Abolition of the Third World Debt
@@ -1625,14 +1965,30 @@ personalities:
     fr: ancien Député du Luxembourg
     en: ex-MP of Luxembourg
     cat: contact
+  - name: Miguel Urban Crespo
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Ernest Urtasun
-    fr: Député européen espagnol (Verts)
-    en: Spanish MEP (Green)
+    fr: Député européen (Verts)
+    en: MEP (Greens)
     cat: guardian
+  - name: Marco Valli
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
+  - name: Angela Vallina
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Tom van der Lee
     fr: Oxfam Novib
     en: Oxfam Novib
     cat: guardian
+  - name: Monika Vana
+    fr: Députée européenne (Greens/EFA)
+    en: MEP (Greens/EFA)
+    cat: 108meps
   - name: Antoine Vauchez
     fr: Sociologue
     en: Sociologist
@@ -1641,10 +1997,18 @@ personalities:
     fr: Biologiste
     en: Biologist
     cat: contact    
+  - name: Marie-Christine Vergiat
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Audrey Vernon
     fr: Comédienne
     en: Actor
     cat: contact    
+  - name: Miguel Viegas
+    fr: Député européen (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Denis Vienot
     fr: Justice et Paix
     en: Justice et Paix
@@ -1701,10 +2065,22 @@ personalities:
     fr: Philosophe
     en: Philosopher
     cat: contact
+  - name: Marco Zanni
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
+  - name: Tomáš Zdechovský
+    fr: Député européen (EPP)
+    en: MEP (EPP)
+    cat: 108meps
   - name: Jean Ziegler
     fr:  Membre du comité consultatif du Conseil des droits de l'homme, ONU
     en: Member of the Advisory Committee of the UN Human Rights Council
     cat: contact
+  - name: Gabriele Zimmer
+    fr: Députée européenne (GUE/NGL)
+    en: MEP (GUE/NGL)
+    cat: 108meps
   - name: Dr Mark Zirnsak
     fr: Uniting Church, Australie
     en: Tax Justice Network Australia
@@ -1713,6 +2089,10 @@ personalities:
     fr: Économiste, UC Berkeley
     en: Assistant Professor of Economics, UC Berkeley
     cat: contact
+  - name: Marco Zullo
+    fr: Député européen (EFDD)
+    en: MEP (EFDD)
+    cat: 108meps
   - name: Marc Zune
     fr: Sociologue
     en: Sociologist

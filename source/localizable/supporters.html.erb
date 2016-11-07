@@ -33,6 +33,7 @@ layout: page
       <% if member.cat == 'libe' %>*<% end %>
       <% if member.cat == 'guardian' %>**<% end %>
       <% if member.cat == 'contact' %>***<% end %>
+      <% if member.cat == '108meps' %>****<% end %>
       </sup>
       <% if member.link != nil %></a><% end %>
       <span><%= (I18n.locale == I18n.default_locale) ? member.fr : member.en %></span>
@@ -42,8 +43,9 @@ layout: page
 
   <ul class="supporters__footnotes" role="list">
   <li><%= t("supporters.cat_libe", :link => "<a href=\"http://www.liberation.fr/futurs/2015/03/09/soutien-a-antoine-deltour-lanceur-d-alerte-luxleaks_1217470\">"+t("supporters.cat_libe_link")+"</a>") %></li>
-    <li><%= t("supporters.cat_guardian", :link => "<a href=\"http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged\">"+t("supporters.cat_guardian_link")+"</a>") %></li>
-    <li><%= t("supporters.cat_contact") %></li>
+  <li><%= t("supporters.cat_guardian", :link => "<a href=\"http://www.theguardian.com/world/2014/dec/23/luxleaks-tax-source-should-not-be-charged\">"+t("supporters.cat_guardian_link")+"</a>") %></li>
+  <li><%= t("supporters.cat_contact") %></li>
+  <li><%= t("supporters.cat_108meps", :link => "<a href=\""+t("supporters.cat_108meps_url")+"\">"+t("supporters.cat_108meps_link")+"</a>") %></li>
   </ul>
 
 </section>
