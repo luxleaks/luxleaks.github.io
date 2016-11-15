@@ -5,9 +5,9 @@ layout: page-base
   <h1><%= I18n.t("donate.title") %></h1>
   <p><%= I18n.t("donate.description") %></p>
 
-  <% link_to "https://www.helloasso.com/widgets/izi_don.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&lang=en",:class=>"action", :target=>"_blank" do %>
-    <span><%= t('support.donate') %></span><i class="fa fa-credit-card"></i>
-  <% end %>
+  <iframe id="haWidget" src="//www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/formulaires/1/Widget/en" onload="scroll(0,0);" class="helloasso helloasso__donate"></iframe> 
+
+  <p><%= t("donate.alternative", :link => link_to(t("donate.helloasso"), "//www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour")) %></p>
 
   <p><%= t("donate.check") %></p>
   <p style="font-size: 1em; margin-left: 1em;">
