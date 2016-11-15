@@ -1178,6 +1178,10 @@ personalities:
     fr: Députée européenne (GUE/NGL)
     en: MEP (GUE/NGL)
     cat: 108meps
+  - name: La Parisienne Libérée
+    fr: Chanteuse
+    en: Singer
+    cat: contact
   - name: Laurence Labeille
     fr: Députée (EELV)
     en: French MP
