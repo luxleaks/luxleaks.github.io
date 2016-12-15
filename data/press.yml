@@ -1,3 +1,219 @@
+- date: 2016-12-12
+  cat: collection
+  fr: "Couverture médiatique de la 1ère journée d'appel"
+  en: "Press coverage of the 1st day of the appeal trial "
+  url: https://support-antoine.org/blog/2016/12/13/appeal-day1/#dans-la-presse
+  lang: fr
+- date: 2016-12-12
+  source: Le Parisien
+  cat: article
+  fr: "Un lanceur d'alerte devant les juges"
+  en: "A whistleblower before the judges"
+  url: http://www.leparisien.fr/informations/un-lanceur-d-alerte-devant-les-juges-12-12-2016-6443238.php 
+  lang: fr
+- date: 2016-12-12
+  source: Le Soir
+  cat: article
+  fr: "Les enjeux du second procès LuxLeaks"
+  en: "The stakes of the second LuxLeaks trial"
+  url: http://www.lesoir.be/1389904/article/selection-abonnes/2016-12-12/luxleaks-voici-enjeux-du-second-proces 
+  lang: fr
+- date: 2016-12-12
+  source: La Croix
+  cat: article
+  fr: "Malgré le LuxLeaks, l’évasion fiscale continue"
+  en: "Despite LuxLeaks, tax avoidance goes on"
+  url: www.la-croix.com/Economie/Monde/Malgre-LuxLeaks-levasion-fiscale-continue-2016-12-12-1200809795
+  lang: fr
+- date: 2016-12-09
+  source: L’Essentiel
+  cat: interview
+  fr: "Antoine Deltour : «Je ne garde pas d'hostilité vis-à-vis du Luxembourg»"
+  en: "Antoine Delour: “I don’t bear any grudge against Luxembourg”"
+  url: http://www.lessentiel.lu/fr/luxembourg/dossier/luxleaks/story/15231240
+  lang: fr
+- date: 2016-12-08
+  source: Woxx
+  cat: article
+  fr: "Luxleaks  : Deuxième round"
+  en: "Luxleaks : Round Two"
+  url: http://www.woxx.lu/luxleaks-deuxieme-round/ 
+  lang: fr
+- date: 2016-11-28
+  source: Le Quotidien
+  cat: article
+  fr: "Margrethe Vestager : « Les lanceurs d’alerte des LuxLeaks ont agi comme il fallait »"
+  en: "Margrethe Vestager: “LuxLeaks whistleblowers acted as they should”"
+  url: http://www.lequotidien.lu/a-la-une/margrethe-vestager-les-lanceurs-dalerte-des-luxleaks-ont-agi-comme-il-fallait/
+  lang: fr
+- date: 2016-11-15
+  source: Business Insider France
+  cat: article
+  fr: "Les lanceurs d'alerte risquent la prison en Europe — mais Bruxelles a intérêt à ce qu'ils continuent leurs révélations"
+  en: "Whistleblowers face jail in Europe – but it is in Brussels's interest that they continue their revelations"
+  url: http://www.businessinsider.fr/les-lanceurs-dalerte-risquent-la-prison-en-europe-mais-bruxelles-a-interet-a-ce-quils-continuent-leurs-revelations/
+  lang: fr
+- date: 2016-11-10
+  source: Süddeutsche Zeitung Magazine
+  cat: interview
+  fr: "« Nous avons besoin d’une meilleure protection des lanceurs d’alerte en Europe »"
+  en: "We need better protection for whistleblowers in Europe"
+  url: http://sz-magazin.sueddeutsche.de/texte/anzeigen/45224/Wir-braeuchten-in-Europa-besseren-Schutz-fuer-Whistleblower 
+  lang: de
+- date: 2016-10-17
+  source: L’Est Républicain
+  cat: article
+  fr: "LuxLeaks : Antoine Deltour, le lanceur d’alerte vosgien « ne regrette rien » "
+  en: "LuxLeaks: Antoine Deltour, the local whistleblower does “not regret anything”"
+  url: http://www.estrepublicain.fr/actualite/2016/10/17/luxleaks-antoine-deltour-le-lanceur-d-alerte-vosgien-ne-regrette-rien
+  lang: fr
+- date: 2016-10-05
+  source: France Inter
+  cat: radio-show
+  fr: "Luxleaks, quand un état vole dans les poches de ses voisins"
+  en: "Luxleaks, when a state picks its neighbors' pockets"
+  url: https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-05-octobre-2016
+  lang: fr
+- date: 2016-09-29
+  source: Le Quotidien
+  cat: article
+  fr: "Loi sur les lanceurs d’alerte en France : « La société doit protéger les Antoine Deltour »"
+  en: "Whistleblowers law in France: “society must protect people like Antoine Deltour”"
+  url: http://www.lequotidien.lu/international/loi-sur-les-lanceurs-dalerte-en-france-la-societe-doit-proteger-les-antoine-deltour/
+  lang: fr
+- date: 2016-09-27
+  source: EU Observer
+  cat: article
+  fr: "Les eurodéputés verts lancent EUleaks"
+  en: "Green MEPs launch EUleaks"
+  url: https://euobserver.com/institutional/135254
+  lang: en
+- date: 2016-09-27
+  source: Le Monde
+  cat: article
+  fr: "Les élus verts européens lancent « EULeaks », une plate-forme pour les lanceurs d’alerte"
+  en: "Green MEPs launch “EULeaks”, a platform for whistleblowers"
+  url: http://www.lemonde.fr/europe/article/2016/09/27/les-elus-verts-europeens-lancent-euleaks-une-plateforme-pour-les-lanceurs-d-alerte_5004168_3214.html
+  lang: fr
+- date: 2016-09-08
+  source: Le Quotidien
+  cat: article
+  fr: "Procès LuxLeaks : 108 eurodéputés affirment leur soutien aux lanceurs d’alerte"
+  en: "LuxLeaks trial: 108 MEPs offer support to the whistleblowers"
+  url: http://www.lequotidien.lu/a-la-une/proces-luxleaks-102-eurodeputes-affirment-leur-soutien-aux-lanceurs-dalerte/
+  lang: fr
+- date: 2016-09-08
+  source: The Guardian
+  cat: article
+  fr: "Des eurodéputés soutiennent les lanceurs d'alerte condamnés des LuxLeaks"
+  en: "MEPs offer support to convicted LuxLeaks whistleblowers"
+  url: https://www.theguardian.com/business/2016/sep/08/meps-support-convicted-luxleaks-whistleblowers-luxembourg? 
+  lang: en
+- date: 2016-08-02
+  source: Le Parisien
+  cat: article
+  fr: "Procès LuxLeaks: appel du parquet, les trois prévenus seront rejugés"
+  en: "LuxLeaks trial: prosecution appeals, the three defendants will be retried"
+  url: http://www.leparisien.fr/flash-actualite-monde/luxleaks-appel-du-parquet-les-trois-prevenus-seront-rejuges-02-08-2016-6010961.php
+  lang: fr
+- date: 2016-08-02
+  source: Le Monde
+  cat: article
+  fr: "LuxLeaks : nouveau procès en vue après l’appel du parquet"
+  en: "LuxLeaks: new trial to come after prosecution’s appeal"
+  url: http://www.lemonde.fr/europe/article/2016/08/02/luxleaks-nouveau-proces-en-vue-apres-l-appel-du-parquet_4977468_3214.html
+  lang: fr
+- date: 2016-08-02
+  source: France culture
+  cat: radio-show
+  fr: "Jusqu’où peut-on protéger les lanceurs d’alerte ?"
+  en: "To which extent whistleblowers can be protected?"
+  url: http://www.franceculture.fr/emissions/du-grain-moudre-dete/jusquou-peut-proteger-les-lanceurs-dalerte
+  lang: fr
+- date: 2016-08-02
+  source: Luxemburger Wort
+  cat: article
+  fr: "Le procureur du Luxembourg fait appel du jugement des LuxLeaks"
+  en: "Luxembourg Prosecutor appeals against LuxLeaks outcome"
+  url: http://www.wort.lu/en/business/luxleaks-is-not-over-luxembourg-prosecutor-appeals-against-luxleaks-outcome-57a05f43ac730ff4e7f646a0
+  lang: en
+- date: 2016-08-02
+  source: Politico
+  cat: article
+  fr: "Le procureur conteste les sentences des LuxLeaks"
+  en: "Prosecutors challenge Luxleaks sentences"
+  url: http://www.politico.eu/article/prosecutors-challenge-luxleaks-sentences-whistleblowers-antoine-deltour-and-raphael-halet-pricewaterhousecoopers/
+  lang: en
+- date: 2016-07-25
+  source: Euractiv
+  cat: op-ed
+  fr: "Les LuxLeaks soulignent le besoin de protection et de primes pour les lanceurs d'alerte"
+  en: "LuxLeaks highlights need for whistleblower protection and incentives"
+  url: http://www.euractiv.com/section/euro-finance/opinion/luxleaks-highlights-need-for-whistleblower-protection-and-incentives/
+  lang: en
+- date: 2016-07-11
+  source: France 24
+  cat: video
+  fr: "Quelle protection pour les lanceurs d'alertes ?"
+  en: "What can be done to protect whistleblowers?"
+  url: http://www.france24.com/fr/20160711-focus-france-luxembourg-luxleaks-swissleaks-lanceurs-alerte-justice
+  lang: fr
+- date: 2016-07-01
+  source: Le Monde
+  cat: article
+  fr: "LuxLeaks : prison avec sursis pour les lanceurs d’alerte français"
+  en: "LuxLeaks: suspended sentences for the whistleblowers"
+  url: http://www.lemonde.fr/europe/article/2016/06/29/luxleaks-au-luxembourg-verdict-attendu-pour-les-trois-lanceurs-d-alerte-francais_4960591_3214.html
+  lang: fr
+- date: 2016-07-01
+  source: France Inter
+  cat: radio-show
+  fr: "La mécanique médiatique : « Secret des affaires et lanceurs d'alerte »"
+  en: "The media machinery: “Trade secrets and whistleblowers”"
+  url: https://www.franceinter.fr/emissions/la-mecanique-mediatique/la-mecanique-mediatique-01-juillet-2016 
+  lang: fr
+- date: 2016-06-30
+  source: Médiapart
+  cat: article
+  fr: "Le jugement contradictoire du procès «LuxLeaks»"
+  en: "The contradictory judgement of the “LuxLeaks” trial"
+  url: https://www.mediapart.fr/journal/economie/300616/le-jugement-contradictoire-du-proces-luxleaks
+  lang: fr
+- date: 2016-06-30
+  source: The Economist
+  cat: article
+  fr: "Évasion fiscale: “Grand dodgy”"
+  en: "Tax avoidance: Grand dodgy"
+  url: http://www.economist.com/news/finance-and-economics/21701532-good-deeds-luxembourg-leakers-do-not-go-unpunished-grand-dodgy?fsrc=scn/fb/te/pe/ed/granddodgy 
+  lang: en
+- date: 2016-06-29
+  source: The Guardian
+  cat: article
+  fr: "Les lanceurs d'alerte des LuxLeaks évitent la prison mais sont jugés coupables"
+  en: "LuxLeaks whistleblower avoids jail after guilty verdict"
+  url: https://www.theguardian.com/world/2016/jun/29/luxleaks-pwc-antoine-deltour-avoids-jail-but-is-convicted-of-theft 
+  lang: en
+- date: 2016-06-29
+  source: Euractiv
+  cat: article
+  fr: "Les lanceurs d'alerte des LuxLeaks condamnés à de la prison avec sursis"
+  en: "Luxleaks whistleblowers found guilty, given suspended sentence"
+  url: http://www.euractiv.com/section/euro-finance/news/luxleaks-whistleblowers-found-guilty-given-suspended-sentence/
+  lang: en
+- date: 2016-06-29
+  source: El País
+  cat: article
+  fr: "Le Luxembourg condamne deux ex-employés de PwC pour « l'affaire LuxLeaks »"
+  en: "Luxembourg sentences two former PwC employees for the “LuxLeaks case”"
+  url: http://economia.elpais.com/economia/2016/06/29/actualidad/1467210765_948436.html
+  lang: es
+- date: 2016-06-29
+  source: La Repubblica
+  cat: interview
+  fr: "Luxleaks, Deltour condamné. « Je ne vais pas m'en arrêter là, au nom des lanceurs d'alerte »"
+  en: "LuxLeaks, Deltour found guilty. “I won't stop here, in name of whistleblowers”."
+  url: http://www.repubblica.it/esteri/2016/06/29/news/luxleaks_deltour_parla_il_whistleblower_lussemburgo-143091786/
+  lang: fr
 - date: 2016-06-27 
   source: Rue89 Strasbourg 
   cat: interview
