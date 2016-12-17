@@ -58,12 +58,14 @@ en:
     pr: "Press Release"
     article: "Article"
     cat:
-      collection: Collection
+      collection: Press review
       file: File
       editorial: Editorial
       interview: Interview
+      radio-oped: Radio Op-ed
       radio-show: Radio show
       op-ed: Op-ed
+      portrait: Portrait
       video: Video
       video-report: Video report
   support:

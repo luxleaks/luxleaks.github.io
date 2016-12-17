@@ -58,12 +58,14 @@ fr:
     article: "Article"
     cat:
       article: Article
-      collection: Collection
+      collection: Revue de presse
       file: Dossier
       editorial: Édito
       interview: Interview
-      radio-show: Chronique
+      radio-oped: Chronique
+      radio-show: Émission
       op-ed: Tribune
+      portrait: Portrait
       video: Vidéo
       video-report: Reportage vidéo
   support:

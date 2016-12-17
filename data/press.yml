@@ -6,7 +6,7 @@
   lang: fr
 - date: 2016-12-12
   source: Le Parisien
-  cat: article
+  cat: portrait
   fr: "Un lanceur d'alerte devant les juges"
   en: "A whistleblower before the judges"
   url: http://www.leparisien.fr/informations/un-lanceur-d-alerte-devant-les-juges-12-12-2016-6443238.php 
@@ -41,7 +41,7 @@
   lang: fr
 - date: 2016-11-28
   source: Le Quotidien
-  cat: article
+  cat: interview
   fr: "Margrethe Vestager : « Les lanceurs d’alerte des LuxLeaks ont agi comme il fallait »"
   en: "Margrethe Vestager: “LuxLeaks whistleblowers acted as they should”"
   url: http://www.lequotidien.lu/a-la-une/margrethe-vestager-les-lanceurs-dalerte-des-luxleaks-ont-agi-comme-il-fallait/
@@ -62,7 +62,7 @@
   lang: de
 - date: 2016-10-17
   source: L’Est Républicain
-  cat: article
+  cat: interview
   fr: "LuxLeaks : Antoine Deltour, le lanceur d’alerte vosgien « ne regrette rien » "
   en: "LuxLeaks: Antoine Deltour, the local whistleblower does “not regret anything”"
   url: http://www.estrepublicain.fr/actualite/2016/10/17/luxleaks-antoine-deltour-le-lanceur-d-alerte-vosgien-ne-regrette-rien
@@ -158,6 +158,13 @@
   en: "What can be done to protect whistleblowers?"
   url: http://www.france24.com/fr/20160711-focus-france-luxembourg-luxleaks-swissleaks-lanceurs-alerte-justice
   lang: fr
+- date: 2016-07-11
+  source: France 24
+  cat: video
+  fr: "Quelle protection pour les lanceurs d'alertes ?"
+  en: "What can be done to protect whistleblowers?"
+  url: http://www.france24.com/en/20160711-focus-luxleaks-france-whistleblowers-protection-justice-eu
+  lang: en
 - date: 2016-07-01
   source: Le Monde
   cat: article
@@ -167,7 +174,7 @@
   lang: fr
 - date: 2016-07-01
   source: France Inter
-  cat: radio-show
+  cat: radio-oped
   fr: "La mécanique médiatique : « Secret des affaires et lanceurs d'alerte »"
   en: "The media machinery: “Trade secrets and whistleblowers”"
   url: https://www.franceinter.fr/emissions/la-mecanique-mediatique/la-mecanique-mediatique-01-juillet-2016 
@@ -431,7 +438,7 @@
   lang: fr
 - date: 2016-04-16
   source: France Inter
-  cat: radio-show
+  cat: radio-oped
   fr: "Quelles protections pour les lanceurs d’alerte ?"
   en: "What protections for whistleblowers?"
   url: http://media.radiofrance-podcast.net/podcast09/11548-16.04.2016-ITEMA_20962901-5.mp3
@@ -678,7 +685,7 @@
   lang: en
 - date: 2014-12-15
   source: "France Inter"
-  cat: radio-show
+  cat: radio-oped
   fr: "« L'Éco du jour » sur LuxLeaks"
   url: http://www.franceinter.fr/player/reecouter?play=1021321
   from: 34"
