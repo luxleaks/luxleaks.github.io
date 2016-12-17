@@ -1,6 +1,6 @@
 ---
 title: "Journée festive de soutien"
-subtitle: "Le dimanche 16 octobre, des arstites vosgiens se mobilisent pour soutenir Antoine."
+subtitle: "Le dimanche 16 octobre, des artistes vosgiens se mobilisent pour soutenir Antoine."
 author: Comité de soutien à Antoine
 ---
 

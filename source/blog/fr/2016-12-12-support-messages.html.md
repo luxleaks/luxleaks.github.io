@@ -1,11 +1,11 @@
 ---
 title: "De nombreux messages de soutien"
-subtitle: "À l'occasion de l'ouverture du procès LuxLeaks en appel, plusieurs personalités nous ont envoyé des messages de soutien à Antoine"
+subtitle: "À l'occasion de l'ouverture du procès LuxLeaks en appel, plusieurs personnalités, ne pouvant venir à Luxembourg, nous ont envoyé des messages de soutien à Antoine"
 author: Comité de soutien à Antoine
 ---
 
 
-À l'occasion de l'ouverture du procès LuxLeaks en appel, plusieurs personnalités nous ont envoyé des messages de soutien à Antoine… merci à elles pour ce bel élan de solidarité !
+À l'occasion de l'ouverture du procès LuxLeaks en appel, plusieurs personnalités, ne pouvant venir à Luxembourg, nous ont envoyé des messages de soutien à Antoine… merci à elles pour ce bel élan de solidarité !
 
 <figure>
   <img src="/images/news/2016-12-12-erri-de-luca.jpg" alt="Le message d'Erri de Luca, illustré par une photo de rose des vignes"/>
