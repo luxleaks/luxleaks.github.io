@@ -44,7 +44,7 @@
 		border-left: solid 5px red;
 		padding-left: 0.4em;
 		margin: 1em 0 0.5em -0.55em;
-		font-size: 1.2em;
+		
 		@include media($medium-screen) {
 			padding-left: 0.5em;
 			margin: 1em 0 0.5em -0.65em;			
