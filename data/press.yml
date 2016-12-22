@@ -1,8 +1,27 @@
+- date: 2016-12-21
+  cat: collection
+  fr: "Couverture médiatique de la 3ème journée d'appel"
+  en: "Press coverage of the 3d day of the appeal trial "
+  url: https://support-antoine.org/blog/2016/12/22/appeal-day3/#dans-la-presse
+  lang: fr
+- date: 2016-12-19
+  cat: collection
+  fr: "Couverture médiatique de la 2ème journée d'appel"
+  en: "Press coverage of the 2nd day of the appeal trial "
+  url: https://support-antoine.org/blog/2016/12/20/appeal-day2/#dans-la-presse
+  lang: fr
 - date: 2016-12-12
   cat: collection
   fr: "Couverture médiatique de la 1ère journée d'appel"
   en: "Press coverage of the 1st day of the appeal trial "
   url: https://support-antoine.org/blog/2016/12/13/appeal-day1/#dans-la-presse
+  lang: fr
+- date: 2016-12-12
+  source: L’Humanité
+  cat: interview
+  fr: "Nicole Marie Meyer : « Sans LuxLeaks, pas de statut de lanceur d’alerte »"
+  en: "Nicole Marie Meyer: “If it wasn’t for LuxLeaks, there wouldn’t be a legal statute for whitlevblowers [in France]”"
+  url: http://www.humanite.fr/nicole-marie-meyer-sans-luxleaks-pas-de-statut-de-lanceur-dalerte-628263
   lang: fr
 - date: 2016-12-12
   source: Le Parisien
@@ -70,8 +89,8 @@
 - date: 2016-10-05
   source: France Inter
   cat: radio-show
-  fr: "Luxleaks, quand un état vole dans les poches de ses voisins"
-  en: "Luxleaks, when a state picks its neighbors' pockets"
+  fr: "Affaires Sensibles : Luxleaks, quand un état vole dans les poches de ses voisins"
+  en: "Affaires Sensibles: Luxleaks, when a state picks its neighbors' pockets"
   url: https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-05-octobre-2016
   lang: fr
 - date: 2016-09-29
@@ -126,8 +145,8 @@
 - date: 2016-08-02
   source: France culture
   cat: radio-show
-  fr: "Jusqu’où peut-on protéger les lanceurs d’alerte ?"
-  en: "To which extent whistleblowers can be protected?"
+  fr: "Du Grain à moudre: Jusqu’où peut-on protéger les lanceurs d’alerte ?"
+  en: "Du Grain à moudre: To which extent whistleblowers can be protected?"
   url: http://www.franceculture.fr/emissions/du-grain-moudre-dete/jusquou-peut-proteger-les-lanceurs-dalerte
   lang: fr
 - date: 2016-08-02
