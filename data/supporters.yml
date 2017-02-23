@@ -636,6 +636,10 @@ personalities:
     fr: Politiste
     en: Political scientist
     cat: contact
+  - name: Valérie Cordy
+    fr: Artiste des réseaux, metteure en scène et directrice de la Fabrique de Théâtre
+    en: Arist, stage director
+    cat: contact
   - name: Benjamin Coriat
     fr: Économiste
     en: Economist
@@ -1307,6 +1311,10 @@ personalities:
   - name: Philippe Légé
     fr: Économiste
     en: Economist
+    cat: contact
+  - name: Michèle Lesbre
+    fr: Écrivaine
+    en: Writer
     cat: contact
   - name: Laetitia Liebert
     fr: Sherpa
