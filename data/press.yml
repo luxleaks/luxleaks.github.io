@@ -1,3 +1,36 @@
+- date: 2017-02-10
+  source: Marianne
+  cat: article
+  fr: "LuxLeaks, Antoine Deltour et ses résistants"
+  en: "LuxLeaks, Antoine Deltour and members of his resistance"
+  url: https://www.marianne.net/societe/luxleaks-antoine-deltour-et-ses-resistants
+  lang: fr
+- date: 2017-01-31
+  source: Paperjam
+  cat: article
+  fr: "L’ONU appelle à protéger les lanceurs d’alerte"
+  en: "UN calls for whistleblowers protection"
+  url: http://paperjam.lu/news/lonu-appelle-a-proteger-les-lanceurs-dalerte 
+  lang: fr
+- date: 2017-01-17
+  source: UN News Centre
+  cat: article
+  fr: "Un expert de l’ONU recommande une grâce pour les lanceurs d’alerte"
+  en: "UN expert urges pardons for whistleblowers"
+  url: https://www.un.org/apps/news/story.asp?NewsID=55994
+  lang: en
+- date: 2017-01-09
+  cat: collection
+  fr: "Couverture médiatique de la 5ème journée d'appel"
+  en: "Press coverage of the 5th day of the appeal trial"
+  url: https://support-antoine.org/blog/2017/01/10/appeal-day5/#dans-la-presse
+  lang: fr
+- date: 2017-01-04
+  cat: collection
+  fr: "Couverture médiatique de la 4ème journée d'appel"
+  en: "Press coverage of the 4th day of the appeal trial"
+  url: https://support-antoine.org/blog/2017/01/05/appeal-day4/#dans-la-presse
+  lang: fr
 - date: 2016-12-21
   cat: collection
   fr: "Couverture médiatique de la 3ème journée d'appel"
