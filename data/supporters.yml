@@ -384,6 +384,10 @@ personalities:
     fr: Députée européenne (EFDD)
     en: MEP (EFDD)
     cat: 108meps
+  - name: Mireille Bélis
+    fr: Historienne
+    en: Historian
+    cat: contact
   - name: Miguel Benasayag
     fr: Philosophe, Psychanalyste
     en: Philosopher, Psychanalyst
