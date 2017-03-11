@@ -1280,6 +1280,10 @@ personalities:
     fr: Business &amp; Human Rights Resource Centre
     en: Business &amp; Human Rights Resource Centre
     cat: guardian
+  - name: Hervé Le Corre
+    fr: Écrivain
+    en: Writer
+    cat: contact
   - name: Patrick Le Hyaric
     fr: Député européen (GUE/NGL)
     en: MEP (GUE/NGL)
@@ -1775,6 +1779,10 @@ personalities:
   - name: Jean-Louis Roumégas
     fr: Député (EELV)
     en: French MP
+    cat: contact
+  - name: Christian Roux
+    fr: Écrivain
+    en: Writer
     cat: contact
   - name: Pierre Rosanvallon
     fr: Historien, sociologue
