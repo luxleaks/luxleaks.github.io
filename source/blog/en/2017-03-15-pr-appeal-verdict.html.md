@@ -12,13 +12,15 @@ lang: en
 
 _Luxembourg, March 15, 2017_
 
-Today, Wednesday March 15, the Appeal Court of Luxembourg delivered its judgment on the “LuxLeaks” appeal trial: Antoine Deltour is sentenced to a suspended 6-month jail sentence and a fine of 1,500 €. Raphaël Halet is sentenced to a fine of 1,000 €. The journalist Édouard Perrin is acquitted.
+Today, Wednesday March 15, the Appeal Court of Luxembourg delivered its judgment on the “LuxLeaks” appeal trial: Antoine Deltour is sentenced to a suspended 6-month jail sentence and a fine of 1,500 €. Raphaël Halet is sentenced to a fine of 1,000 €. The journalist Édouard Perrin is acquitted.
 
-This decision from the Luxembourgish justice confirming its previous decision, although with a reduced sentence, still presents a disturbing contradiction: it recognizes the whistleblower’s role and the public interest of the revelations but anyhow concludes on a condemnation. Once again, private financial interests seem to take priority over the collective interest and the rights for information. This sentence postpones the expected change of era in Europe regarding tax issues, whistleblowers’ protection and the right of information. Antoine Deltour declares: _“This disappointing judgment constitutes an additional argument for going ahead with recent European initiatives towards whistleblowers’ protection”_.
+For the first time, a European national judge recognizes the legitimacy of violating the professional secrecy for the general interest. It is an unquestionable moral victory.
 
-Following the sound and precise debates during the hearings, today’s decision by the Court of Appeal appears as a quite creative interpretation of European law, in total discrepancy with existing jurisprudence. Antoine Deltour will go through the arguments presented in the written judgment before deciding whether or not to go to a possible appeal to the Court of Cassation.
+However, this decision from the Luxembourgish justice confirming its previous decision, although with a reduced sentence, still presents a disturbing contradiction: it recognizes the whistleblower’s role and the public interest of the revelations but anyhow concludes on a condemnation. Antoine Deltour was a whistleblower when he transmitted the documents to the journalist, but is convicted for their acquisition. Once again, private financial interests seem to take priority over the collective interest and the rights for information.
 
-Whatever his decision, the support committee continues to stand by him and to promote tax justice, citizen information and whistleblowers’ protection.
+This sentence is therefore far from the expected change of era in Europe regarding tax issues, whistleblowers’ protection and the right of information. Antoine Deltour declares: “This disappointing judgment constitutes an additional argument for going ahead with recent European initiatives towards whistleblowers’ protection”.
+
+Antoine Deltour will go through the arguments presented in the written judgment before deciding whether or not to go to a possible appeal to the
 
 ## Press Contact
 
