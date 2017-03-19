@@ -74,7 +74,7 @@ Le Comité de soutien et l’ensemble des citoyens qui l’accompagnent dans son
 - _Libération_ – [Le Luxembourg maintient la condamnation du lanceur d'alerte des LuxLeaks](http://www.liberation.fr/france/2017/03/15/le-luxembourg-maintient-la-condamnation-du-lanceur-d-alerte-des-luxleaks_1555913)
 - _Magnum la Radio_ – [Info Régionale](http://www.magnumlaradio.com/podcasts/podcasts-info-regionale.html?download=6638:mercredi-soir-15-mars)
 - _Marianne_ – [LuxLeaks : réduction en appel des peines des lanceurs d’alerte Antoine Deltour et Raphaël Halet](https://www.marianne.net/societe/luxleaks-reduction-en-appel-des-peines-des-lanceurs-d-alerte-antoine-deltour-et-raphael)
-- _Mediapart_ – [Le jugement contradictoire du procès «LuxLeaks»](https://www.mediapart.fr/journal/economie/300616/le-jugement-contradictoire-du-proces-luxleaks)
+- _Mediapart_ – [LuxLeaks: la condamnation des lanceurs d’alerte est confirmée](https://www.mediapart.fr/journal/economie/150317/luxleaks-la-condamnation-des-lanceurs-d-alerte-est-confirmee)
 - _PaperJam_ – [Procès LuxLeaks: «Un sentiment mitigé» ](http://paperjam.lu/news/proces-luxleaks-un-sentiment-mitige)
 - _Politis_ – [LuxLeaks : les lanceurs d'alerte condamnés en appel](https://www.politis.fr/articles/2017/03/luxleaks-les-lanceurs-dalerte-condamnes-en-appel-36518/)
 - _RTBF_ – [Luxleaks: prononcé en appel](https://www.rtbf.be/auvio/detail_luxleaks-prononce-en-appel?id=2194942) (vidéo)
