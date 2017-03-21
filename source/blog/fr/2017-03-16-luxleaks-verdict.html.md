@@ -87,6 +87,7 @@ Le Comité de soutien et l’ensemble des citoyens qui l’accompagnent dans son
 ## Des réactions…
 
 - _Attac_ – [Procès en appel LuxLeaks : les lanceurs d’alerte toujours traités en criminels](https://france.attac.org/actus-et-medias/salle-de-presse/article/proces-en-appel-luxleaks-les-lanceurs-d-alerte-toujours-traites-en-criminels)
+- _CADTM_ – [Verdict LuxLeaks : sortis de la zone grise mais pas pour autant blanchis !](https://www.politis.fr/articles/2017/03/verdict-luxleaks-sortis-de-la-zone-grise-mais-pas-pour-autant-blanchis-36527/)
 - _Premières Lignes Télévision_ – [LuxLeaks : Edouard Perrin à nouveau acquitté. Premières Lignes soutient les deux lanceurs d'alerte](http://www.pltv.fr/fr/premieres-lignes-soutient-edouard-perrinde-cash-investigation-mis-en-examen-au-luxembourg/)
 - _Plateforme Paradis Fiscaux et Judiciaires_ – [Procès en appel Luxleaks : les lanceurs d’alerte toujours traités en criminels](http://www.stopparadisfiscaux.fr/nos-actions/mobilisations/luxleaks/article/proces-en-appel-luxleaks-les-lanceurs-d-alerte-toujours-traites-en-criminels)
 - _Greens/European Free Alliance_ – [Un jugement déplorable](http://www.greens-efa.eu/fr/article/press/convictions-show-the-need-for-urgent-eu-protection-of-whistleblowers/)
