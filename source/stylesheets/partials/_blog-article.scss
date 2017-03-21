@@ -65,6 +65,19 @@
 		font-size: 1.2em;
 	}
 
+	.col3 {
+		text-align: center;
+
+		@include outer-container;
+		list-style: none;
+
+		@include media ($medium-screen) {
+			> * {
+				@include span-columns(4);
+			}
+		}
+	}
+
 	figure {
 		margin: 2em auto;
 		img {
