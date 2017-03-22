@@ -1,6 +1,6 @@
 ---
 title: "Assemblée générale et soirée débat, mercredi 5 avril"
-subtitle: "Le Comité de soutien organise son assemblée générale le 5 avril, suivie d’une soirée débat."
+subtitle: "Le Comité de soutien organise son Assemblée générale le 5 avril, suivie d’une soirée débat."
 author: Comité de soutien à Antoine
 ---
 
@@ -15,7 +15,7 @@ Nous ouvrirons les portes dès 19h30, pour que l’AG commence à 20h précises.
 
 ## Soirée débat
 
-L’ssemblée générale statutaire sera suivie d’une table ronde et d’un débat sur la protection des lanceurs d'alerte et les progrès de la justice fiscale.
+L’Assemblée générale statutaire sera suivie d’une table ronde et d’un débat sur la protection des lanceurs d'alerte et les progrès de la justice fiscale.
 
 Avec la participation de:
 
@@ -23,19 +23,19 @@ Avec la participation de:
   <li>
     <img src="/images/news/2017-03-22-philippe-lamberts.png" alt="Portrait de Philippe Lamberts"/>
     <p><b>Philippe Lamberts</b></p>
-    <p style="font-size: 1em;"><a href="http://www.europarl.europa.eu/meps/fr/96648/PHILIPPE_LAMBERTS_home.html">Député européen</a> (co-président du groupe des Verts/ALE), membre de la <a href="http://www.europarl.europa.eu/committees/fr/econ/home.html">commission des affaires économiques</a> au Parlement européen.</p>
+    <p style="font-size: 1em;"><a href="http://www.europarl.europa.eu/meps/fr/96648/PHILIPPE_LAMBERTS_home.html">Député européen</a> (co-président du groupe des Verts/ALE), membre de la <a href="http://www.europarl.europa.eu/committees/fr/econ/home.html">commission des affaires économiques</a> au Parlement européen</p>
     <p style="font-size: 0.8em; line-height: 1;"><small>Photo : © Parlement européen</small></p>
   </li>
   <li>
     <img src="/images/news/2017-03-22-justin-turpel.png" alt="Portrait de Justin Turpel"/>
     <p><b>Justin Turpel</b></p>
-    <p style="font-size: 1em;">Ancien député luxembourgeois (déi Lénk) et membre fondateur du <a href="http://solidarite-deltour-perrin.lu/">Comité de solidarité avec les inculpés du procès dit “LuxLeaks”</a>.</p>
+    <p style="font-size: 1em;">Ancien député luxembourgeois (déi Lénk) et membre fondateur du <a href="http://solidarite-deltour-perrin.lu/">Comité de solidarité avec les inculpés du procès dit “LuxLeaks”</a></p>
     <p style="font-size: 0.8em; line-height: 1;"><small>Photo : © Justin Turpel</small></p>
   </li>
   <li>
     <img src="/images/news/2017-03-22-lucie-watrinet.png" alt="Portrait de Lucie Watrinet"/>
     <p><b>Lucie Watrinet</b></p>
-    <p style="font-size: 1em;">Chargée de plaidoyer au <a href="http://ccfd-terresolidaire.org/">CCFD-Terre Solidaire</a> et coordinatrice de la <a href="http://www.stopparadisfiscaux.fr/">Plateforme Paradis Fiscaux et Judiciaires</a>.</p>
+    <p style="font-size: 1em;">Chargée de plaidoyer au <a href="http://ccfd-terresolidaire.org/">CCFD-Terre Solidaire</a> et coordinatrice de la <a href="http://www.stopparadisfiscaux.fr/">Plateforme Paradis Fiscaux et Judiciaires</a></p>
     <p style="font-size: 0.8em; line-height: 1;"><small>Photo : © Sacha Lenormand CCFD-Terre Solidaire</small></p>
 
   </li>
