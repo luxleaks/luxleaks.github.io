@@ -1,19 +1,15 @@
 .helloasso {
   width:100%;
-  height:1250px;
+  height:1050px;
   margin: 1.5em 0; 
 
   border: none;
 
   @include media ($medium-screen) {
-    // max-width: 80%;
-    // height:1095px;
+    height:1000px;
   }
   @include media ($large-screen) {
-    // width:50em;
-    // height:1070px;
-    // padding-bottom: 3rem;
-    // max-width: 50em;
+    height:800px;
   }
 }
 

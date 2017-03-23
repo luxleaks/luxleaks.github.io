@@ -25,7 +25,7 @@ _If you would like to have access the full statutes of the organization, please 
 
 You can join the Support Committee by filling the membership application form:
 
-<iframe id="haWidget" src="//www.helloasso.com/widgets/izi_adhesion.aspx?beneficiaire=comite-de-soutien-a-antoine-deltour&amp;campagne=adhesion-au-comite-de-soutien-d-antoine-deltour&amp;color=%2370c24a&amp;lang=en" onload="scroll(0,0);" class="helloasso"></iframe> 
+<iframe id="haWidget" class="helloasso" src="https://www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/adhesions/adhesion-au-comite-de-soutien-d-antoine-deltour/widget" ></iframe>
 
 It is also possible to apply offline by downloading the [membership application form](/docs/asso/application-form.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) and sending it (joining the membership fees in cash or cheque payble to "Comité de soutien à Antoine Deltour") to:
 
