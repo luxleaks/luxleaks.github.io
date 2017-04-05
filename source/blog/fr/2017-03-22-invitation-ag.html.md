@@ -4,9 +4,13 @@ subtitle: "Le Comité de soutien organise son Assemblée générale le 5 avril, 
 author: Comité de soutien à Antoine
 ---
 
-Depuis deux ans déjà, de nombreux citoyennes et citoyens soutiennent Antoine Deltour dans son combat. Nous les remercions, leur présence à ses côtés l’a grandement aidé, et a contribué à divulguer son message !
+Retransmission en direct à partir de 20h ([voir sur YouTube](https://www.youtube.com/watch?v=v7RbfHQuF1A)):
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/v7RbfHQuF1A" frameborder="0" allowfullscreen></iframe>
 
 ## Assemblée générale
+
+Depuis deux ans déjà, de nombreux citoyennes et citoyens soutiennent Antoine Deltour dans son combat. Nous les remercions, leur présence à ses côtés l’a grandement aidé, et a contribué à divulguer son message !
 
   Le Comité de soutien, association loi 1901, tiendra son Assemblée générale annuelle le <span style="display: block; text-align: center; margin-top: 1em;">**Mercredi 5 avril 2017, à 20 heures**</span>
   <span style="display: block; text-align: center; margin-bottom: 1em;">à l’amphi de la [Faculté de Droit d’Épinal](http://fac-droit.univ-lorraine.fr/content/venir-la-faculte).</span>
@@ -46,7 +50,7 @@ Avec la participation de:
 
 ## Retransmission vidéo
 
-Comme l’année dernière, la soirée sera retransmise en direct, en ligne. Le lien sera annoncé en début de soirée sur cette page, ainsi que sur les réseaux sociaux !
+Comme l’année dernière, la soirée sera [retransmise en direct](https://www.youtube.com/watch?v=v7RbfHQuF1A), à partir de 20h !
 
 <figure>
   <img src="/images/news/2017-03-22-AG.jpg" alt="Vue sur la soirée de création de l’association, depuis le fond de la salle. Au fond, Antoine prend la parole devant le vidéo projecteur"/>
