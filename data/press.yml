@@ -1,4 +1,4 @@
-- date: 2017-03-15
+- date: 2017-04-05
   cat: collection
   fr: "Couverture médiatique de l’annonce du pourvoi en cassation"
   en: "Press coverage of Antoine’s decision to appeal to higher court"
@@ -29,7 +29,7 @@
   cat: article
   fr: "L’ONU appelle à protéger les lanceurs d’alerte"
   en: "UN calls for whistleblowers protection"
-  url: http://paperjam.lu/news/lonu-appelle-a-proteger-les-lanceurs-dalerte 
+  url: http://paperjam.lu/news/lonu-appelle-a-proteger-les-lanceurs-dalerte
   lang: fr
 - date: 2017-01-17
   source: UN News Centre
@@ -80,14 +80,14 @@
   cat: portrait
   fr: "Un lanceur d'alerte devant les juges"
   en: "A whistleblower before the judges"
-  url: http://www.leparisien.fr/informations/un-lanceur-d-alerte-devant-les-juges-12-12-2016-6443238.php 
+  url: http://www.leparisien.fr/informations/un-lanceur-d-alerte-devant-les-juges-12-12-2016-6443238.php
   lang: fr
 - date: 2016-12-12
   source: Le Soir
   cat: article
   fr: "Les enjeux du second procès LuxLeaks"
   en: "The stakes of the second LuxLeaks trial"
-  url: http://www.lesoir.be/1389904/article/selection-abonnes/2016-12-12/luxleaks-voici-enjeux-du-second-proces 
+  url: http://www.lesoir.be/1389904/article/selection-abonnes/2016-12-12/luxleaks-voici-enjeux-du-second-proces
   lang: fr
 - date: 2016-12-12
   source: La Croix
@@ -108,7 +108,7 @@
   cat: article
   fr: "Luxleaks  : Deuxième round"
   en: "Luxleaks : Round Two"
-  url: http://www.woxx.lu/luxleaks-deuxieme-round/ 
+  url: http://www.woxx.lu/luxleaks-deuxieme-round/
   lang: fr
 - date: 2016-11-28
   source: Le Quotidien
@@ -129,7 +129,7 @@
   cat: interview
   fr: "« Nous avons besoin d’une meilleure protection des lanceurs d’alerte en Europe »"
   en: "We need better protection for whistleblowers in Europe"
-  url: http://sz-magazin.sueddeutsche.de/texte/anzeigen/45224/Wir-braeuchten-in-Europa-besseren-Schutz-fuer-Whistleblower 
+  url: http://sz-magazin.sueddeutsche.de/texte/anzeigen/45224/Wir-braeuchten-in-Europa-besseren-Schutz-fuer-Whistleblower
   lang: de
 - date: 2016-10-17
   source: L’Est Républicain
@@ -178,7 +178,7 @@
   cat: article
   fr: "Des eurodéputés soutiennent les lanceurs d'alerte condamnés des LuxLeaks"
   en: "MEPs offer support to convicted LuxLeaks whistleblowers"
-  url: https://www.theguardian.com/business/2016/sep/08/meps-support-convicted-luxleaks-whistleblowers-luxembourg? 
+  url: https://www.theguardian.com/business/2016/sep/08/meps-support-convicted-luxleaks-whistleblowers-luxembourg?
   lang: en
 - date: 2016-08-02
   source: Le Parisien
@@ -248,7 +248,7 @@
   cat: radio-oped
   fr: "La mécanique médiatique : « Secret des affaires et lanceurs d'alerte »"
   en: "The media machinery: “Trade secrets and whistleblowers”"
-  url: https://www.franceinter.fr/emissions/la-mecanique-mediatique/la-mecanique-mediatique-01-juillet-2016 
+  url: https://www.franceinter.fr/emissions/la-mecanique-mediatique/la-mecanique-mediatique-01-juillet-2016
   lang: fr
 - date: 2016-06-30
   source: Médiapart
@@ -262,14 +262,14 @@
   cat: article
   fr: "Évasion fiscale: “Grand dodgy”"
   en: "Tax avoidance: Grand dodgy"
-  url: http://www.economist.com/news/finance-and-economics/21701532-good-deeds-luxembourg-leakers-do-not-go-unpunished-grand-dodgy?fsrc=scn/fb/te/pe/ed/granddodgy 
+  url: http://www.economist.com/news/finance-and-economics/21701532-good-deeds-luxembourg-leakers-do-not-go-unpunished-grand-dodgy?fsrc=scn/fb/te/pe/ed/granddodgy
   lang: en
 - date: 2016-06-29
   source: The Guardian
   cat: article
   fr: "Les lanceurs d'alerte des LuxLeaks évitent la prison mais sont jugés coupables"
   en: "LuxLeaks whistleblower avoids jail after guilty verdict"
-  url: https://www.theguardian.com/world/2016/jun/29/luxleaks-pwc-antoine-deltour-avoids-jail-but-is-convicted-of-theft 
+  url: https://www.theguardian.com/world/2016/jun/29/luxleaks-pwc-antoine-deltour-avoids-jail-but-is-convicted-of-theft
   lang: en
 - date: 2016-06-29
   source: Euractiv
@@ -292,70 +292,70 @@
   en: "LuxLeaks, Deltour found guilty. “I won't stop here, in name of whistleblowers”."
   url: http://www.repubblica.it/esteri/2016/06/29/news/luxleaks_deltour_parla_il_whistleblower_lussemburgo-143091786/
   lang: fr
-- date: 2016-06-27 
-  source: Rue89 Strasbourg 
+- date: 2016-06-27
+  source: Rue89 Strasbourg
   cat: interview
   fr: "On a rencontré le vosgien Antoine Deltour, cauchemar du capitalisme européen"
   en: "We met with Antoine Deltour, the bugbear of european capitalism"
   url: http://www.rue89strasbourg.com/rencontre-antoine-deltour-terreur-capitalisme-europeen-108106
   lang: fr
-- date: 2016-06-23 
-  source: Le Monde 
+- date: 2016-06-23
+  source: Le Monde
   cat: article
   fr: "Lanceurs d'alerte : la loi Sapin 2 va t-elle assez loin ?"
   en: "Whistleblowers: does the law ‘Sapin 2’ go far enough?"
   url: http://www.lemonde.fr/idees/article/2016/06/23/lanceurs-d-alerte-la-loi-sapin-2-va-t-elle-assez-loin_4956589_3232.htm
   lang: fr
-- date: 2016-06-07 
-  source: Magazine La chronique d'Amnesty International 
+- date: 2016-06-07
+  source: Magazine La chronique d'Amnesty International
   cat: article
   fr: "LuxLeaks : l'intérêt général en procès"
   en: "LuxLeaks: the trial of the general interest"
   url: http://asp.zone-secure.net/v2/index.jsp?id=1084/1367/64880&lng=fr (page 14)
   lang: fr
-- date: 2016-05-27 
-  source: Libération 
+- date: 2016-05-27
+  source: Libération
   cat: article
   fr: "A Paris comme à Bruxelles, les lanceurs d'alerte trahis par les mots"
   en: "In Paris or in Brussels, whistleblowers are betrayed by the words"
   url: http://www.liberation.fr/france/2016/05/27/a-paris-comme-a-bruxelles-les-lanceurs-d-alerte-trahis-par-les-mots_1455581
   lang: fr
-- date: 2016-05-19 
-  source: The Conversation 
+- date: 2016-05-19
+  source: The Conversation
   cat: article
   fr: "Le statut des lanceurs d’alerte à l’épreuve du procès LuxLeaks"
   en: "The status of whistleblowers is tested by the LuxLeaks trial"
   url: https://theconversation.com/le-statut-des-lanceurs-dalerte-a-lepreuve-du-proces-luxleaks-59356
   lang: fr
-- date: 2016-05-19 
+- date: 2016-05-19
   source: Les Echos
   cat: article
   fr: "Loi Sapin II : Vers une agence nationale pour protéger les lanceurs d’alerte"
   en: "Law ‘Sapin II’: towards a national agency for the protection of whistleblowers"
   url: http://www.lesechos.fr/economie-france/budget-fiscalite/021947119851-vers-une-agence-nationale-pour-proteger-les-lanceurs-dalerte-1223170.php#
   lang: fr
-- date: 2016-05-17 
+- date: 2016-05-17
   source: The Accountant
   cat: article
   en: "Edito : Antoine Deltour, le Daniel Ellsberg de la comptabilité"
   fr: "Editor's letter: Antoine Deltour – the Daniel Ellsberg of accountancy"
   url: http://www.theaccountant-online.com/blog/editors-letter-antoine-deltour-the-daniel-ellsberg-of-accountancy/
   lang: en
-- date: 2016-05-15 
-  source: El Diaro 
+- date: 2016-05-15
+  source: El Diaro
   cat: article
   fr: "LuxLeaks : Révélations de secrets ou service public?"
   en: "LuxLeaks: disclosure of secrets or public service?"
   url: http://www.eldiario.es/cultura/tecnologia/privacidad/LuxLeaks-Revelacion-secretos-servicio-publico_0_515499332.htm
   lang: es
-- date: 2016-05-14 
-  source: Der Spiegel 
+- date: 2016-05-14
+  source: Der Spiegel
   cat: article
   fr: "Dans l'intérêt de l'Europe"
   en: "In Europe's interest"
   url: https://magazin.spiegel.de/SP/2016/20/144788074/index.html
   lang: de
-- date: 2016-05-12 
+- date: 2016-05-12
   source: Le Quotidien
   cat: article
   fr: "LuxLeaks : La relaxe ou le purgatoire"
@@ -377,7 +377,7 @@
   fr: "Couverture médiatique de la 6ème audience"
   en: "Press coverage of the 6th hearing"
   url: https://support-antoine.org/blog/2016/05/04/trial-day6/#dans-la-presse
-- date: 2016-05-03 
+- date: 2016-05-03
   source: AFP
   cat: article
   fr: "Antoine Deltour « fier » d'avoir fait avancer le débat fiscal en Europe"
@@ -768,7 +768,7 @@
   from: "11'"
 - date: 2014-12-14
   source: "Libération"
-  cat: interview 
+  cat: interview
   fr: "LuxLeaks - « J’ai agi par conviction, la cohérence était d’assumer »"
   en: "LuxLeaks – “I acted out of conviction”"
   url: http://www.liberation.fr/economie/2014/12/14/luxleaks-j-ai-agi-par-conviction-la-coherence-etait-d-assumer_1163498
