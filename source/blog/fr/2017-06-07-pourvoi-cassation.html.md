@@ -1,14 +1,17 @@
 ---
-title: "Pourvoi en cassation : dossier déposé"
+title: "Pourvoi en cassation : procédure en cours"
 subtitle: "Le dossier du pourvoi en cassation est déposé. Jugement dans quelques mois."
 author: Comité de soutien à Antoine
 ---
+
+_texte actualisé le 20 juillet 2017_
 
 ## Pourvoi déposé
 
 Le 17 mai, les avocats d'Antoine ont déposé le document de pourvoi auprès la Cour de cassation du Luxembourg. Cette démarche fait suite à la décision d'Antoine de se pourvoir en cassation, annoncée le 5 avril dernier lors de l'assemblée générale du comité de soutien.
 
-La Cour de cassation de Luxembourg statuera sur le pourvoi dans quelques mois, vraisemblablement en fin d'année ou début d'année prochaine. A cette occasion, il y aura une audience publique où seuls les avocats seront amenés à prendre la parole. En parallèle, Raphaël Halet, l'autre lanceur d'alerte de l'affaire LuxLeaks condamné en appel, a également déposé un dossier de pourvoi.
+La Cour de cassation de Luxembourg statuera sur le pourvoi auprès l'audition publique des avocats qui est planifiée pour le **23 novembre 2017**.
+Raphaël Halet, l'autre lanceur d'alerte condamné dans l'affaire LuxLeaks a également déposé un dossier de pourvoi.
 
 Le jugement en cassation ne statuera qu’en droit, c’est-à-dire que la Cour ne reviendra pas sur l’ensemble de l’affaire et étudiera uniquement la bonne application – ou non – des règles de droit.
 
