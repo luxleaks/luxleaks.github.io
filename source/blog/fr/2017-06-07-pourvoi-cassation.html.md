@@ -1,6 +1,6 @@
 ---
 title: "Pourvoi en cassation : procédure en cours"
-subtitle: "Le dossier du pourvoi en cassation est déposé. Jugement dans quelques mois."
+subtitle: "Le dossier du pourvoi en cassation est déposé. Audition le 23 novembre 2017."
 author: Comité de soutien à Antoine
 ---
 

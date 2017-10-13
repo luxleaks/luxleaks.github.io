@@ -1,3 +1,24 @@
+- date: 2017-09-05
+  source: Vosges Matin
+  cat: article
+  fr: "Un dernier épisode judiciaire pour Antoine Deltour"
+  en: "A final judicial episode for Antoine Deltour"
+  url: http://www.vosgesmatin.fr/edition-d-epinal/2017/09/05/un-dernier-episode-judiciaire-pour-antoine-deltour
+  lang: fr
+- date: 2017-08-01
+  source: France Info
+  cat: radio-show
+  fr: "Que devient Antoine Deltour, le lanceur d'alerte de l'affaire LuxLeaks ?"
+  en: "What happens to Antoine Deltour, the whistleblower of the LuxLeaks case?"
+  url: http://www.francetvinfo.fr/replay-radio/ils-ont-fait-l-actu/que-devient-antoine-deltour-le-lanceur-d-alerte-de-l-affaire-luxleaks_2287718.html
+  lang: fr
+- date: 2017-07-29
+  source: France Inter
+  cat: radio-show
+  fr: "Invité de l'émission « Lanceurs d'alerte » animée par Claire Nouvian"
+  en: "Guest of the show “Whistleblowers” hosted by Claire Nouvian"
+  url: https://www.franceinter.fr/emissions/lanceurs-d-alerte/lanceurs-d-alerte-29-juillet-2017
+  lang: fr
 - date: 2017-04-05
   cat: collection
   fr: "Couverture médiatique de l’annonce du pourvoi en cassation"

@@ -1,6 +1,6 @@
 ---
 title: " Appeal to higher court, an ongoing process"
-subtitle: "The file of the cassation appeal has been submitted. Judgment expected in a few months."
+subtitle: "The file of the cassation appeal has been submitted. Hearing on Novemver 23, 2017."
 author: Antoine's support committee
 lang: en
 ---
