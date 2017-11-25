@@ -30,7 +30,6 @@ After these brief pleadings, the President of the Court of Cassation closed the 
   <figcaption>Antoine Deltour<br/>Comité de soutien à Antoine Deltour – CC BY-SA 4.0</figcaption>
 </figure>
 
-
 ## Unfailing support!
 
 Despite the expected brevity of the audience, about fifty supporters came to support the whistleblowers, including about thirty who travelled by bus from Lorraine with the Support Committee, as well as several members of the Luxembourgish Solidarity Committee.
@@ -53,6 +52,7 @@ See you on 11 January for the announcement of the verdict of the Court of Cassat
 
 - _Delano_ - [Luxleaks whistleblowers’ appeal starts Thursday](http://delano.lu/d/detail/news/luxleaks-whistleblowers-appeal-starts-thursday/162014)
 - _EU Observer_ - [LuxLeaks trial re-opens debate on whistleblowers’ protection](https://euobserver.com/justice/139989)
+- _Luxemburger Wort_ - [Luxleaks journalist files a complaint against PwC](https://www.wort.lu/en/luxembourg/whistle-blowers-luxleaks-journalist-files-a-complaint-against-pwc-5a17e6bbc1097cee25b77c5c)
 - _Tageblatt_ - [Wird das Urteil „cassiert“ oder nicht?](http://www.tageblatt.lu/nachrichten/luxemburg-nachrichten/wird-das-urteil-cassiert-oder-nicht/) (in German)
 - _Transparency International_ – [Antoine Deltour: LuxLeaks whistleblower’s long legal battle continues](https://www.transparency.org/news/feature/antoine_deltour_luxleaks_whistleblowers_long_legal_battle_continues) (press release)
 
