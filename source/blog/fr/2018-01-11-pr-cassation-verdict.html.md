@@ -1,5 +1,5 @@
 ---
-title: "Procès LuxLeaks : verdict de la Cour de cassation"
+title: "Verdict de la Cour de cassation: une victoire indéniable !"
 subtitle: <b>Communiqué de Presse</b> 
 author: Comité de soutien à Antoine
 category: pr

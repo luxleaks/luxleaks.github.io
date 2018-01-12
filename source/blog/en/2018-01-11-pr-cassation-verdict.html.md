@@ -1,5 +1,5 @@
 ---
-title: "LuxLeaks trial: Verdict of the Court of Cassation"
+title: "Verdict of the Court of Cassation: an undeniable victory!"
 subtitle: <b>Press Release</b> 
 author: Antoine's support committee
 category: pr
