@@ -1,3 +1,43 @@
+- date: 2018-02-26
+  source: Le Quotidien
+  cat: article
+  fr: "Affaire LuxLeaks : le lanceur d’alerte Antoine Deltour sera rejugé fin mars"
+  en: "LuxLeaks trial: whistleblower Antoine Deltour will be re-tried in late March"
+  url: http://www.lequotidien.lu/a-la-une/affaire-luxleaks-le-lanceur-dalerte-antoine-deltour-rejuge-fin-mars-en-appel/
+  lang: fr
+- date: 2018-01-24
+  source: The Progressive Post
+  cat: interview
+  fr: "Je connais très peu de lanceurs d’alerte qui regrettent leur action"
+  en: "I know very few whistleblowers who regret their actions"
+  url: https://progressivepost.eu/i-know-whistleblowers-regret-actions-thats-case/
+  lang: en
+- date: 2018-01-11
+  cat: collection
+  fr: "Couverture médiatique du verdict de la Cour de cassation"
+  en: "Press coverage of the verdict of the higher appeal"
+  url: https://support-antoine.org/blog/2018/02/11/next-step/
+  lang: fr
+- date: 2017-12-12
+  source: France Inter
+  cat: radio-show
+  fr: "Les affaires de “leaks” : les scandales de l’évasion fiscale"
+  en: "The “leaks” cases: the tax evasion scandals"
+  url: https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-12-decembre-2017
+  lang: fr
+- date: 2017-11-23
+  cat: collection
+  fr: "Couverture médiatique de l’audience de cassation"
+  en: "Press coverage of the hearing for the higher appeal"
+  url: https://support-antoine.org/blog/2017/11/23/cassation
+  lang: fr
+- date: 2017-10-24
+  source: La Dépêche du Midi
+  cat: article
+  fr: "Le Parlement européen veut mieux protéger les lanceurs d'alerte"
+  en: "The European Parliament wants to better protect whistleblowers"
+  url: https://www.ladepeche.fr/article/2017/10/24/2671898-lanceurs-alerte-parlement-europeen-adopte-rapport-virginie-roziere.html
+  lang: fr
 - date: 2017-09-05
   source: Vosges Matin
   cat: article
