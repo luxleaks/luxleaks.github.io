@@ -4,9 +4,9 @@ subtitle: "Le Comité de soutien organise son Assemblée générale le 15 juin 2
 author: Comité de soutien à Antoine
 ---
 
-Retransmission en direct à partir de 20h (_sous réserve de possibilité technique, lien à venir_):
+Retransmission en direct à partir de 20h:
 
-<!-- <iframe width="640" height="360" src="https://www.youtube.com/embed/v7RbfHQuF1A" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/94W_V589d-w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Assemblée générale
 
@@ -55,7 +55,7 @@ Avec la participation de:
 
 ## Retransmission vidéo
 
-Comme l’année dernière – sous réserve de possibilité technique – la soirée sera retransmise en direct à partir de 20h (_lien à venir_)!
+Comme l’année dernière – sous réserve de possibilité technique – la soirée sera retransmise en direct à partir de 20h ([voir sur YouTube](https://www.youtube.com/watch?v=94W_V589d-w))!
 
 <figure>
   <img src="/images/news/2018-05-31-AG.jpg" alt="Vue sur la soirée de création de l’association, depuis le fond de la salle. Au fond, Antoine prend la parole devant le vidéo projecteur"/>
