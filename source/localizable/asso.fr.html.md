@@ -3,6 +3,8 @@ layout: page
 ---
 # Comité de Soutien à Antoine&nbsp;Deltour
 
+**L’Assemblée générale du 15 juin 2018 a décidé la mise en dissolution du Comité de soutien à Antoine Deltour. Un énorme merci à toutes les adhérentes et adhérents qui nous ont accompagné·e·s  dans ce combat !**
+
 ## L'association
 
 Le comité de soutien à Antoine Deltour s’est officiellement constitué en association régie par la loi du 1er juillet 1901. L'association a pour objet :
@@ -19,16 +21,3 @@ L’association a été créée par une assemblée générale constitutive à Ep
 L’association est notamment chargée de gérer les fonds collectés pour assurer la défense d’Antoine (frais d’avocats, financement de la campagne de soutien, …). Elle sera sans doute appelée à être dissoute lorsque les actions judiciaires envers Antoine seront éteintes. Lors de sa dissolution, l'actif sera dévolu à une ou plusieurs associations œuvrant pour la défense des lanceurs d’alerte ou la lutte contre les paradis fiscaux.
  
 _Les personnes désireuses de consulter l’intégralité des statuts peuvent en faire la demande en écrivant au Comité._
-
-## Comment adhérer ?
-
-Vous pouvez adhérer à l'association via la plateforme [HelloAsso](https://www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/adhesions/adhesion-au-comite-de-soutien-d-antoine-deltour) en utilisant le formulaire ci-dessous :
-
-<iframe id="haWidget" class="helloasso" src="https://www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/adhesions/adhesion-au-comite-de-soutien-d-antoine-deltour/widget" ></iframe>
-
-Il est également possible d'adhérer par voie postale en téléchargeant le [bulletin d'adhésion](/docs/asso/bulletin-adhesion.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) et en l'envoyant avec le règlement (en espèces ou chèque à l'ordre de "Comité de Soutien à Antoine Deltour") à l'adresse de l'association&nbsp;:
-
-Comité de soutien à Antoine Deltour  
-Centre Léo Lagrange  
-BP 1006  
-88050 EPINAL Cedex 9

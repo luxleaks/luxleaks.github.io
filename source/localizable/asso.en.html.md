@@ -3,6 +3,8 @@ layout: page
 ---
 # Antoine&nbsp;Deltour Support Committee
 
+**The Annual General Meeting of June 15, 2018, approved the dissolution of Antoine Deltour’s support committee. A huge thanks to all the people who joined us in this fight!**
+
 ## Organization
 
 The Antoine Deltour's support committee is a non-profit organization, registered in France as an "Assocation Loi de 1901". Its objectives are:
@@ -20,17 +22,3 @@ The organization is administered by a council of twelve co-presidents, three of 
 The support committee is notably in charge of managing the funds raised for Antoine Deltour's defense (legal services, communication campaigns, etc.). The organization will likely be dissolved when all legal proceedings come to an end. After its dissolution, any remaining funds will be transferred to one or more organizations promoting a protection framework for whistleblowers or fighting against tax injustice and tax havens.
 
 _If you would like to have access the full statutes of the organization, please write to the support committee._
-
-## How to Join?
-
-You can join the Support Committee by filling the membership application form:
-
-<iframe id="haWidget" class="helloasso" src="https://www.helloasso.com/associations/comite-de-soutien-a-antoine-deltour/adhesions/adhesion-au-comite-de-soutien-d-antoine-deltour/widget" ></iframe>
-
-It is also possible to apply offline by downloading the [membership application form](/docs/asso/application-form.pdf) (PDF <i class="fa fa-file-pdf-o"></i> - 63 Ko) and sending it (joining the membership fees in cash or cheque payble to "Comité de soutien à Antoine Deltour") to:
-
-Comité de soutien à Antoine Deltour  
-Centre Léo Lagrange  
-BP 1006  
-88050 EPINAL Cedex 9  
-France
