@@ -60,6 +60,7 @@ en:
     cat:
       collection: Press review
       file: File
+      flash: News flash
       editorial: Editorial
       interview: Interview
       radio-oped: Radio Op-ed

@@ -1,3 +1,123 @@
+- date: 2018-06-16
+  source: El Diaro
+  cat: article
+  fr: "La victoire judiciaire d'Antoine Deltour, le lanceur d’alerte qui a révelé la structure fiscale de 300 entreprises en Europe"
+  en: "The judicial victory of Antoine Deltour, the whistleblower who uncovered the tax structure of 300 companies in Europe"
+  url: https://www.eldiario.es/tecnologia/Antoine-Deltour-filtrador-LuxLeaks-whistleblowers_0_782522777.html
+  lang: es 
+- date: 2018-05-16
+  source: Le Soir+
+  cat: article
+  fr: "Le parcours du combattant du père des LuxLeaks"
+  en: "The obstacle course of the father of the LuxLeaks"
+  url: http://plus.lesoir.be/157139/article/2018-05-16/le-parcours-du-combattant-du-pere-des-luxleaks
+  lang: fr 
+- date: 2018-05-16
+  source: Le Quotidien
+  cat: édito
+  fr: "LuxLeaks : une victoire et des regrets"
+  en: "LuxLeaks : a victory and a few regrets"
+  url: http://www.lequotidien.lu/editoriaux/affaire-deltour-une-victoire-et-des-regrets/
+  lang: fr 
+- date: 2018-05-16
+  source: Est Républicain
+  cat: article
+  fr: "Luxleaks : Antoine Deltour paiera « le prix d’un café »"
+  en: "Luxleaks : Antoine Deltour will pay « the price of a coffee »"
+  url: https://www.estrepublicain.fr/actualite/2018/05/16/luxleaks-antoine-deltour-paiera-le-prix-d-un-cafe
+  lang: fr 
+- date: 2018-05-15
+  source: France Info TV – France 3
+  cat: article
+  fr: "Luxleaks : fin heureuse du calvaire pour le vosgien Antoine Deltour"
+  en: "Luxleaks : happy ending for the ordeal of Antoine Deltour"
+  url: https://france3-regions.francetvinfo.fr/grand-est/luxleaks-fin-heureuse-du-calvaire-vosgien-antoine-delcourt-1475997.html
+  lang: fr 
+- date: 2018-05-15
+  source: Vosges Matin
+  cat: article
+  fr: "Luxleaks : Antoine Deltour échappe à une sanction pénale"
+  en: "Luxleaks : Antoine Deltour avoids any penalty"
+  url: https://www.vosgesmatin.fr/vosges/2018/05/15/luxleaks-antoine-deltour-echappe-a-une-sanction-penale
+  lang: fr 
+- date: 2018-05-15
+  source: Vosges TV
+  cat: article
+  fr: "Luxleaks : Antoine Deltour n'est plus inquiété !"
+  en: "Luxleaks : Antoine Deltour no longer in trouble!"
+  url: https://www.vosgestelevision.tv/Info-en-plus/Luxleaks-Antoine-Deltour-n-est-plus-inquiete-!-%3CBR-%3E-CYBVdHvtdk.html
+  lang: fr 
+- date: 2018-05-15
+  source: Le Quotidien
+  cat: article
+  fr: "LuxLeaks : suspension du prononcé pour le lanceur d’alerte Antoine Deltour"
+  en: "LuxLeaks : withheld judgment for the whistleblower Antoine Deltour"
+  url: http://www.lequotidien.lu/a-la-une/luxleaks-suspension-du-prononce-pour-le-lanceur-dalerte-antoine-deltour/
+  lang: fr 
+- date: 2018-05-15
+  source: WOXX magazine
+  cat: article
+  fr: "Luxleaks : Un euro tout de même"
+  en: "Luxleaks : One Euro, even so"
+  url: http://www.woxx.lu/luxleaks-un-euro-tout-de-meme/
+  lang: fr 
+- date: 2018-05-15
+  source: Luxembürger Wort
+  cat: article
+  fr: "Luxleaks: fin du feuilleton judiciaire pour Antoine Deltour"
+  en: "Luxleaks: the end of the judicial saga of Antoine Deltour"
+  url: https://www.wort.lu/fr/economie/luxleaks-fin-du-feuilleton-judiciaire-pour-antoine-deltour-5afaedb4c1097cee25b895f3
+  lang: fr 
+- date: 2018-05-15
+  source: PaperJam Magazine
+  cat: article
+  fr: "Suspension du prononcé pour Deltour"
+  en: "Judgement withheld for Deltour"
+  url: http://paperjam.lu/news/suspension-du-prononce-pour-deltour
+  lang: fr 
+- date: 2018-05-15
+  source: AFP (via Le Point)
+  cat: article
+  fr: "LuxLeaks: peine suspendue pour le lanceur d'alerte Antoine Deltour"
+  en: "LuxLeaks: penalty withheld for the whistleblower Antoine Deltour"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: fr 
+
+- date: 2018-05-15
+  source: EU Observer
+  cat: flash
+  fr: "La saga judiciaire du lanceur d’alerte des LuxLeaks se termine sans condamnation"
+  en: "LuxLeaks whistleblower legal saga ends with no sentence"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: en 
+- date: 2018-05-15
+  source: Luxembourg Times
+  cat: article
+  fr: "LuxLeaks: la bataille judiciaire de Deltour se termine en victoire"
+  en: "LuxLeaks: Deltour's court battle ends in victory"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: en
+- date: 2018-05-15
+  source: Tax Justice Network
+  cat: article
+  fr: "Verdict LuxLeaks: de l’espoir pour les lanceurs d’alerte avec l’acquittement d’Antoine Deltour"
+  en: "LuxLeaks verdict: hope for whistleblowers as Antoine Deltour is acquitted"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: en
+- date: 2018-05-15
+  source: Lokalo.de
+  cat: article
+  fr: "Pas de condamnation dans le procès « LuxLeaks »"
+  en: "No sentence in the “LuxLeaks” trial"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: de
+- date: 2018-05-15
+  source: Neues Deutschland
+  cat: article
+  fr: "Le lanceur d'alerte Deltour ne sera pas condamné"
+  en: "Whistleblower Deltour won’t be convicted"
+  url: http://www.lepoint.fr/societe/luxleaks-peine-suspendue-pour-le-lanceur-d-alerte-antoine-deltour-15-05-2018-2218658_23.php
+  lang: de
 - date: 2018-03-27
   cat: collection
   fr: "Couverture médiatique de l’audience du nouvel appel"
