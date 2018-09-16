@@ -29,9 +29,13 @@ fr:
   home:
     about: L'Affaire
     more: En savoir plus
-    support: Soutenir
-    subtitle: "Suite aux révélations sur le système d'optimisation fiscale à grande échelle, le lanceur d'alerte des LuxLeaks est poursuivi."
-    title: "Soutenons Antoine Deltour&nbsp;!"
+    support: Le soutien
+    subtitle: >
+      Antoine Deltour, le lanceur d’alerte des LuxLeaks– qui ont mis au jour
+      les pratiques d’évasion fiscale systèmiques des multinationales – 
+      est définitivement acquitté.</p><p>Merci à toutes et à tous pour l’avoir soutenu
+      au cours de son long combat judiciaire !
+    title: "Merci Antoine&nbsp;!"
   members:
     text: Antoine Deltour bénéficie déjà de %{link}&#x202f;!
     link: nombreux soutiens publics
@@ -68,15 +72,20 @@ fr:
       video: Vidéo
       video-report: Reportage vidéo
   support:
-    title: "Comment aider Antoine&nbsp;?"
-    action_text: "Signez la pétition, participez au financement de la défense ou %{join}... Merci&nbsp;!"
+    title: "Merci pour votre soutien!"
+    action_text: >
+        Suite à l’acquittement d’Antoine Deltour, son long combat
+        judiciaire est désormais derrière lui.</p><p> La lutte pour la
+        justice fiscale et la protection des lanceurs d’alerte
+        n’est malheureusement pas finie… poursuivons notre engagement auprès
+        d’autres structures !
     share_text: "Partagez ce site dans vos réseaux, parlez-en autour de vous&#x202f;!"
     join: "adhérez à l'association"
     twitter: "Je soutiens Antoine, lanceur d'alerte des #LuxLeaks"
     email: "Soutenons Antoine, lanceur d'alerte des LuxLeaks&#x202f;!"
     facebook: "Je soutiens Antoine, lanceur d'alerte des LuxLeaks"
     petition: //www.change.org/SoutenonsAntoineDeltour
-    sign: "Signer la pétition"
+    sign: "Voir la pétition (fermée)"
     donate: "Faire un don"
   supporters:
     title: Soutiens publics

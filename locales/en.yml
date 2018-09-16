@@ -30,8 +30,11 @@ en:
     about: Read More
     more: More
     support: Support
-    subtitle: "Following the disclosure of large-scale tax avoidance schemes, the LuxLeaks whistleblower is on trial."
-    title: "Support Antoine Deltour!"
+    subtitle: >
+      Antoine Deltour, the whistleblower of the LuxLeaks who helped revealing the systemic
+      tax evasion practices of multinationals, has been definitively acquitted.</p><p>
+      Thanks everyone for your support in his long judicial battle!
+    title: "Thank you Antoine!"
   nav:
     asso: Join
     blog: News
@@ -67,8 +70,11 @@ en:
       video: Video
       video-report: Video report
   support:
-    title: "How to support Antoine&nbsp;?"
-    action_text: "Pledge your support, contribute to the defence fund, or %{join}... Thanks!"
+    title: "Thank you for your support!"
+    action_text: >
+        Following his acquittal, Antoine Deltour’s judicial battle is now behind
+        him.</p><p>The fight for tax justice and better protection of whistleblowers
+        is unfortunatley not over… let’s carry on with other organizations!
     share_text: "Share this web site in your social networks, spread the word!"
 
     text: ", %{join}... Thank&nbsp;you!"
@@ -77,7 +83,7 @@ en:
     email: "Support Antoine, LuxLeaks whistleblower!"
     facebook: "I support Antoine, LuxLeaks' whistleblower"
     petition: //www.change.org/SupportAntoineDeltour
-    sign: "Sign the petition"
+    sign: "View the petition (closed)"
     donate: "Donate now"
   supporters:
     title: Supporters
