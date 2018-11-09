@@ -1,0 +1,30 @@
+# support-antoine.org
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Content: from Antoine Deltour's support committee
+    Dev & Design: Romain Deltour -- @rdeltour
+
+# THANKS
+
+    Anyone who supports Antoine
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    Built with Middleman, with Sass/Bourbon/Neat
+
+# Credits
+
+    * Cover background image "Taxes" by Jason Dirk, licensed under CC-BY_SA
+        https://www.flickr.com/photos/jasondirks/4016256174/
+        https://creativecommons.org/licenses/by-sa/2.0/
+    * Main theme adapted from the "Agency" theme by StartBoostrap
+        http://ironsummitmedia.github.io/startbootstrap-agency/
+    * Vertical timeline concept adapted from a concept by Sebastiano Guerriero
+        http://codyhouse.co/gem/vertical-timeline/
+    * Some CSS effect inspired from the Codrops web site
+        http://tympanus.net/codrops/
+

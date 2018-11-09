@@ -1,0 +1,4 @@
+# robotstxt.org/
+
+User-agent: *
+Sitemap: https://support-antoine.org/sitemap.xml
